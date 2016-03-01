@@ -44,7 +44,7 @@ PO Box 5031
 2600 GA Delft
 The Netherlands
 
-Office: HB 08.100
+Office: HB 08.110
 Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
