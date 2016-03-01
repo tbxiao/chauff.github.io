@@ -8,6 +8,11 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2016
 
 <img src="../img/conference-paper.png" height="20px">
+Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar. 
+*Diversity in Social Media Urban Analytics*, accepted as a full paper at
+[ICWE](http://icwe2016.inf.usi.ch/).
+
+<img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, 
 *Learning Transfer: does it take place in MOOCs?*, accepted as a full paper at 
 [ACM Learning At Scale](http://learningatscale.acm.org/las2016/). 
