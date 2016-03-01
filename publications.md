@@ -10,7 +10,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, 
 *Learning Transfer: does it take place in MOOCs?*, accepted as a full paper at 
-[ACM Learning At Scale](http://learningatscale.acm.org/las2016/).
+[ACM Learning At Scale](http://learningatscale.acm.org/las2016/). 
+[[Blog post&#8594;]]({% post_url 2016-03-01-learning-transfer %})
 
 
 <img src="../img/workshop-paper.png" height="20px">
