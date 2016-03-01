@@ -7,7 +7,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 ## News
 
 - Our analysis of learning transfer among programmers taking a MOOC has been accepted at [ACM L@S](http://learningatscale.acm.org/las2016/): 
-do learner actually apply what they have learned in practice? We make use of GitHub as data source.
+do learner actually apply what they have learned in practice? Take a look at [my blog]({% post_url 2016-03-01-learning-transfer %}).
 - We are getting the word out about our MOOC-related learning analytics work; a demonstration paper 
 about one of my Master student's work on self-regulation and learner feedback has been accepted at 
 the Learning Analytics for Learners workshop, co-located with LAK 2016.
