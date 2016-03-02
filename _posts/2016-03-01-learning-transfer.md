@@ -10,7 +10,11 @@ of having started the course (if they start it at all). A lot of research in rec
 that disengage, ignoring those learners (in the best possible sense) that actually make it.
 
 Instead of ignoring the engaged learners, we made them the focus of our work, exploring to what extent they 
-actuall *apply* the knowledge they gained in a MOOC in a practical setting.
+actuall *apply* the knowledge they gained in a MOOC in a practical setting, resulting in a paper at the Learning@Scale
+conference this year.
+
+>Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, *Learning Transfer: does it take place in MOOCs?*, ACM
+>Learning At Scale 2016.
 
 The paper's abstract:
 
