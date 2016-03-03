@@ -73,5 +73,5 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Co-organizer of the Search as Learning workshop at SIGIR 2016
 - Co-organizer of the [Delft Data Science Seminar on Online Education](http://www.delftdatascience.tudelft.nl/about-dds/dds-online-education/) (March 9, 2015)
 - Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx) (as well as [TAIA 2014](http://research.microsoft.com/en-us/people/milads/taia2014.aspx))
-- Co-organizer of the [Placing Task @ MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/placing2015/) (as well as in [2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
-- Co-organizer of [ECIR 2016](http://ecir2016.dei.unipd.it/) (demo co-chair)
+- Co-organizer of the [Placing Task benchmark @ MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/placing2015/) (as well as in [2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
+- Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
