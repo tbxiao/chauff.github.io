@@ -6,6 +6,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
+- At [SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. Website will be up soon.
 - Our analysis of learning transfer among programmers taking a MOOC has been accepted at [ACM L@S](http://learningatscale.acm.org/las2016/): 
 do learner actually apply what they have learned in practice? Take a look at [my blog]({% post_url 2016-03-01-learning-transfer %}).
 - We are getting the word out about our MOOC-related learning analytics work; a demonstration paper 
@@ -69,7 +70,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Recent Organizational Duties
-
+- Co-organizer of the Search as Learning workshop at SIGIR 2016
 - Co-organizer of the [Delft Data Science Seminar on Online Education](http://www.delftdatascience.tudelft.nl/about-dds/dds-online-education/) (March 9, 2015)
 - Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx) (as well as [TAIA 2014](http://research.microsoft.com/en-us/people/milads/taia2014.aspx))
 - Co-organizer of the [Placing Task @ MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/placing2015/) (as well as in [2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
