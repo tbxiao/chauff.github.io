@@ -50,7 +50,7 @@ I have diverse research interests and am always happy to dive into a new area. T
 I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing heavily on large-scale learning analytics 
 and how to incorporate search into the learning process at scale. TU Delft is a very active provider of 
 Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; 
-ultimately, I (and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) 
+ultimately, I (and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/)) 
 aim to provide insights and develop mechanisms to improve learning at scale.
 
 My research vision for the coming years focuses on two projects (MoSeS and BoOLE), connected through the MOOC use case.
