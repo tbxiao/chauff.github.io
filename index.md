@@ -35,9 +35,9 @@ the Learning Analytics for Learners workshop, co-located with LAK 2016.
 
 ## About me
 
-Since 2013, I work as an Assistant Professor at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+Since 2013, I work as an Assistant Professor (tenured) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/). Between 2011 and 2012 I was a Postdoc in the same group.
-I received my PhD from the [University of Twente](https://www.utwente.nl/), where I worked in the 
+I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
 The [Otto-von-Guericke University of Magdeburg](https://www.uni-magdeburg.de/) in Germany was 
 my home during my undergraduate years as a student in computer science.
@@ -69,9 +69,17 @@ Office: HB 08.110
 Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
-## Recent Organizational Duties
-- Co-organizer of the Search as Learning workshop at SIGIR 2016
-- Co-organizer of the [Delft Data Science Seminar on Online Education](http://www.delftdatascience.tudelft.nl/about-dds/dds-online-education/) (March 9, 2015)
-- Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx) (as well as [TAIA 2014](http://research.microsoft.com/en-us/people/milads/taia2014.aspx))
-- Co-organizer of the [Placing Task benchmark @ MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/placing2015/) (as well as in [2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
+## Organizational duties and activities
+- Member of the 2016 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
+- Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
+- [Invited talk at Sanoma](https://www.youtube.com/watch?v=22ncUHW2GnI) on Searching and Learning (October 2015)
+- [Invited talk at ILPS](http://ilps.science.uva.nl/invited-talk-by-claudia-hauff/), University of Amsterdam on Searching and Learning (September 2015)
+- Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx), co-located with SIGIR 2015
+- Co-organizer of the [Delft Data Science Seminar on Online Education](http://www.delftdatascience.tudelft.nl/about-dds/dds-online-education/) (March 2015)
+- Co-organizer of the [Placing Task benchmark @ MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/placing2015/)
+- Co-organizer of the [TAIA 2014 workshop](http://research.microsoft.com/en-us/people/milads/taia2014.aspx), co-located with SIGIR 2014
+- Proceedings chair at [WSDM 2014](http://www.wsdm-conference.org/2014/organizing-committee/)
+- Member of the 2014 NWO selection committee [Doctoral Grant for Teachers](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/doctoral-grant-for-teachers/doctoral-grant-for-teachers.html)
+- Co-organizer of the [Placing Task benchmark @ MediaEval 2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
+- Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
