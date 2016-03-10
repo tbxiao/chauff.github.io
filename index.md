@@ -81,5 +81,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Co-organizer of the [TAIA 2014 workshop](http://research.microsoft.com/en-us/people/milads/taia2014.aspx), co-located with SIGIR 2014
 - Proceedings chair at [WSDM 2014](http://www.wsdm-conference.org/2014/organizing-committee/)
 - Member of the 2014 NWO selection committee [Doctoral Grant for Teachers](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/doctoral-grant-for-teachers/doctoral-grant-for-teachers.html)
+- Successful completion of the [University Teaching Qualification](https://intranet.tudelft.nl/en/targeted-info/education/educational-improvements/oc-focus-centre-for-expertise-in-education/courses/utq/) (also known as BKO or *Basis Kwalificatie Onderwijs*) in August 2014
+- Invited lecture in the PhD course *Data Science*, offered by the [Dutch Research School for Information and Knowledge Systems](http://www.siks.nl/Data-Science-2014.php)
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2013](http://www.multimediaeval.org/mediaeval2013/placing2013/))
+- Invited lecture in the PhD course *Technology-enhanced Learning*, offered by the [Dutch Research School for Information and Knowledge Systems](http://www.siks.nl/EL2012.php)
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
