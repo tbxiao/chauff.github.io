@@ -73,7 +73,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Member of the 2016 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
-- [Invited talk at the #SupportTheCause symposium](http://supportthecause.nl/) on Twitter-based election forecasting (January 20160
+- [Invited talk at the #SupportTheCause symposium](http://supportthecause.nl/) on Twitter-based election forecasting (January 2016)
 - Coordinator (one of two) of the Data Science & Technology track within [TU Delft's Computer Science MSc program](http://www.tudelft.nl/studeren/masteropl/masteropleidingen/computer-science/) since 11/2015
 - [Invited talk at Sanoma](https://www.youtube.com/watch?v=22ncUHW2GnI) on Searching and Learning (October 2015)
 - [Invited talk at ILPS](http://ilps.science.uva.nl/invited-talk-by-claudia-hauff/), University of Amsterdam on Searching and Learning (September 2015)
