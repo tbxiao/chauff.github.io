@@ -35,7 +35,7 @@ the Learning Analytics for Learners workshop, co-located with LAK 2016.
 
 ## About me
 
-Since 2013, I work as an Assistant Professor (tenured) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+Since 2013, I work as an Assistant Professor (tenured since 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/). Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
@@ -60,7 +60,7 @@ My research vision for the coming years focuses on two projects (MoSeS and BoOLE
 ## Contact
 
 ```
-TU Delft - EWI/ST/WIS
+TU Delft - EWI/SCT/WIS
 PO Box 5031
 2600 GA Delft
 The Netherlands
@@ -73,6 +73,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Member of the 2016 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
+- Coordinator of the Data Science & Technology track within [TU Delft's Computer Science MSc program](http://www.tudelft.nl/studeren/masteropl/masteropleidingen/computer-science/) since 11/2015
 - [Invited talk at Sanoma](https://www.youtube.com/watch?v=22ncUHW2GnI) on Searching and Learning (October 2015)
 - [Invited talk at ILPS](http://ilps.science.uva.nl/invited-talk-by-claudia-hauff/), University of Amsterdam on Searching and Learning (September 2015)
 - Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx), co-located with SIGIR 2015
