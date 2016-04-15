@@ -80,4 +80,6 @@ many learners are self-proclaimed(?) *software engineers* and *project managers*
 already. Are these learners really learning or are they just in it for the certificate? And if they are only here for the
 piece of paper in the end, are we reaching the right learners with our teaching?
 
-1:  Yes, we have read [Word clouds considered harmful](http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/), and in cases like this one we think they are okay.
+<small>
+<sup>1</sup>Yes, we have read [Word clouds considered harmful](http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/), and in cases like this one we think they are okay.
+</small>
