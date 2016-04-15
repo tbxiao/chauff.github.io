@@ -17,6 +17,7 @@ eight weeks. The midterm and final exam each account for 40% of the grade, the l
 remaining 20%. I teach the *Web technology* part (8 of the 15 lectures) and will discuss that one for the 
 rest of the blog post.
 
+## The situation so far
 One aspect of large classes I continously battle with is how exactly to *engage* such a large number
 of students. Nothing is worse than 300 bored students looking down at you (or more
 likely at their laptops) bored or completely lost 20 minutes into a 90 minute lectures. In the last two years 
@@ -35,4 +36,7 @@ Unfortunately, I don't learn very much from the students' answers:
 <img src="../img/mc-question-answers-ti1506.png" width="600px">
 
 All I know is that 9% of the students got it right - I have no idea  *why* the rest of the class failed to answer
-the question correctly. 
+the question correctly. I either have the choice to take a stab in the dark and explain some of the material one 
+more time or I move in to the next topic. Both options are unsatisfactory for the students and myself.
+
+
