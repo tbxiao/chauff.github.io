@@ -75,11 +75,11 @@ of learners that took part in the MOOC:
 
 <img src="../img/job_title_ex101x.png" width="600px">
 
-This word cloud [wordcloud]<sup>1</sup> shows you what job title (according to their LinkedIn profile) the learners of the *Data Analysis* MOOC have. Surprisingly,
+This word cloud<sup>1</sup> shows you what job title (according to their LinkedIn profile) the learners of the *Data Analysis* MOOC have. Surprisingly,
 many learners are self-proclaimed(?) *software engineers* and *project managers* who should possess the taught skills
 already. Are these learners really learning or are they just in it for the certificate? And if they are only here for the
 piece of paper in the end, are we reaching the right learners with our teaching?
 
-<small>
+<sub>
 <sup>1</sup>Yes, we have read [Word clouds considered harmful](http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/), and in cases like this one we think they are okay.
-</small>
+</sub>
