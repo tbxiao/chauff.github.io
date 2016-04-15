@@ -52,7 +52,27 @@ Did any of the students actually watch the screencasts? I hoped so, considering 
 all screencasts to YouTube, analytics are available with the click of a button. To make sense of the graph, I also
 added the four (for the student) important milestones of the course: the midterm and final as well as their resits.
 
-<img src="../img/watchtime-ti1506.png" width="600px">
+<img src="../img/watchtime-ti1506.png" width="900px">
+
+The trend is not what I had hoped to see: at the beginning (when almost all students attended the lectures) the students watched more screencasts without a direct incentive (a midter/exam the next day) than in the later weeks
+of the course. A month into the course, the students have settled on a strategy: to watch the screencasts 1 or at most 2
+days before the test.
+
+How many students did watch the individual screencasts? Again, YouTube Analytics has a straight answer:
+
+<img src="../img/videos-ti1506.png" width="900px">
+
+None of the screencasts hits 300 views, so not all students feel the need to rely on them to prepare for their tests.
+Although I cut down the lectures into digestable pieces (of 10-15 minutes), none of them reached an average of 50% view
+time (final column). As a side note, I have no idea why the cookies screencast is the most watched one, compared to some
+of the other screencasts (node.js and JavaScript design patterns for instance) this is a rather easy topic.
+
+The screencasts received high scores in the student satisfaction ratings, though based on these statistics I have doubts that the students actually benefitted from them in their learning.
+
+## ASQ
+
+
+
 
 
 
