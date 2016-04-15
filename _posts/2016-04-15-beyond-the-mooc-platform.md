@@ -15,6 +15,7 @@ In one of our recent papers:
 
 we took a first step in that direction and investigated *where* we can find the more than
 **320,000 learners** of **18 TU Delft MOOCs** (all running on [edX](https://www.edx.org/school/delftx)). The abstract:
+
 > Massive Open Online Courses (MOOCs) have enabled millions of learners across the globe to 
 > increase their levels of expertise in a wide variety of subjects. Research efforts surrounding 
 > MOOCs are typically focused on improving the learning experience, as the current retention rates 
@@ -48,6 +49,7 @@ Overall, these results are not very surprising (they make sense - which is good!
 What was surprising to us was the type of learners that participate in particular MOOCs. As an example, consider
 the [*Data Analysis*](https://www.edx.org/course/data-analysis-take-it-max-delftx-ex101x-0) MOOC. Take a look at
 its description:
+
 > EX101x is for all of those struggling with data analysis. That crazy data collection from your boss? 
 > Megabytes of sensor data to analyze? Looking for a smart way visualize your data in order to make sense out of it? 
 > ...
