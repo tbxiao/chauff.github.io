@@ -3,18 +3,18 @@ layout: post
 title: Reflections on teaching a large Bachelor course
 ---
 
-Together with my colleagues [Alessandro Bozzon](http://alessandrobozzon.com/), I teach a Bachelor course 
+Together with my colleague [Alessandro Bozzon](http://alessandrobozzon.com/), I teach a Bachelor course 
 called *Web and Database Technology* within the *Technical Computer Science* degree program at TU Delft.
 The course is not only compulsory for our first year Computer Science students, but also for all those
 students choosing *Software Design & Application* as their minor. 
 
 This means that we usually have to deal with more than 300 students (the most recent edition had 320)
-in the classroom - some of whom have never written a line of HTML before, others have 2-3 years of 
-JavaScript programming experience by the time they enter the classroom.
+at once - some of whom have never written a line of HTML before, others have 2-3 years of 
+JavaScript programming experience by the time they enter our classroom.
 
 The course has a standard structure: two lectures (90 minutes each) and one 4-hour lab session per week for 
 eight weeks. The midterm and final exam each account for 40% of the grade, the lab project is worth the remaining 20%. 
-I teach the *Web technology* part (8 of the 15 lectures).
+I teach the *Web technology* part (8 lectures).
 
 ## The problem
 One aspect of large classes I continously battle with is how exactly to *engage* such a large number
