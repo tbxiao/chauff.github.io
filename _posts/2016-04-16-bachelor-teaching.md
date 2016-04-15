@@ -67,7 +67,7 @@ Although I cut down the lectures into digestable pieces (of 10-15 minutes), none
 time (final column). As a side note, I have no idea why the cookies screencast is the most watched one, compared to some
 of the other screencasts (node.js and JavaScript design patterns for instance) this is a rather easy topic.
 
-The screencasts received high scores in the student satisfaction ratings, though based on these statistics I have doubts that the students actually benefitted from them in their learning.
+The screencasts received high scores in the student satisfaction ratings, though based on the usage statistics I have doubts that the students actually benefitted from them in their learning.
 
 ## ASQ
 
