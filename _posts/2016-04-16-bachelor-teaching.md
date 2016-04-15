@@ -3,18 +3,18 @@ layout: post
 title: Reflections on teaching a large Bachelor course
 ---
 
-Together with one of my colleagues (Alessandro Bozzon), I teach a Bachelor course 
-called *Web and Database Technology* within the Technical Computer Science degree program at TU Delft.
+Together with my colleagues [Alessandro Bozzon](http://alessandrobozzon.com/), I teach a Bachelor course 
+called *Web and Database Technology* within the *Technical Computer Science* degree program at TU Delft.
 The course is not only compulsory for our first year Computer Science students, but also for all those
-students choosing Software Design & Application as their minor. 
+students choosing *Software Design & Application* as their minor. 
 
 This means that we usually have to deal with more than 300 students (the most recent edition had 320)
-in the classroom - some of whom had never written a line of HTML before, others had 2-3 years of 
-JavaScript programming experience already.
+in the classroom - some of whom have never written a line of HTML before, others have 2-3 years of 
+JavaScript programming experience by the time they enter the classroom.
 
 The course has a standard structure: two lectures (90 minutes each) and one 4-hour lab session per week for 
-eight weeks. The midterm and final exam each account for 40% of the grade (~35 multiple-choice questions per 
-exam), the lab project is worth the remaining 20%. I teach the *Web technology* part (8 of the 15 lectures).
+eight weeks. The midterm and final exam each account for 40% of the grade, the lab project is worth the remaining 20%. 
+I teach the *Web technology* part (8 of the 15 lectures).
 
 ## The problem
 One aspect of large classes I continously battle with is how exactly to *engage* such a large number
@@ -45,6 +45,11 @@ able to catch up by watching the screencasts.
 + In some of the lectures we replaced FeedbackFruits with [ASQ](http://asq.inf.usi.ch/), which provides a much richer set of question types and a much richer set of realtime feedback, enabling *data analytics in the classroom* - who wouldn't want that!
 
 So, how did we fare?
+
+
+<sub>
+<sup>1</sup> Whenever I use '*we*' in this post I mean the entire course, not just *my* Web technology part.
+</sub>
 
 ## Screencasts
 
@@ -109,13 +114,4 @@ Apart from the direct feedback on students' understanding, ASQ also provides an 
 
 The lecture starts at 8:45am, has a 15 minute break between 9:30 and 9:45 and ends at 10:30. The barely visible grey lines are slide transitions and the eight spikes of certain event combinations appear when exercises were incorporated into the slides. The y-axis shows the number of students that are at each moment in time belonging to a certain category: red (the students are doing something with the ASQ window/tab in focus), yellow (the students are doing something with the ASQ window/tab **not** in focus), green (the students submitted the answer to an exercise and are not doing anything else on their machine) and grey (the students submitted the answer to an exercise and are doing something else). The break interval provides a good baseline: during the break, we see a lot of students in the yellow category and few in the red one. This should be the other way around during the lecture - although this is indeed the case, we also observe that as the lecture progresses more and more students turn from red to yellow, indicating that fewer students pay attention. The eight spikes show when exercises take place, the students suddenly "snap back" and focus on the lecture content.
 
-
-
-
-
-
-
-<sub>
-<sup>1</sup> Whenever I use '*we*' in this post I mean the entire course, not just *my* Web technology part.
-</sub>
 
