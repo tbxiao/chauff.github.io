@@ -76,7 +76,7 @@ This is [ASQ](http://asq.inf.usi.ch/) in its own words:
 >the questions embedded in the slides. The objective is to maximize the efficiency of bi-directional 
 >communication between the lecturer and a large audience.
 
-What made it so attractive to me is the opportunity to present complex question types *in class* to hundreds of students
+The setup for the students is easy: at the beginning of the lecture I point them to a URL they open in the browser and that's it, they see the lecture slides and the embedded questions as the lecture progresses. What made it so attractive to me is the opportunity to present complex question types *in class* to hundreds of students
 and to receive *in realtime* feedback about the students' focus and their performance on the task. 
 Here are three of those complex question types:
 
@@ -95,14 +95,19 @@ check before submitting their answer whether it is likely to be correct.
 
 Students can also *write* SQL queries themselves without having to install any database. Everything runs *in* the browser, as soon as the students see the question they can start honing their SQL abilities.
 
-The benefit for the students is high: in these questions, the students have to *apply* their knowledge. Multiple-choice questions on the other hand may lead students to *think* that they know how a concept is applied, but since this perception is never challenged, this potential misconception may never be uncovered. 
+The benefit for the students is high: in these questions, the students have to **apply** their knowledge. Multiple-choice questions on the other hand may lead students to *think* that they know how a concept is applied, but since this perception is never challenged, this potential misconception may never be uncovered. 
+
 ASQ is not only demanding of the student, it is also very demanding of the instructor: as soon as the students hit *submit* I get to see the all submissions on my instructor screen, which is really a non-trivial dashboard:
 
-<img src="../img/asq-sql.png" width="800px">
+<img src="../img/asq-lecturer.png" width="800px">
 
+While the students are still working (I usually create examples that take no more than 3-4 minutes to solve) I can already scroll through the first submitted solutions and mark those I want to discuss. Since I only have 2-3 minutes to prepare myself, this can be a rather stressful few minutes. It does give me, however, an immediate feedback point and a direct view on the types of errors the students are making. At the end of the exericse, I go over the solutions I selected (usually 1 correct and 1-2 incorrect ones) and explain to the students why those are correct or incorrect.
 
+Apart from the direct feedback on students' understanding, ASQ also provides an overview of what the students are doing (or not doing): since ASQ essentially means for the students to open a Web page, ASQ can only log the browser events that are accessible from the browser window/tab that contains the Web page, including `windowFocus`, `windowBlur`, `input`, `idle`, `active` and so on. Although these events are low-level, they can provide us with hints about what is going on. Here is the progression of one of our lectures based on ASQ's collected events:
 
+<img src="../img/asq-monitoring.png" width="800px">
 
+The lecture starts at 8:45am, has a 15 minute break between 9:30 and 9:45 and ends at 10:30. The barely visible grey lines are slide transitions and the eight spikes of certain event combinations appear when exercises were incorporated into the slides. The y-axis shows the number of students that are at each moment in time belonging to a certain category: red (the students are doing something with the ASQ window/tab in focus), yellow (the students are doing something with the ASQ window/tab **not** in focus), green (the students submitted the answer to an exercise and are not doing anything else on their machine) and grey (the students submitted the answer to an exercise and are doing something else). The break interval provides a good baseline: during the break, we see a lot of students in the yellow category and few in the red one. This should be the other way around during the lecture - although this is indeed the case, we also observe that as the lecture progresses more and more students turn from red to yellow, indicating that fewer students pay attention. The eight spikes show when exercises take place, the students suddenly "snap back" and focus on the lecture content.
 
 
 
