@@ -50,26 +50,39 @@ So, how did we fare?
 
 Did any of the students actually watch the screencasts? I hoped so, considering the fact that attendance declined considerably over time (from >300 students at the beginning to ~180 students in the last lecture). Since we uploaded
 all screencasts to YouTube, analytics are available with the click of a button. To make sense of the graph, I also
-added the four (for the student) important milestones of the course: the midterm and final as well as their resits.
+added the four (for the students) important milestones of the course: the midterm and final as well as their resits.
 
 <img src="../img/watchtime-ti1506.png" width="900px">
 
-The trend is not what I had hoped to see: at the beginning (when almost all students attended the lectures) the students watched more screencasts without a direct incentive (a midter/exam the next day) than in the later weeks
-of the course. A month into the course, the students have settled on a strategy: to watch the screencasts 1 or at most 2
-days before the test.
+The trend is not what I had hoped to see: at the beginning (when almost all students attended the lectures) the students watched more screencasts without a direct incentive (a midterm/exam the next day) than in the later weeks
+of the course. A month into the course, the students had settled on a strategy: to watch the screencasts one or maybe two days before the actual test. 
 
-How many students did watch the individual screencasts? Again, YouTube Analytics has a straight answer:
+How many students did watch the individual screencasts? Again, YouTube's analytics dashboard has a straight answer:
 
 <img src="../img/videos-ti1506.png" width="900px">
 
-None of the screencasts hits 300 views, so not all students feel the need to rely on them to prepare for their tests.
-Although I cut down the lectures into digestable pieces (of 10-15 minutes), none of them reached an average of 50% view
-time (final column). As a side note, I have no idea why the cookies screencast is the most watched one, compared to some
-of the other screencasts (node.js and JavaScript design patterns for instance) this is a rather easy topic.
+None of the screencasts hits 300 views, indicating that not all students feel the need to rely on them to prepare for their tests. None of the lectures reached an average of 50% view
+time (*Average percentage viewed* column). This is maybe not surprising, every MOOC video guide nowadays suggests to cut down the lecture videos to seven minutes or less (which corresponds roughly to the *Average view duration* column), whereas my screencasts are between 15 and 35 minutes long. 
 
-The screencasts received high scores in the student satisfaction ratings, though based on the usage statistics I have doubts that the students actually benefitted from them in their learning.
+The screencasts received high scores in the **student satisfaction** ratings, though based on the usage statistics I have my doubts that the students actually benefitted from them in their **learning**.
 
 ## ASQ
+
+This is [ASQ](http://asq.inf.usi.ch/) in its own words:
+
+>ASQ is a Web application for creating and delivering interactive HTML5 presentations. 
+>It is designed to support teachers who need to gather real-time feedback from the students 
+>while delivering their lectures. Presentation slides are delivered to viewers who can answer 
+>the questions embedded in the slides. The objective is to maximize the efficiency of bi-directional 
+>communication between the lecturer and a large audience.
+
+What made it so attractive to me is the opportunity to present complex question types *in class* to hundreds of students
+and receiving *in realtime* feedback about the students' focus and their performance on the task. 
+Here are two of those complex question types:
+
+<img src="../img/asq-highlight.png" width="600px">
+<img src="../img/asq-js-student.png" width="600px">
+
 
 
 
