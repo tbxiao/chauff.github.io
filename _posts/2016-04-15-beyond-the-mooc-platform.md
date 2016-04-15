@@ -3,23 +3,18 @@ layout: post
 title: Beyond the MOOC platform
 ---
 In the past years, we have been heavily relying on social media for research purposes (like many other research groups)
-and by now it is very clear that we can learn *a lot* about people (and events, locations, etc.) from the social media 
-traces they leave behind across the Web.
+and by now it is very clear that we can learn *a lot* about people from the digital footprints they leave behind across the social Web.
 
 Once we started looking at people that participate in MOOCs (i.e. the "learners") from a research perspective, we were
 also curious to know where else on the Web they are active: on which social platforms do MOOC learners leave their
-traces behind? The motivation for this question is not hard to find: learning things about our *learners* before/after they
-have taken a MOOC can enable us to, for instance, track the impact of the MOOC on people's lives, adapt MOOCs according
-to individual expertise before learners enter the MOOC platform and so forth.
+traces behind? The motivation for this question is not hard to find: learning things about our learners **before and/or after** they have taken a MOOC can enable us to, for instance, track the impact of the MOOC on people's lives, adapt MOOCs according to individual expertise before learners enter the MOOC platform and so forth.
 
 In one of our recent papers: 
-
 >Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff and Geert-Jan Houben, 
 >*Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, WebScience 2016.
 
 we took a first step in that direction and investigated *where* we can find the more than
-320,000 learners of 18 TU Delft MOOCs (all running on [edX](https://www.edx.org/school/delftx)). Here is the abstract:
-
+**320,000 learners** of **18 TU Delft MOOCs** (all running on [edX](https://www.edx.org/school/delftx)). The abstract:
 > Massive Open Online Courses (MOOCs) have enabled millions of learners across the globe to 
 > increase their levels of expertise in a wide variety of subjects. Research efforts surrounding 
 > MOOCs are typically focused on improving the learning experience, as the current retention rates 
@@ -34,7 +29,7 @@ we took a first step in that direction and investigated *where* we can find the 
 > traces, as many learners are also likely to be active on one or more Social Web platforms. 
 > In this work, we present a first exploratory analysis of the Social Web platforms MOOC learners are 
 > active on; we consider more than 320,000 learners that registered for 18 MOOCs on the edX platform and 
-> explore their user profiles and activities on StackExchange, GitHub, Twitter and LinkedIn.
+> explore their user profiles and activities on **StackExchange**, **GitHub**, **Twitter** and **LinkedIn**.
 
 As we do not have unlimited resources, we considered only some of the most well-known social Web platforms.
 Here is what we found:
@@ -53,7 +48,6 @@ Overall, these results are not very surprising (they make sense - which is good!
 What was surprising to us was the type of learners that participate in particular MOOCs. As an example, consider
 the [*Data Analysis*](https://www.edx.org/course/data-analysis-take-it-max-delftx-ex101x-0) MOOC. Take a look at
 its description:
-
 > EX101x is for all of those struggling with data analysis. That crazy data collection from your boss? 
 > Megabytes of sensor data to analyze? Looking for a smart way visualize your data in order to make sense out of it? 
 > ...
@@ -69,7 +63,7 @@ its description:
 It teaches basic skills, that we had assumed "IT people" to know and have mastered already. But take a look at the type
 of learners that took part in the MOOC:
 
-<img src="../img/job_title_ex101x.png" width="500px">
+<img src="../img/job_title_ex101x.png" width="600px">
 
 This word cloud (yes, we have read [Word clouds considered harmful](http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/), but here they make sense)
 shows you what job title (according to their LinkedIn profile) the learners of the *Data Analysis* MOOC have. Surprisingly,
