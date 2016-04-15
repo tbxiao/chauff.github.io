@@ -24,15 +24,15 @@ I mostly relied on [FeedbackFruits](https://secure.feedbackfruits.com/) (a Web p
 any browser-enabled device into a clicker) to test the students' level of understanding through
 **multiple-choice questions**. My questions tend to look like this:
 
-<img src="../img/mc-question-ti1506.png" width="900px">
+<img src="../img/mc-question-ti1506.png" width="600px">
 
 or this:
 
-<img src="../img/mc-question-ti1506-2.png" width="900px">
+<img src="../img/mc-question-ti1506-2.png" width="600px">
 
 Unfortunately, I don't learn very much from the students' answers:
 
-<img src="../img/mc-question-answers-ti1506-2.png" width="900px">
+<img src="../img/mc-question-answers-ti1506.png" width="600px">
 
 All I know is that 9% of the students got it right - I have no idea  *why* the rest of the class failed to answer
 the question correctly. 
