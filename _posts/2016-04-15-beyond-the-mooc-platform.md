@@ -2,8 +2,6 @@
 layout: post
 title: Beyond the MOOC platform: where can we find traces of our MOOC learners?
 ---
-
-
 In the past years, we have been heavily relying on social media for research purposes (like many other research groups)
 and by now it is very clear that we can learn *a lot* about people (and events, locations, etc.) from the social media 
 traces they leave behind across the Web.
