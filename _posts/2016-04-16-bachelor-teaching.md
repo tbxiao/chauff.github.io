@@ -81,16 +81,25 @@ and to receive *in realtime* feedback about the students' focus and their perfor
 Here are three of those complex question types:
 
 <img src="../img/asq-highlight.png" width="600px">
+
 In this question the students are asked to demonstrate their *understanding* of JavaScript's concept of scope by
 highlighting the variables that are local and global. Once the students are satisfied with their answer, they
 submit the solution.
 
 <img src="../img/asq-js-student.png" width="600px">
+
 Here, the students have to *write* JavaScript themselves. The question contains an embedded unit test, so students can
 check before submitting their answer whether it is likely to be correct. 
 
 <img src="../img/asq-sql.png" width="600px">
-Students can also *write* SQL queries themselves without having to install any database. Everything runs *in* the browser, as soon as the students see the question they can start typing SQL commands.
+
+Students can also *write* SQL queries themselves without having to install any database. Everything runs *in* the browser, as soon as the students see the question they can start honing their SQL abilities.
+
+The benefit for the students is high: in these questions, the students have to *apply* their knowledge. Multiple-choice questions on the other hand may lead students to *think* that they know how a concept is applied, but since this perception is never challenged, this potential misconception may never be uncovered. 
+ASQ is not only demanding of the student, it is also very demanding of the instructor: as soon as the students hit *submit* I get to see the all submissions on my instructor screen, which is really a non-trivial dashboard:
+
+<img src="../img/asq-sql.png" width="800px">
+
 
 
 
