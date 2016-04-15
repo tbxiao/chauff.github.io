@@ -10,8 +10,15 @@ also curious to know where else on the Web they are active: on which social plat
 traces behind? The motivation for this question is not hard to find: learning things about our learners **before and/or after** they have taken a MOOC can enable us to, for instance, track the impact of the MOOC on people's lives, adapt MOOCs according to individual expertise before learners enter the MOOC platform and so forth.
 
 In one of our recent papers: 
->Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff and Geert-Jan Houben, 
->*Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, WebScience 2016.
+
+```latex
+@inproceedings{Chen2016,
+  author = {Guanliang Chen and Dan Davis and Jun Lin and Claudia Hauff and Geert-Jan Houben},
+  booktitle = {WebScience '16: 8th International ACM Web Science Conference},
+  title = {Beyond the MOOC platform: Gaining Insights about Learners from the Social Web},
+  year = {2016}
+}
+```  
 
 we took a first step in that direction and investigated *where* we can find the more than
 **320,000 learners** of **18 TU Delft MOOCs** (all running on [edX](https://www.edx.org/school/delftx)). The abstract:
