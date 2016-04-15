@@ -16,6 +16,7 @@ In one of our recent papers:
   author = {Guanliang Chen and Dan Davis and Jun Lin and Claudia Hauff and Geert-Jan Houben},
   booktitle = {WebScience '16: 8th International ACM Web Science Conference},
   title = {Beyond the MOOC platform: Gaining Insights about Learners from the Social Web},
+  pages = {...},
   year = {2016}
 }
 ```  
