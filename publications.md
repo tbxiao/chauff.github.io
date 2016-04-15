@@ -11,7 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Yue Zhao and Claudia Hauff. *Temporal Query Intent Disambiguation using Time-Series Data*, accepted as a short paper at [ACM SIGIR 2016](http://sigir.org/sigir2016/).
 
 <img src="../img/conference-paper.png" height="20px">
-Guanliang Chen, Dan Davis, Claudia Hauff, and Geert-Jan Houben. 
+Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben. 
 *Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, accepted as a full paper at
 [ACM WebScience](http://websci16.org/).
 
