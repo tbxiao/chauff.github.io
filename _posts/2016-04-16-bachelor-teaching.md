@@ -99,7 +99,7 @@ The benefit for the students is high: in these questions, the students have to *
 
 ASQ is not only demanding of the student, it is also very demanding of the instructor: as soon as the students hit *submit* I get to see the all submissions on my instructor screen, which is really a non-trivial dashboard:
 
-<img src="../img/asq-lecturer.png" width="800px">
+<img src="../img/asq-dashboard.png" width="800px">
 
 While the students are still working (I usually create examples that take no more than 3-4 minutes to solve) I can already scroll through the first submitted solutions and mark those I want to discuss. Since I only have 2-3 minutes to prepare myself, this can be a rather stressful few minutes. It does give me, however, an immediate feedback point and a direct view on the types of errors the students are making. At the end of the exericse, I go over the solutions I selected (usually 1 correct and 1-2 incorrect ones) and explain to the students why those are correct or incorrect.
 
