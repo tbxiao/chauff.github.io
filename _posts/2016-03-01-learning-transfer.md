@@ -13,8 +13,15 @@ Instead of ignoring the engaged learners, we made them the focus of our work, ex
 actuall *apply* the knowledge they gained in a MOOC in a practical setting, resulting in a paper at the Learning@Scale
 conference this year.
 
->Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, *Learning Transfer: does it take place in MOOCs?*, ACM
->Learning At Scale 2016.
+```bibtex
+@inproceedings{Chen2016a,
+  author = {Guanliang Chen and Dan Davis and Claudia Hauff and Geert-Jan Houben},
+  booktitle = {L@S '16: 3rd ACM Conference on Learning At Scale},
+  title = {Learning Transfer: does it take place in MOOCs?},
+  pages = {...},
+  year = {2016}
+}
+```
 
 The paper's abstract:
 
