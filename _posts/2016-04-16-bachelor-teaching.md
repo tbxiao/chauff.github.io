@@ -77,11 +77,22 @@ This is [ASQ](http://asq.inf.usi.ch/) in its own words:
 >communication between the lecturer and a large audience.
 
 What made it so attractive to me is the opportunity to present complex question types *in class* to hundreds of students
-and receiving *in realtime* feedback about the students' focus and their performance on the task. 
-Here are two of those complex question types:
+and to receive *in realtime* feedback about the students' focus and their performance on the task. 
+Here are three of those complex question types:
 
 <img src="../img/asq-highlight.png" width="600px">
+In this question the students are asked to demonstrate their *understanding* of JavaScript's concept of scope by
+highlighting the variables that are local and global. Once the students are satisfied with their answer, they
+submit the solution.
+
 <img src="../img/asq-js-student.png" width="600px">
+Here, the students have to *write* JavaScript themselves. The question contains an embedded unit test, so students can
+check before submitting their answer whether it is likely to be correct. 
+
+<img src="../img/asq-sql.png" width="600px">
+Students can also *write* SQL queries themselves without having to install any database. Everything runs *in* the browser, as soon as the students see the question they can start typing SQL commands.
+
+
 
 
 
