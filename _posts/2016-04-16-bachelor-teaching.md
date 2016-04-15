@@ -13,8 +13,8 @@ in the classroom - some of whom had never written a line of HTML before, others 
 JavaScript programming experience already.
 
 The course has a standard structure: two lectures (90 minutes each) and one 4-hour lab session per week for 
-eight weeks. The midterm and final exam each account for 40% of the grade, the lab project is worth the
-remaining 20%. I teach the *Web technology* part (8 of the 15 lectures).
+eight weeks. The midterm and final exam each account for 40% of the grade (~35 multiple-choice questions per 
+exam), the lab project is worth the remaining 20%. I teach the *Web technology* part (8 of the 15 lectures).
 
 ## The problem
 One aspect of large classes I continously battle with is how exactly to *engage* such a large number
@@ -42,13 +42,20 @@ In this year's edition of the course we<sup>1</sup> addressed this issue in two 
 + We provided screencasts of almost all lectures: instead of simply recording ourselves during the lectures, we
 created between 3 and 6 video segments per lecture. Students that were not able to follow the course should be 
 able to catch up by watching the screencasts.
-+ We replaced FeedbackFruits with [ASQ](http://asq.inf.usi.ch/), which provides a much richer set of question types
-and a much richer set of realtime feedback, enabling *data analytics in the classroom* (who wouldn't want that!)
++ In some of the lectures we replaced FeedbackFruits with [ASQ](http://asq.inf.usi.ch/), which provides a much richer set of question types and a much richer set of realtime feedback, enabling *data analytics in the classroom* - who wouldn't want that!
 
 So, how did we fare?
 
-
 ## Screencasts
+
+Did any of the students actually watch the screencasts? I hoped so, considering the fact that attendance declined considerably over time (from >300 students at the beginning to ~180 students in the last lecture). Since we uploaded
+all screencasts to YouTube, analytics are available with the click of a button. To make sense of the graph, I also
+added the four (for the student) important milestones of the course: the midterm and final as well as their resits.
+
+<img src="../img/watchtime-ti1506.png" width="600px">
+
+
+
 
 <sub>
 <sup>1</sup> Whenever I use '*we*' in this post I mean the entire course, not just *my* Web technology part.
