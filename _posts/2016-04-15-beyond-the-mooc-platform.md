@@ -11,8 +11,8 @@ traces behind? The motivation for this question is not hard to find: learning th
 
 In one of our recent papers: 
 
-```latex
-@inproceedings{Chen2016,
+```bibtex
+@inproceedings{Chen2016b,
   author = {Guanliang Chen and Dan Davis and Jun Lin and Claudia Hauff and Geert-Jan Houben},
   booktitle = {WebScience '16: 8th International ACM Web Science Conference},
   title = {Beyond the MOOC platform: Gaining Insights about Learners from the Social Web},
