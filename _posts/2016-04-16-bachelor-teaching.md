@@ -42,8 +42,7 @@ Even worse, multiple-choice questions may lead students to *think* that they kno
 In this year's edition of the course we<sup>1</sup> addressed this issue in two ways:
 
 + We provided screencasts of almost all lectures: instead of simply recording ourselves during the lectures, we
-created between 3 and 6 video segments per lecture. Students that were not able to follow the course should be 
-able to catch up by watching the screencasts.
+created between 3 and 6 specifically designed video segments per lecture. Students that were not able to follow the course should be able to catch up by watching our screencasts.
 + In some of the lectures we replaced FeedbackFruits with [ASQ](http://asq.inf.usi.ch/), which provides a much richer set of question types and a much richer set of realtime feedback, enabling *data analytics in the classroom* - who wouldn't want that!
 
 So, how did we fare?
