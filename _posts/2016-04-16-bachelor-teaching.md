@@ -121,8 +121,12 @@ Not the prettiest graph (yet), I admit, but very insightful nevertheless. The le
 ASQ can provide much more than this one analysis, I hope though, this gives a first impression on what it is all about.
 
 ### Was it worth the effort?
-ASQ is not yet a product, it is a prototype and requires effort to set up locally (it is open-source). It is not as simple as replacing PDFs or Powerpoint slides with a few HTML slides. It also requires effort to create good complex questions (those you have to develop yourself). But still, it was worth it. The lectures I did with ASQ were more interactive than the rest (here I fell back on multiple choice); *I* was more comfortable lecturing, as suddenly I did not have to guess anymore what content the students had grasped, I could see it clearly in their responses to the exercises. The students enjoyed it, and they got a real sense of the knowledge they possessed (or the lack of it).
+ASQ is not yet a product, it is a prototype and requires effort to set up locally (it is open-source). It is not as simple as replacing PDFs or Powerpoint slides with a few HTML slides. It also requires effort to create good complex questions (those you have to develop yourself). But still, it was worth it. The lectures I did with ASQ were more interactive than the rest (here I fell back on multiple choice); *I* was more comfortable lecturing, as suddenly I did not have to guess anymore what content the students had grasped, I could see it clearly in their responses to the exercises. The students enjoyed it, and they got a real sense of the knowledge they possessed (or the lack of it). 
 
-So, yes, it was worth the effort and I will be using ASQ again next year!
+Despite my enthusiasm, I should mention that the overall pass rate did not significantly improve over the past year, in contrast to the students' course ratings which went up by 1.5 points (on a 10 point scale). 
+
+So, yes, I do think it was worth the effort and I will be using ASQ again next year! Hopefully the continous use of ASQ will also be reflected in a higher pass rate.
+
+
 
 
