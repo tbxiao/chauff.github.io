@@ -84,7 +84,7 @@ This is [ASQ](http://asq.inf.usi.ch/) in its own words:
 
 The setup for the students is easy: at the beginning of the lecture I point them to a URL they open in the browser and that's it, they see the lecture slides and the embedded questions as the lecture progresses. 
 
-###Complex questions
+### Complex questions
 
 What made it so attractive to me is the opportunity to present complex question types *in class* to hundreds of students
 and to receive *in realtime* feedback about the students' focus and their performance on the task. 
