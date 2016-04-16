@@ -40,6 +40,7 @@ more time or I move on to the next topic. Both options are unsatisfactory for th
 Even worse, multiple-choice questions may lead students to *think* that they know how a concept is applied (they got the answer option right!), without actually ever applying it.
 
 In this year's edition of the course we<sup>1</sup> addressed this issue in two ways:
+
 + We provided screencasts of almost all lectures: instead of simply recording ourselves during the lectures, we
 created between 3 and 6 video segments per lecture. Students that were not able to follow the course should be 
 able to catch up by watching the screencasts.
