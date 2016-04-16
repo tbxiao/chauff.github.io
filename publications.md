@@ -7,6 +7,11 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2016
 
+<img src="../img/conference-paper.png" height="20px">
+Guanliang Chen, Dan Davis, Claudia Hauff, and Geert-Jan Houben. 
+*On the Impact of Personality in Massive Open Online Learning*, accepted as a full paper at
+[ACM UMAP](http://www.um.org/umap2016/).
+
 <img src="../img/conference-short-paper.png" height="20px">
 Yue Zhao and Claudia Hauff. *Temporal Query Intent Disambiguation using Time-Series Data*, accepted as a short paper at [ACM SIGIR 2016](http://sigir.org/sigir2016/).
 
