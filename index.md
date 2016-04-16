@@ -55,10 +55,6 @@ Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich e
 ultimately, I (and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/)) 
 aim to provide insights and develop mechanisms to improve learning at scale.
 
-My research vision for the coming years focuses on two projects (MoSeS and BoOLE), connected through the MOOC use case.
-
-<img src="../img/vision.png" height="400px">
-
 ## Contact
 
 ```
