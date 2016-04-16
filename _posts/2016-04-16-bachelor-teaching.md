@@ -37,6 +37,7 @@ Unfortunately, I don't learn very much from the students' answers:
 All I know is that 9% of the students got it right - I have no idea  **why** the rest of the class failed to answer
 the question correctly. I either have the choice to take a stab in the dark and explain some of the material one 
 more time or I move on to the next topic. Both options are unsatisfactory for the students and myself.
+Even worse, multiple-choice questions may lead students to *think* that they know how a concept is applied (they got the answer option right!), without actually ever applying it.
 
 In this year's edition of the course we<sup>1</sup> addressed this issue in two ways:
 + We provided screencasts of almost all lectures: instead of simply recording ourselves during the lectures, we
@@ -100,7 +101,7 @@ check before submitting their answer whether it is likely to be correct.
 
 Students can also *write* SQL queries themselves without having to install any database. Everything runs *in* the browser, as soon as the students see the question they can start honing their SQL abilities.
 
-The benefit for the students is high: in these questions, the students have to **apply** their knowledge. Multiple-choice questions on the other hand may lead students to *think* that they know how a concept is applied, but since this perception is never challenged, this potential misconception may never be uncovered. 
+The benefit for the students is high: in these questions, the students have to **apply** their knowledge. They realize very quickly when they are unable to do so (unlike in the multiple-choice setting).
 
 ASQ is not only demanding of the student, it is also very demanding of the instructor: as soon as the students hit *submit* I get to see the all submissions on my instructor screen, which is really a non-trivial dashboard:
 
