@@ -6,8 +6,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
-- Does personality impact learning in MOOCs? We investigated this question in our upcoming full paper at [ACM UMAP 2016](http://www.um.org/umap2016/)
-- Our research on the locating and profiling of MOOC learners on the social Web has been accepted as a full paper at [ACM WebScience 2016](http://websci16.org/).
+- Our learning analytics research is taking off with three recent full paper acceptances at [ACM UMAP 2016](http://www.um.org/umap2016/), [ACM WebScience 2016](http://websci16.org/) and [EDM 2016](http://www.educationaldatamining.org/EDM2016/).
 - At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/).
 - Our analysis of learning transfer among programmers taking a MOOC has been accepted at [ACM L@S](http://learningatscale.acm.org/las2016/): 
 do learner actually apply what they have learned in practice? Take a look at [my blog]({% post_url 2016-03-01-learning-transfer %}).
