@@ -7,6 +7,12 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2016
 
+
+<img src="../img/conference-paper.png" height="20px">
+Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
+*Gauging MOOC Learners' Adherence to the Designed Learning Path*, accepted as a full paper at
+[EDM](http://www.educationaldatamining.org/EDM2016/).
+
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff, and Geert-Jan Houben. 
 *On the Impact of Personality in Massive Open Online Learning*, accepted as a full paper at
