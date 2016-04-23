@@ -2,9 +2,7 @@
 layout: page
 title: Teaching
 ---
- I enjoy teaching. A lot. It is one of the reasons why I opted for a career in academia. I design my courses to instill three qualities into my students: confidence, independence and 
- problem understanding. 
- 
+
 ## MSc thesis supervision
 
 Students I have supervised and am currently supervising are researching a range of topics related to information retrieval and 
