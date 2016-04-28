@@ -78,5 +78,4 @@ not pass. Non-passers are more likely to go from quiz-start to quiz-end without 
 (maybe they just want a glimpse of them), whereas passing learners are more likely to start anwering questions when 
 they see them. Binge watching (watching one video after another) is more prevalent among the non-passers. 
 
-The paper (10 pages, double column) contains many more insights into how the designed vs. executed learning paths differ across MOOCs and across learners. In the upcoming months we will expand our analyses across many more MOOCs and explore whether those designed-vs-executed learning paths insights can aid our MOOC instructors/designers not just in a post-hoc 
-analysis of their MOOCs, but on the fly, whilst running them.
+The paper (10 pages of double column insights) contains many more analyses of how the designed vs. executed learning paths differ across MOOCs and across learners. In the upcoming months we will expand our work, investigate a larger number of MOOC and explore whether those designed-vs-executed learning paths insights can aid our MOOC instructors/designers not just in a post-hoc analysis of their courses, but also on the fly, whilst running them.
