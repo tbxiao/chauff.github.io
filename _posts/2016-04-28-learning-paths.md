@@ -27,14 +27,14 @@ In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/) paper:
 we take a more holistic view and investigate *visually* how
 learners move through MOOCs (we call these movements **executed learning paths**) and how those movements compare to the **designed learning path** that the instructors/designers had in mind when creating the course. The paper in its own words (aka the abstract):
 
->Massive Open Online Course (MOOC) platform designs, such as those of edX and Coursera, aord linear learning
->sequences by building scaolded knowledge from activity to activity and from week to week. We consider those sequences
->to be the courses' designed learning paths. But do learners actually adhere to these designed paths, or do they forge
+>Massive Open Online Course (MOOC) platform designs, such as those of edX and Coursera, afford linear learning
+>sequences by building scaffolded knowledge from activity to activity and from week to week. We consider those sequences
+>to be the courses' **designed learning paths**. But do learners actually adhere to these designed paths, or do they forge
 >their own ways through the MOOCs? What are the implications of either following or not following the designed
 >paths? Existing research has greatly emphasized, and succeeded in, automatically predicting MOOC learner success
 >and learner dropout based on behavior patterns derived from MOOC learners' data traces. However, those predictions do
 >not directly translate into insightful information for course designers & instructors aiming to improve engagement and
->retention | the two major issues plaguing today's MOOCs. In this work, we present a three-pronged approach to exploring
+>retention - the two major issues plaguing today's MOOCs. In this work, we present a three-pronged approach to exploring
 >MOOC data for novel learning path insights, thus enabling course instructors & designers to adapt a course's
 >design based on empirical evidence.
 
