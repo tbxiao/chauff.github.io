@@ -62,7 +62,7 @@ to the discussion forum, before viewing another video and moving on to the quiz 
 ## Executed learning paths
 
 You might wonder what the "Progress" nodes are doing in image above; although never part of the course design we found it 
-to be a rather attractive aspect for our learners: many of them will from time to time check their proress on the 
+to be a rather attractive aspect for our learners: many of them will from time to time check their progress on the 
 Progress page, which brings us to the actual learning paths that learners take. For each course, we computed the
 probability of a learner moving from X (e.g. a video) to Y (e.g. the start of the quiz). We peformed this step separately for
 the learners that passed the course and those that did not, leading to the following visualization (for one of the MOOCs):
