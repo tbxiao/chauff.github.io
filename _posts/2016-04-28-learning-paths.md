@@ -25,8 +25,7 @@ In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/) paper:
 ```
 
 we take a more holistic view and investigate *visually* how
-learners move through MOOCs (we call these movements *executed learning paths*) and how those movements compare to the *designed learning path*
-that the instructor/designer had in mind when creating the MOOC. The paper in its own words (aka the abstract):
+learners move through MOOCs (we call these movements **executed learning paths**) and how those movements compare to the **designed learning path** that the instructors/designers had in mind when creating the course. The paper in its own words (aka the abstract):
 
 >Massive Open Online Course (MOOC) platform designs, such as those of edX and Coursera, aord linear learning
 >sequences by building scaolded knowledge from activity to activity and from week to week. We consider those sequences
