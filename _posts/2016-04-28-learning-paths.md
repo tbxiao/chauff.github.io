@@ -5,11 +5,11 @@ title: Designed vs. executed learning paths in MOOCs
 
 MOOCs have been around for a few years by now. Learning designers and MOOC instructors though are still grappling with how
 to design *engaging* MOOCs - the low retention rates we observe across virtually all MOOCs show that there are
-many people that want to learn, but few persist. A lot of past research has explored ways to predict *when*
+many people that want to learn, but few persist. A lot of past research has explored ways to predict **when**
 MOOC learners will drop out of a course (under the assumption that once learners under the threat of attrition can 
-be identified, something can be done to reengage them with the course), including the 2015 [KDD Cup](http://kddcup2015.com/information.html).
-The accuracy of these predictors tends to be high (70-90% accuracy depending on the amount of data available), their
-exploratory power though is low. Instructors and designers alike will not gain actionable insights from glancing at
+be identified, something can be done to reengage them with the course), including the [2015 KDD Cup](http://kddcup2015.com/information.html).
+While, the accuracy of these predictors tends to be high (70-90% accuracy depending on the amount of data available), their
+*exploratory power* is low. Instructors and designers alike are unlikely to gain actionable insights from glancing at
 random forests or SVN hyperplanes.
 
 In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/): 
