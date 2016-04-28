@@ -12,7 +12,7 @@ While, the accuracy of these predictors tends to be high (70-90% accuracy depend
 *exploratory power* is low. Instructors and designers alike are unlikely to gain actionable insights from glancing at
 random forests or SVN hyperplanes.
 
-In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/): 
+In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/) paper: 
 
 ```bibtex
 @inproceedings{Chen2016a,
