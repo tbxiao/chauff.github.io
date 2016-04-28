@@ -64,14 +64,14 @@ to the discussion forum, before viewing another video and moving on to the quiz 
 You might wonder what the "Progress" nodes are doing in image above; although never part of the course design we found it 
 to be a rather attractive aspect for our learners: many of them will from time to time check their progress on the 
 Progress page, which brings us to the executed learning paths that learners take. For each course, we computed the
-probability of a learner moving from X (e.g. a video) to Y (e.g. the start of the quiz) based on the log traces that our
+probability of a learner moving from `X` (e.g. a video) to `Y` (e.g. the start of the quiz) based on the log traces that our
 learners generate. We peformed this step separately for
 the learners that passed the course and those that had not, leading to the following visualization (for one of the MOOCs):
 
 <img src="../img/edm-executedPath.png" width="900px">
 
-There should be an edge between every single node here, as at least one learner in each MOOC will take a path from any X
-to any Y. To avoid clutter, we removed all edges that have a probability below 20%. The image above 
+There should be an edge between every single node here, as at least one learner in each MOOC will take a path from any `X`
+to any `Y`. To avoid clutter, we removed all edges that have a probability below 20%. The image above 
 shows how non-passing (left) and passing (right) learners move through the course material. What do we learn from it? 
 Learners that pass are much more interested in their scores (heading to the Progress page a lot) than learners that do 
 not pass. Non-passers are more likely to go from quiz-start to quiz-end without actually answering any questions 
