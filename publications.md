@@ -7,6 +7,10 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2016
 
+<img src="../img/conference-paper.png" height="20px">
+Yue Zhao and Claudia Hauff. 
+*Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
+[TPDL](http://www.tpdl2016.org/).
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
@@ -38,7 +42,6 @@ Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben,
 <span style="color:red">It received an "Honorable Mention."</span>
 [[Blog post&#8594;]]({% post_url 2016-03-01-learning-transfer %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2876034.2876035) 
-
 
 <img src="../img/workshop-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
