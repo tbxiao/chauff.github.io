@@ -34,8 +34,12 @@ stream at crawling time).
 How do we go about finding out when the content of these Web documents was *first* created? We exploit the [Internet Archive](https://archive.org/web/)
 for this purpose: it is our only way (well, unless you are a search engine provider) to look into the history of a large
 part of the Web. For each sampled ClueWeb12 document we gathered all historic versions available on the Internet Archive
-and then tagged each paragraph (we consider one paragraph to be one sub-document) with the timestamp of the earliest historic
-version containing it.
+and then tagged each paragraph (we consider one paragraph to be one sub-document) with the timestamp of the earliest historic version containing it. To make this a bit more concrete, take a look at this screenshot from the Wayback machine,
+for TU Delft's homepage:
+
+<img src="../img/wayback-tudelft.png" width="600px">
+
+The URL *http://tudelft.nl* tends to be crawled once a day, and between 1997 and 2016 a total of 1,599 historic versions are available. Crawling frequency varies, more popular and often updated websites are preserved more often than others.
 
 Lets look at two specific insights (there are many more in the paper). First, **how severe is this issue of multiple
 creation times actually**? Well, see for yourself:
