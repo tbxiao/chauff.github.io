@@ -7,7 +7,7 @@ After a number of recent learning analytics papers, one of my PhD students just 
 [TPDL 2016](http://www.tpdl2016.org/), analyzing the creation dynamics of "sub-documents" on the Web.
 
 Knowing when Web document content was first created is important for a number of reasons - including many applications in
-the area of *temporal information retrieval*. A simplifying assumption often made in research is that Web documents were created at a single moment in time and thus have a single creation date (or timestamp). Of course we know that this is not true - Web documents are often updated and thus different parts of a Web document (we call those parts *sub-documents*) can have different creation times. 
+the area of *temporal information retrieval*. A simplifying assumption often made in research is that Web documents (or Web pages) were created at a single moment in time and thus have a single creation date (or timestamp). Of course we know that this is not true - Web documents are often updated and thus different parts of a Web document (we call those parts *sub-documents*) can have different creation times. 
 
 In our upcoming paper:
 
@@ -45,7 +45,7 @@ creation times actually**? Well, see for yourself:
 
 <img src="../img/timestamps_per_document.png" width="600px">
 
-The plot shows what percentage of documents have had their content created at 1, 2,..., 10 different points in time. Only about a third of the *Quality* set documents were created in a single point in time, meaning that our simplifying assumption is violated for the majority of Web documents we care about (those high-quality ones). The plot also shows that more than 5 different creation times is rather rare, very few documents are updated more than a handful of times.
+The plot shows what percentage of documents have had their content created at 1, 2,..., 10 different points in time. Only about a third of the *Quality* set documents were created at a single point in time, meaning that our simplifying assumption is violated for the majority of Web documents we care about (those high-quality ones). The plot also shows that having more than 5 different creation timestamps is quite rare, i.e. very few documents are updated more than a handful of times.
 
 But is this really a problem? **How much time passes between content updates**? If the content of a Web document is just created across the timespan of a few days, it shouldn't
 make much of a difference to applications that rely on document timestamps. Here we only consider those documents with
