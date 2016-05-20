@@ -46,10 +46,7 @@ creation times actually**? Well, see for yourself:
 
 <img src="../img/timestamps_per_document.png" width="600px">
 
-The plot shows what percentage of documents that had content created at 1, 2,...,10 different points in time. Only about
-a third of the *Quality* set documents were created in a single point in time, meaning that our simplifying assumption
-is violated for the majority of Web documents we care about (those high-quality ones). The plot also shows that more than 5
-different creation times is rather rare, very few documents are updated more than a handful of times.
+The plot shows what percentage of documents have had their content created at 1, 2,..., 10 different points in time. Only about a third of the *Quality* set documents were created in a single point in time, meaning that our simplifying assumption is violated for the majority of Web documents we care about (those high-quality ones). The plot also shows that more than 5 different creation times is rather rare, very few documents are updated more than a handful of times.
 
 But is this really a problem? **How much time passes between content updates**? If the content of a Web document is just created across the timespan of a few days, it shouldn't
 make much of a difference to applications that rely on document timestamps. Here we only consider those documents with
