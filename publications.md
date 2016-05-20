@@ -11,11 +11,13 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Yue Zhao and Claudia Hauff. 
 *Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
 [TPDL](http://www.tpdl2016.org/).
+[[Blog post&#8594;]]({% post_url 2016-05-20-subdocument-timestamping %})
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
 *Gauging MOOC Learners' Adherence to the Designed Learning Path*, accepted as a full paper at
 [EDM](http://www.educationaldatamining.org/EDM2016/).
+[[Blog post&#8594;]]({% post_url 2016-04-28-learning-paths %})
 
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff, and Geert-Jan Houben. 
@@ -28,7 +30,8 @@ Yue Zhao and Claudia Hauff. *Temporal Query Intent Disambiguation using Time-Ser
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben. 
 *Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, accepted as a full paper at
-[ACM WebScience](http://websci16.org/).
+[ACM WebScience](http://websci16.org/). 
+[[Blog post&#8594;]]({% post_url 2016-04-15-beyond-the-mooc-platform %})
 
 <img src="../img/conference-paper.png" height="20px">
 Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar. 
