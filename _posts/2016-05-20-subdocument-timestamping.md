@@ -53,10 +53,6 @@ multiple creation timestamps and plot the *timespan* between the earliest and la
 
 <img src="../img/timestamps_timespan.png" width="600px">
 
-We partitioned the document sets according to how many different creation timestamps we found and computed the timespan
-in days. Evidently, few documents have very small timespans, the median timespan for documents of the *Quality* set 
-with 2 creation timestamps exceeds 500 days; in the *Quality* set, the median exceeds 300 days. Expectedly, for documents
-with more creation timestamps this median continues to rise.
+We partitioned the document sets according to how many different creation timestamps we found and computed the timespan between the earliest and most recent timestamp *in days*. Evidently, few documents have small timespans, the median timespan for documents of the *General* set with 2 creation timestamps exceeds 500 days (i.e. more than a year passes between updates!); in the *Quality* set, the median exceeds 300 days. As we would expect, the median timespan increases when we look at documents with 3 or more creation timestamps.
 
-As we cannot realistically rely on the Internet Archive to determine the creation times of millions or billions of sub-documents
-the paper also introduces an automatic approach to estimate the creation time of sub-documents. 
+As we cannot realistically rely on the Internet Archive to analyze billions of Web documents for their creation timestamps, in the paper we also introduce an automatic approach to estimate the creation time of sub-documents.
