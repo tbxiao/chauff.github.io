@@ -34,8 +34,7 @@ stream at crawling time).
 How do we go about finding out when the content of these Web documents was *first* created? We exploit the [Internet Archive](https://archive.org/web/)
 for this purpose: it is our only way (well, unless you are a search engine provider) to look into the history of a large
 part of the Web. For each sampled ClueWeb12 document we gathered all historic versions available on the Internet Archive
-and then tagged each paragraph (we consider one paragraph to be one sub-document) with the timestamp of the earliest historic version containing it. To make this a bit more concrete, take a look at this screenshot from the Wayback machine,
-for TU Delft's homepage:
+and then tagged each paragraph (we consider one paragraph to be one sub-document) with the timestamp of the earliest historic version containing it. To make this a bit more concrete, take a look at this screenshot from the [Internet Archive's Wayback machine](https://web.archive.org/), visualizing its preservation of TU Delft's homepage:
 
 <img src="../img/wayback-tudelft.png" width="600px">
 
