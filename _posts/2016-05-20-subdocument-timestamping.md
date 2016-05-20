@@ -4,18 +4,17 @@ title: Sub-document timestamping
 ---
 
 After a number of recent learning analytics papers, one of my PhD students just got a full paper accepted at
-[TPDL 2016](http://www.tpdl2016.org/), analyzing the creation dynamics of ``sub-documents'' on the Web.
-Knowing when Web document content was first created is important for a number of reasons (including many applications in
-the area of *temporal information retrieval*). A common assumption in research is that Web documents have one creation date,
-though of course we know that this is not true - Web documents are often updated and thus different parts of
-a Web document (we call those parts sub-documents) can have different creation times. 
+[TPDL 2016](http://www.tpdl2016.org/), analyzing the creation dynamics of "sub-documents" on the Web.
+
+Knowing when Web document content was first created is important for a number of reasons - including many applications in
+the area of *temporal information retrieval*. A simplifying assumption often made in research is that Web documents were created at a single moment in time and thus have a single creation date (or timestamp). Of course we know that this is not true - Web documents are often updated and thus different parts of a Web document (we call those parts *sub-documents*) can have different creation times. 
 
 In our upcoming paper:
 
 ```bibtex
 @inproceedings{Zhao2016,
   author = {Yue Zhao and Claudia Hauff},
-  booktitle = {TPDL '16: 20th International Conference on Theory and Practice of Digital Libraries},
+  booktitle = {TPDL '16: 20th Int. Conference on Theory and Practice of Digital Libraries},
   title = {Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents},
   pages = {...},
   year = {2016}
@@ -24,6 +23,7 @@ In our upcoming paper:
 
 we explore to what extent this simplifying assumption of one-creation-time-per-Web-document is wrong. We analyze three
 sets of Web documents from the [ClueWeb12](http://lemurproject.org/clueweb12/) corpus:
+
 * **Quality** set: more than 7,000 Web documents that were judged relevant for 200 TREC topics (we consider those 
 high-quality documents as they answer at least one information need)
 * **General** set: more than 400,000 randomly sampled Web documents
