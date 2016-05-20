@@ -38,7 +38,7 @@ and then tagged each paragraph (we consider one paragraph to be one sub-document
 
 <img src="../img/wayback-tudelft.png" width="600px">
 
-The URL *http://tudelft.nl* tends to be crawled once a day, and between July 1997 and May 2016 it has been crawled a total of 1,599 times (these are the historic versions we base our analysis on). 
+The URL *http://tudelft.nl* tends to be crawled once a day, and between July 1997 and May 2016 it has been crawled a total of 1,599 times - these are the historic versions we base our analysis on. 
 
 Lets look at two specific insights (there are many more in the paper) from our work. First, **how severe is this issue of multiple
 creation times actually**? Well, see for yourself:
