@@ -8,6 +8,16 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2016
 
 <img src="../img/conference-paper.png" height="20px">
+Vasileios Triglianos, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. 
+*Inferring student attention with ASQ*, accepted as a full paper at
+[ECTEL](http://www.ec-tel.eu/index.php?id=732).
+
+<img src="../img/conference-paper.png" height="20px">
+Daniel Davis, Guanliang Chen, Tim van der Zee, Claudia Hauff and Geert-Jan Houben. 
+*Retrieval Practice and Study Planning in MOOCs: Exploring Classroom-Based Self-Regulated Learning Strategies at Scale*, accepted as a full paper at
+[ECTEL](http://www.ec-tel.eu/index.php?id=732).
+
+<img src="../img/conference-paper.png" height="20px">
 Yue Zhao and Claudia Hauff. 
 *Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
 [TPDL](http://www.tpdl2016.org/).
