@@ -9,14 +9,14 @@ Once we started looking at people that participate in MOOCs (i.e. the "learners"
 also curious to know where else on the Web they are active: on which social platforms do MOOC learners leave their
 traces behind? The motivation for this question is not hard to find: learning things about our learners **before and/or after** they have taken a MOOC can enable us to, for instance, track the impact of the MOOC on people's lives, adapt MOOCs according to individual expertise before learners enter the MOOC platform and so forth.
 
-In one of our recent papers: 
+In one of our recent papers (available at the [ACM Portal](http://dl.acm.org/citation.cfm?doid=2908131.2908145)): 
 
 ```bibtex
 @inproceedings{Chen2016b,
   author = {Guanliang Chen and Dan Davis and Jun Lin and Claudia Hauff and Geert-Jan Houben},
   booktitle = {WebScience '16: 8th International ACM Web Science Conference},
   title = {Beyond the MOOC platform: Gaining Insights about Learners from the Social Web},
-  pages = {...},
+  pages = {15-24},
   year = {2016}
 }
 ```  
