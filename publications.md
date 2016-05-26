@@ -45,8 +45,8 @@ Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben.
 
 <img src="../img/conference-paper.png" height="20px">
 Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar. 
-*Diversity in Social Media Urban Analytics*, accepted as a full paper at
-[ICWE 2016](http://icwe2016.inf.usi.ch/).
+*Diversity in Social Media Urban Analytics*,
+[ICWE](http://icwe2016.inf.usi.ch/), pp. 335-353, 2016.
 
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, 
