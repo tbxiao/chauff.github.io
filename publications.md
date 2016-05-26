@@ -42,6 +42,7 @@ Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben.
 *Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, [ACM WebScience](http://websci16.org/), pp. 15-24, 2016.
 [[Blog post&#8594;]]({% post_url 2016-04-15-beyond-the-mooc-platform %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2908131.2908145) 
+[[PDF&#8594;]](../documents/publications/WEBSCI2016-chen.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar. 
