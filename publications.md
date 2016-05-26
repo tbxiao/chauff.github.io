@@ -55,6 +55,7 @@ Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben,
 <span style="color:red">It received an "Honorable Mention."</span>
 [[Blog post&#8594;]]({% post_url 2016-03-01-learning-transfer %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2876034.2876035) 
+[[PDF&#8594;]](../documents/publications/LAS2016-chen.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
