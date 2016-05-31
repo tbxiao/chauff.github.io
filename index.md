@@ -45,11 +45,13 @@ social search, computational social science,
 learning to search and IR for specific user groups.
 
 I have diverse research interests and am always happy to dive into a new area. Together with three PhD students 
-I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing heavily on large-scale learning analytics and how to incorporate search into the learning process at scale (after all, I am an IR researcher!). TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; ultimately, I and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) I lead, aim to provide insights and develop mechanisms to improve learning at scale. 
+I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing heavily on large-scale learning analytics and how to incorporate search into the learning process at scale (after all, I am an *IR* researcher!). TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; ultimately, I and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) I lead, aim to provide insights and develop mechanisms to improve learning at scale. 
 
-Before pushing the search angle into MOOCs, I needed to gather some track record in the learning analytics community. Thus, in the last year, together with my PhD students I have made a concerted effort to enter the community through publications. To get a quick overview of the kind of questions we have published about, take a look at the slides, they cover each contribution in 1-2 slides:
+To get some track record in the domain of learning (and to sell my interest of search as learning), together with my PhD students I have made a concerted effort to enter the community through publications. In the past 12 months, this strategy has led to **six** full papers at top-level conferences. To get a quick overview of the kind of questions we have published about, take a look at the slides, they cover each contribution in 1-2 slides:
 
 <iframe src="https://docs.google.com/presentation/d/1VT1qPqeAWwM20cDH_3i0cYlEmm2cPa4ZtVy4KEuJvFY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+If you are looking for collaborations in the crossover between learning analytics and IR, please get in touch.
 
 ## Contact
 
