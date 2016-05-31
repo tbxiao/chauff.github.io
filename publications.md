@@ -61,8 +61,8 @@ Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben,
 <img src="../img/workshop-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
 *Encouraging Metacognition & Self-Regulation in MOOCs through Increased Learner Feedback*, 
-a demonstration paper at the [Learning Analytics for Learners workshop](http://css-kmi.tugraz.at/mkrwww/leas-box/lakws16/papers.html), 
-co-located with [LAK 2016](http://lak16.solaresearch.org/).
+[Learning Analytics for Learners workshop](http://css-kmi.tugraz.at/mkrwww/leas-box/lakws16/papers.html) (
+co-located with [LAK 2016](http://lak16.solaresearch.org/)), pp. 17-22, 2016.
 [[Proceedings]](http://ceur-ws.org/Vol-1596/)
 [[PDF&#8594;]](../documents/publications/LAL2016-davis.pdf)
 
