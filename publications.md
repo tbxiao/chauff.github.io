@@ -22,6 +22,7 @@ Yue Zhao and Claudia Hauff.
 *Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
 [TPDL](http://www.tpdl2016.org/).
 [[Blog post&#8594;]]({% post_url 2016-05-20-subdocument-timestamping %})
+[[PDF&#8594;]](../documents/publications/TPDL2016-zhao.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
