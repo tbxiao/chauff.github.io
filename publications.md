@@ -54,10 +54,11 @@ Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar.
 
 
 <img src="../img/conference-paper.png" height="20px">
+<img src="../img/award.png" height="30px">
 Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, 
 *Learning Transfer: does it take place in MOOCs?*,
 [ACM Learning At Scale](http://learningatscale.acm.org/las2016/), pp. 409-418, 2016.
-<span style="color:red">It received an "[Honorable Mention](http://learningatscale.acm.org/las2016/)."</span>
+<span style="color:red">It [received](http://learningatscale.acm.org/las2016/) an "Honorable Mention."</span>
 [[Blog post&#8594;]]({% post_url 2016-03-01-learning-transfer %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2876034.2876035) 
 [[PDF&#8594;]](../documents/publications/LAS2016-chen.pdf)
