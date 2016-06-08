@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html).
 
-## 2016
+## 2016 <img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px">
 Vasileios Triglianos, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. 
