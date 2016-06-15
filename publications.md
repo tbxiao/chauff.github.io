@@ -11,18 +11,21 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Vasileios Triglianos, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. 
 *Inferring student attention with ASQ*, accepted as a full paper at
 [ECTEL](http://www.ec-tel.eu/index.php?id=732).
+[[PDF Preprint&#8594;]](../documents/publications/ECTEL2016-triglianos.pdf)
+
 
 <img src="../img/conference-paper.png" height="20px">
 Daniel Davis, Guanliang Chen, Tim van der Zee, Claudia Hauff and Geert-Jan Houben. 
 *Retrieval Practice and Study Planning in MOOCs: Exploring Classroom-Based Self-Regulated Learning Strategies at Scale*, accepted as a full paper at
 [ECTEL](http://www.ec-tel.eu/index.php?id=732).
+[[PDF Preprint&#8594;]](../documents/publications/ECTEL2016-davis.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Yue Zhao and Claudia Hauff. 
 *Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
 [TPDL](http://www.tpdl2016.org/).
 [[Blog post&#8594;]]({% post_url 2016-05-20-subdocument-timestamping %})
-[[PDF&#8594;]](../documents/publications/TPDL2016-zhao.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/TPDL2016-zhao.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
@@ -43,14 +46,14 @@ Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben.
 *Beyond the MOOC platform: Gaining Insights about Learners from the Social Web*, [ACM WebScience](http://websci16.org/), pp. 15-24, 2016.
 [[Blog post&#8594;]]({% post_url 2016-04-15-beyond-the-mooc-platform %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2908131.2908145) 
-[[PDF&#8594;]](../documents/publications/WEBSCI2016-chen.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/WEBSCI2016-chen.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar. 
 *Diversity in Social Media Urban Analytics*,
 [ICWE](http://icwe2016.inf.usi.ch/), pp. 335-353, 2016.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-319-38791-8_19) 
-[[PDF&#8594;]](../documents/publications/ICWE2016-yang.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ICWE2016-yang.pdf)
 
 
 <img src="../img/conference-paper.png" height="20px">
@@ -61,7 +64,7 @@ Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben,
 <span style="color:red">It received an "Honorable Mention."</span>
 [[Blog post&#8594;]]({% post_url 2016-03-01-learning-transfer %})
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?doid=2876034.2876035) 
-[[PDF&#8594;]](../documents/publications/LAS2016-chen.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/LAS2016-chen.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
@@ -69,7 +72,7 @@ Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben,
 [Learning Analytics for Learners workshop](http://css-kmi.tugraz.at/mkrwww/leas-box/lakws16/papers.html) (
 co-located with [LAK 2016](http://lak16.solaresearch.org/)), pp. 17-22, 2016.
 [[Proceedings]](http://ceur-ws.org/Vol-1596/)
-[[PDF&#8594;]](../documents/publications/LAL2016-davis.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/LAL2016-davis.pdf)
 
 
 ## 2015
@@ -78,20 +81,20 @@ co-located with [LAK 2016](http://lak16.solaresearch.org/)), pp. 17-22, 2016.
 Jaeyoung Choi, Claudia Hauff, Olivier van Laere and Bart Thomee, 
 *The Placing Task at MediaEval 2015*, overview paper of our benchmark running 
 at [MediaEval 2015](http://www.multimediaeval.org/mediaeval2015/).
-[[PDF&#8594;]](http://ceur-ws.org/Vol-1436/Paper6.pdf)
+[[PDF Preprint&#8594;]](http://ceur-ws.org/Vol-1436/Paper6.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Dong Nguyen, Tijs A. van den Broek, Claudia Hauff and Djoerd Hiemstra, 
 *#SupportTheCause: Identifying Motivations to Participate in Online Health Campaigns*, 
 [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/), 
 pp. 2570-2576, 2015.
-[[PDF&#8594;]](http://doc.utwente.nl/99122/1/D15-1308.pdf)
+[[PDF Preprint&#8594;]](http://doc.utwente.nl/99122/1/D15-1308.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Nugroho Dwi Prasetyo, Claudia Hauff, Dong Nguyen, Tijs van den Broek and Djoerd Hiemstra, 
 *On the Impact of Twitter-based Health Campaigns: A Cross-Country Analysis of Movember*, 
 [LOUHI 2015 workshop](https://louhi2015.limsi.fr/) (co-located with EMNLP 2015), pp. 55-63, 2015.
-[[PDF&#8594;]](http://doc.utwente.nl/99124/1/W15-2607.pdf)
+[[PDF Preprint&#8594;]](http://doc.utwente.nl/99124/1/W15-2607.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Nugroho Dwi Prasetyo and Claudia Hauff, 
@@ -111,13 +114,13 @@ SIGIR 2015, pp. 133-142, 2015.
 Yue Zhao and Claudia Hauff, 
 *Sub-document timestamping of Web documents*, SIGIR 2015, pp. 1023-1026, 2015.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2767803) 
-[[PDF&#8594;]](../documents/publications/SIGIR2015-Zhao.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2015-Zhao.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Claudia Hauff and Georgios Gousios, 
 *Matching GitHub developer profiles to job advertisments*, MSR 2015, pp. 362-366, 2015.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2820563) 
-[[PDF&#8594;]](../documents/publications/MSR2015-gousios.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/MSR2015-gousios.pdf)
  
  <img src="../img/conference-paper.png" height="20px">
 Dirk Guijt and Claudia Hauff, 
@@ -143,14 +146,14 @@ Ke Tao, Claudia Hauff, Geert-Jan Houben, Fabian Abel, and Guido Wachsmuth,
  *Answering the Right Question: on the Editing of Questions in Collaborative Question Answering Systems*, 
 HyperText 2014, pp. 179-189, 2014.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2631809)
-[[PDF&#8594;]](../documents/publications/HYPER2014-yang.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/HYPER2014-yang.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
  Michiel van Dam, and Claudia Hauff, 
  *Large-Scale Author Verification: Temporal and Topical Influences*, 
  SIGIR 2014, pp. 1039-1042, 2014.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2609504)
-[[PDF&#8594;]](../documents/publications/SIGIR2014-vandam.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2014-vandam.pdf)
 [[Poster PDF&#8594;]](../documents/publications/SIGIR2014-vandam-poster.pdf)
 
 ## 2013
@@ -159,18 +162,18 @@ HyperText 2014, pp. 179-189, 2014.
 Claudia Hauff, Bart Thomee, and Michele Trevisiol, 
 *Working Notes for the Placing Task at MediaEval*, overview paper of our benchmark running 
 at [MediaEval 2013](http://www.multimediaeval.org/mediaeval2013/).
-[[PDF&#8594;]](http://ceur-ws.org/Vol-1043/mediaeval2013_submission_95.pdf)
+[[PDF Preprint&#8594;]](http://ceur-ws.org/Vol-1043/mediaeval2013_submission_95.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Ke Tao, Claudia Hauff and Geert-Jan Houben, 
 *Building a Microblog Corpus for Search Result Diversification*, AIRS 2013, pp. 251-262, 2013.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-45068-6_22)
-[[PDF&#8594;]](../documents/publications/AIRS2013-tao.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/AIRS2013-tao.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Claudia Hauff, *A Study on the Accuracy of Flickr's Geotag Data*, SIGIR 2013, pp. 1037-1040, 2013.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2484154)
-[[PDF&#8594;]](../documents/publications/SIGIR2013-Hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2013-Hauff.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
  Ke Tao, Fabian Abel, Claudia Hauff, Geert-Jan Houben and Ujwal Gadiraju, 
@@ -190,13 +193,13 @@ EC-TEL 2013, pp. 396-409, 2013.
 Claudia Hauff, Matthias Hagen, Anna Beyer and Benno Stein, 
 *Towards realistic known-item topics for the ClueWeb*, IIiX 2012, pp. 274-277, 2012.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2362773)
-[[PDF&#8594;]](http://www.uni-weimar.de/medien/webis/publications/papers/stein_2012n.pdf)
+[[PDF Preprint&#8594;]](http://www.uni-weimar.de/medien/webis/publications/papers/stein_2012n.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff and Geert-Jan Houben, 
 *Placing images on the world map: a microblog-based enrichment approach*, SIGIR 2012, pp. 691-700, 2012.
 [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=2348376)
-[[PDF&#8594;]](../documents/publications/SIGIR2012-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2012-hauff.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Fabian Abel, Claudia Hauff, Geert-Jan Houben and Ke Tao, 
@@ -212,7 +215,7 @@ Ke Tao, Fabian Abel, Claudia Hauff and Geert-Jan Houben,
 Djoerd Hiemstra and Claudia Hauff, *Brute Force Information Retrieval Experiments using MapReduce*, 
 ERCIM News 89, pp. 31-32, 2012.
 [[ERCIM&#8594;]](http://ercim-news.ercim.eu/en89/special/brute-force-information-retrieval-experiments-using-mapreduce)
-[[PDF&#8594;]](http://ercim-news.ercim.eu/images/stories/EN89/EN89-web.pdf)
+[[PDF Preprint&#8594;]](http://ercim-news.ercim.eu/images/stories/EN89/EN89-web.pdf)
 
 <img src="../img/demo-paper.png" height="20px">
 Fabian Abel, Claudia Hauff, Geert-Jan Houben, Ke Tao and Richard Stronkman, 
@@ -222,7 +225,7 @@ Fabian Abel, Claudia Hauff, Geert-Jan Houben, Ke Tao and Richard Stronkman,
 <img src="../img/workshop-paper.png" height="20px">
 Ke Tao, Fabian Abel, Claudia Hauff and Geert-Jan Houben, 
 *What makes a tweet relevant for a topic?*, WWW '12 workshop #MSM2012: Making Sense of Microposts, pp. 49-56, 2012.
-[[PDF&#8594;]](http://ceur-ws.org/Vol-838/paper_08.pdf)
+[[PDF Preprint&#8594;]](http://ceur-ws.org/Vol-838/paper_08.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Fabian Abel, Claudia Hauff, Geert-Jan Houben, Ke Tao and Richard Stronkman, 
@@ -232,26 +235,26 @@ Fabian Abel, Claudia Hauff, Geert-Jan Houben, Ke Tao and Richard Stronkman,
 <img src="../img/workshop-paper.png" height="20px">
 Claudia Hauff and Geert-Jan Houben, 
 *Serendipitous Browsing: Stumbling through Wikipedia*, ECIR '12 workshop Searching 4Fun!, 2012.
-[[PDF&#8594;]](../documents/publications/searching4fun-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/searching4fun-hauff.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff and Geert-Jan Houben, 
 *Geo-Location Estimation of Flickr Images: Social Web Based Enrichment*, ECIR 2012, pp. 85-96, 2012.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-28997-2_8)
-[[PDF&#8594;]](../documents/publications/ECIR2012-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ECIR2012-hauff.pdf)
 
 ## 2011
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff and Geert-Jan Houben, *Cognitive Processes in Query Generation*, ICTIR 2011, pp. 176-187, 2011.
 [[Springer&#8594;]](http://www.springerlink.com/content/v40025w1831461h6/)
-[[PDF&#8594;]](../documents/publications/ICTIR2011-hauff2.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ICTIR2011-hauff2.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Fabian Abel, Ilknur Celik, Claudia Hauff, Laura Hollink and Geert-Jan Houben, 
 *U-Sem: Semantic Enrichment, User Modeling and Mining Usage Data on the Social Web*, 
 1st International Workshop on Usage Analysis and the Web of Data (USEWOD2011), 2011.
-[[PDF&#8594;]](../documents/publications/usewod2011_abel.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/usewod2011_abel.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Dolf Trieschnigg and Claudia Hauff, 
@@ -277,7 +280,7 @@ Claudia Hauff, Leif Azzopardi and Diane Kelly,
  <img src="../img/workshop-paper.png" height="20px">
 Djoerd Hiemstra and Claudia Hauff, 
 *MapReduce for information retrieval evaluation: "Let's quickly test this on 12 TB of data"*, CLEF 2010, pp. 64 - 69, 2010.
-[[PDF&#8594;]](../documents/publications/clef10.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/clef10.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Guido Zuccon, Leif Azzopardi, Claudia Hauff and C.J. van Rijsbergen, 
@@ -288,25 +291,25 @@ Guido Zuccon, Leif Azzopardi, Claudia Hauff and C.J. van Rijsbergen,
 Claudia Hauff, Diane Kelly, Leif Azzopardi and Franciska de Jong, 
 *Query Quality: User Ratings and System Predictions*, SIGIR 2010, pp. 743-744, 2010.
 [[ACM Portal&#8594;]](http://doi.acm.org/10.1145/1835449.1835594)
-[[PDF&#8594;]](../documents/publications/SIGIR2010-userRatings.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2010-userRatings.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Claudia Hauff and Franciska de Jong, 
 *Retrieval System Evaluation: Automatic Evaluation versus Incomplete Judgments*, SIGIR 2010, pp. 863-864, 2010.
 [[ACM Portal&#8594;]](http://doi.acm.org/10.1145/1835449.1835654)
-[[PDF&#8594;]](../documents/publications/SIGIR2010-auto.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2010-auto.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff, Leif Azzopardi, Djoerd Hiemstra and Franciska de Jong, 
 *Query Performance Prediction: Evaluation Contrasted with Effectiveness*, ECIR 2010, pp. 204-216, 2010.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-12275-0_20)
-[[PDF&#8594;]](../documents/publications/ECIR2010-effectiveness-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ECIR2010-effectiveness-hauff.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff, Djoerd Hiemstra, Leif Azzopardi and Franciska de Jong, 
 *A Case for Automatic System Evaluation*, ECIR 2010, pp. 153-165, 2010.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-12275-0_16)
-[[PDF&#8594;]](../documents/publications/ECIR2010-autoEval-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ECIR2010-autoEval-hauff.pdf)
 
 ## 2009
 
@@ -324,13 +327,13 @@ Ricardo Baeza-Yates, Vanessa Murdock and Claudia Hauff,
 Claudia Hauff and Leif Azzopardi, 
 *When is Query Performance Prediction Effective?*, SIGIR 2009, pp. 829-830, 2009.
 [[ACM Portal&#8594;]](http://doi.acm.org/10.1145/1571941.1572150)
-[[PDF&#8594;]](../documents/publications/SIGIR2009-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/SIGIR2009-hauff.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Claudia Hauff, Leif Azzopardi and Djoerd Hiemstra, 
 *The Combination and Evaluation of Query Performance Prediction Methods*, ECIR 2009, pp. 301-312, 2009.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-00958-7_28)
-[[PDF&#8594;]](../documents/publications/ECIR2009-hauff.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/ECIR2009-hauff.pdf)
 
 ## 2008
 
@@ -338,13 +341,13 @@ Claudia Hauff, Leif Azzopardi and Djoerd Hiemstra,
 A. Overwijk, D. Nguyen, C. Hauff, R.B. Trieschnigg, D. Hiemstra, F.M.G. de Jong, 
 *On the Evaluation of Snippet Selection for Information Retrieval*, CLEF 2008, pp. 794 - 797, 2008.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-04447-2_103)
-[[PDF&#8594;]](../documents/publications/CLEF2008-overwijk.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/CLEF2008-overwijk.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 D. Nguyen, A.Overwijk, C.Hauff, R.B. Trieschnigg, D. Hiemstra, F.M.G. de Jong, 
 *WikiTranslate: Query Translation for Cross-lingual Information Retrieval using only Wikipedia*, CLEF 2008, pp. 58 - 65, 2008.
 [[Springer&#8594;]](http://link.springer.com/chapter/10.1007%2F978-3-642-04447-2_6)
-[[PDF&#8594;]](../documents/publications/CLEF2008-nguyen.pdf)
+[[PDF Preprint&#8594;]](../documents/publications/CLEF2008-nguyen.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px">
 Claudia Hauff, Djoerd Hiemstra and Franciska de Jong, 
