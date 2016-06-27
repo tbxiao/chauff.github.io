@@ -6,10 +6,8 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
-- Our learning analytics research is taking off with **five** recent full paper acceptances at [ACM UMAP 2016](http://www.um.org/umap2016/), [ACM WebScience 2016](http://websci16.org/), [EDM 2016](http://www.educationaldatamining.org/EDM2016/) and 2x [ECTEL 2016](http://www.ec-tel.eu/index.php?id=732).
-- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/).
-- Our analysis of learning transfer among programmers taking a MOOC has been accepted at [ACM L@S](http://learningatscale.acm.org/las2016/): 
-do learner actually apply what they have learned in practice? Take a look at [my blog]({% post_url 2016-03-01-learning-transfer %}).
+- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/). I am also co-editing a [special issue](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf) on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791).
+- My team's learning analytics research is taking off with **six** recent full paper acceptances at [ACM UMAP 2016](http://www.um.org/umap2016/), [ACM WebScience 2016](http://websci16.org/), [EDM 2016](http://www.educationaldatamining.org/EDM2016/), [ACM L@S 2016](http://learningatscale.acm.org/las2016/) and 2x [ECTEL 2016](http://www.ec-tel.eu/index.php?id=732).
 
 <p>
  <a class="twitter-timeline"
@@ -31,9 +29,9 @@ do learner actually apply what they have learned in practice? Take a look at [my
  </script>
 </p>
 
-## About me
+## Briefly
 
-Since 2013, I work as an Assistant Professor (tenured as of 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+Since 2013, I work as Assistant Professor (tenured as of 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/). Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
@@ -45,9 +43,7 @@ social search, computational social science,
 learning to search and IR for specific user groups.
 
 I have diverse research interests and am always happy to dive into a new area. Together with three PhD students 
-I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing heavily on large-scale learning analytics and how to incorporate search into the learning process at scale (after all, I am an *IR* researcher!). TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; ultimately, I and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) I lead, aim to provide insights and develop mechanisms to improve learning at scale. 
-
-To get some track record in the domain of learning (and to sell my interest of search as learning), together with my PhD students I have made a concerted effort to enter the community through publications. In the past 12 months, this strategy has led to **six** full papers at top-level conferences. To get a quick overview of the kind of questions we have published about, take a look at the slides, they cover each contribution in 1-2 slides:
+I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing heavily on large-scale learning analytics and how to incorporate search into the learning process at scale (after all, I am an *IR* researcher!). TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; ultimately, I and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) I lead, aim to provide insights and develop mechanisms to improve learning at scale. To get a quick overview of the kind of questions we have recently published about, take a look at the following slides, they cover each contribution in 1-2 slides:
 
 <iframe src="https://docs.google.com/presentation/d/1GUstBTltQXmktv9hG2x0u2-PfBfnhlFvNV2pZKy3Hc8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -66,6 +62,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
+- Co-organizer of a Dagstuhl seminar on *Search as Learning* to be held in March 2017
 - Member of the 2016 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
