@@ -6,7 +6,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
-- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/). I am also co-editing a <mark>[special issue](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf)</mark> on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791).
+- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/). I am also co-editing a [special issue](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf) on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791).
 - My team's learning analytics research is taking off with **six** recent full paper acceptances at [ACM UMAP 2016](http://www.um.org/umap2016/), [ACM WebScience 2016](http://websci16.org/), [EDM 2016](http://www.educationaldatamining.org/EDM2016/), [ACM L@S 2016](http://learningatscale.acm.org/las2016/) and 2x [ECTEL 2016](http://www.ec-tel.eu/index.php?id=732).
 
 <p>
