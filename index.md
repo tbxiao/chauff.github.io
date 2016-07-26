@@ -6,7 +6,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
-- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I will be co-organizing a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. [Our workshop website is online](http://chauff.github.io/sal2016/). I am also a guest editor of a [special issue](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf) on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791) as well as a co-organizer of a [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on Search As Learning in Spring 2017.
+- At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I co-organized a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. The workshop proceedings are [available through CEUR](http://ceur-ws.org/Vol-1647/). I am also a guest editor of a [special issue [PDF)](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf) on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791) as well as a co-organizer of a [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on Search As Learning in Spring 2017.
 - My team's learning analytics research is taking off with **six** recent full paper acceptances at [ACM UMAP 2016](http://www.um.org/umap2016/), [ACM WebScience 2016](http://websci16.org/), [EDM 2016](http://www.educationaldatamining.org/EDM2016/), [ACM L@S 2016](http://learningatscale.acm.org/las2016/) and 2x [ECTEL 2016](http://www.ec-tel.eu/index.php?id=732).
 
 <p>
@@ -31,7 +31,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## Briefly
 
-Since 2013, I work as Assistant Professor (tenured as of 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+Since 2013, I have been working as Assistant Professor (tenured as of 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/). Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
@@ -63,7 +63,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Organizational duties and activities
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
-- Co-organizer of a Dagstuhl seminar on *Search as Learning* to be held in March 2017
+- Co-organizer of a Dagstuhl seminar on [*Search as Learning*](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) to be held in February 2017
 - Member of the 2016 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of [ECIR 2016](http://ecir2016.dei.unipd.it/)
