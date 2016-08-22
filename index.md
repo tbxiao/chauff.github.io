@@ -63,6 +63,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Invited talk at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup in October 2016
 - Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) in November 2016
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
 - Co-organizer of a Dagstuhl seminar on [*Search as Learning*](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) to be held in February 2017
