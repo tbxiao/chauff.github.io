@@ -63,6 +63,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org) (ECIR 2017)
 - Invited talk at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup in October 2016
 - Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) in November 2016
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
