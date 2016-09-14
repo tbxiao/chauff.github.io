@@ -5,41 +5,45 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html).
 
-## 2016 <img src="../img/award.png" height="30px">
+## 2016 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px">
 Vasileios Triglianos, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. 
-*Inferring student attention with ASQ*, accepted as a full paper at
-[ECTEL](http://www.ec-tel.eu/index.php?id=732).
+*Inferring student attention with ASQ*, 
+[ECTEL](http://www.ec-tel.eu/index.php?id=732), pp. 306-320, 2016.
 [[PDF Preprint&#8594;]](../documents/publications/ECTEL2016-triglianos.pdf)
 
-
 <img src="../img/conference-paper.png" height="20px">
+<img src="../img/award.png" height="30px">
 Daniel Davis, Guanliang Chen, Tim van der Zee, Claudia Hauff and Geert-Jan Houben. 
-*Retrieval Practice and Study Planning in MOOCs: Exploring Classroom-Based Self-Regulated Learning Strategies at Scale*, accepted as a full paper at
-[ECTEL](http://www.ec-tel.eu/index.php?id=732).
+*Retrieval Practice and Study Planning in MOOCs: Exploring Classroom-Based Self-Regulated Learning Strategies at Scale*,
+[ECTEL](http://www.ec-tel.eu/index.php?id=732), pp. 57-71, 2016.
+<span style="color:red">It received the "Best Student Paper Award."</span>
 [[PDF Preprint&#8594;]](../documents/publications/ECTEL2016-davis.pdf)
+[[PDF slides&#8594;]](../documents/publications/ECTEL2016-slides-davis.pdf)
+
 
 <img src="../img/conference-paper.png" height="20px">
 Yue Zhao and Claudia Hauff. 
-*Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, accepted as a full paper at
-[TPDL](http://www.tpdl2016.org/).
+*Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents*, 
+[TPDL](http://www.tpdl2016.org/), pp. 203-214, 2016.
 [[Blog post&#8594;]]({% post_url 2016-05-20-subdocument-timestamping %})
 [[PDF Preprint&#8594;]](../documents/publications/TPDL2016-zhao.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben. 
-*Gauging MOOC Learners' Adherence to the Designed Learning Path*, accepted as a full paper at
-[EDM](http://www.educationaldatamining.org/EDM2016/).
+*Gauging MOOC Learners' Adherence to the Designed Learning Path*, 
+[EDM](http://www.educationaldatamining.org/EDM2016/), pp. 54-61, 2016.
 [[Blog post&#8594;]]({% post_url 2016-04-28-learning-paths %})
 
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Claudia Hauff, and Geert-Jan Houben. 
-*On the Impact of Personality in Massive Open Online Learning*, accepted as a full paper at
-[ACM UMAP](http://www.um.org/umap2016/).
+*On the Impact of Personality in Massive Open Online Learning*, 
+[ACM UMAP](http://www.um.org/umap2016/), pp. 121-130, 2016.
 
 <img src="../img/conference-short-paper.png" height="20px">
-Yue Zhao and Claudia Hauff. *Temporal Query Intent Disambiguation using Time-Series Data*, accepted as a short paper at [ACM SIGIR 2016](http://sigir.org/sigir2016/).
+Yue Zhao and Claudia Hauff. *Temporal Query Intent Disambiguation using Time-Series Data*, 
+[ACM SIGIR 2016](http://sigir.org/sigir2016/), pp. 1017-1020, 2016.
 
 <img src="../img/conference-paper.png" height="20px">
 Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff, and Geert-Jan Houben. 
