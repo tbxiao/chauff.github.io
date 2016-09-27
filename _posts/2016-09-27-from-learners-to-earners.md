@@ -3,7 +3,7 @@ layout: post
 title: From Learners to Earners
 ---
 
-MOOCs aim to ``educate the world.'' More often than not, however, MOOCs fall short of this
+MOOCs aim to "educate the world." More often than not, however, MOOCs fall short of this
 goal — a majority of learners are already highly educated and come from specific parts of the (developed) world. Learners from developing countries without a higher degree are underrepresented, though desired, in MOOCs. 
 
 One reason for those learners to drop out of a course can be found in their financial realities and the subsequent limited amount of time they can dedicate to a course besides earning a living. If we could **pay** learners to take a MOOC, this hurdle would largely disappear. With MOOCS, this leads to the following fundamental challenge: *How can learners be paid at scale?* Ultimately, we envision a recommendation engine that recommends tasks from online market places such as [Upwork](https://www.upwork.com/) or [witmart](http://www.witmart.com/) to learners, that are **relevant** to the course content of the MOOC. In this manner, the learners learn *and* earn money. 
