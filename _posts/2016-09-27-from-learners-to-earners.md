@@ -39,7 +39,7 @@ As we aim to determine whether learners can solve real-world tasks that are rela
 
 Yes they are! Well, those that try at least are. In the table below, we show for each course week the number of active learners (those that are still following the course), the number of learners that submitted a solution to the weekly bonus exercise and most importantly, the number of accurate (i.e. in line with the ground truth) and high quality (no code smells) solutions. 
 
-<img src="../img/tlt-learner-performance.png" width="900px">
+<img src="../img/tlt-learner-performances.png" width="900px">
 
 The progression through the course weeks is typical for a MOOC: in week 1 learners are still highly motivated and 16% submitted a solution to our Upwork-based bonus exercise, by week 7 we were down to 1% of learners. Interestingly, the accuracy of the solutions is not correlated with the amount of pay for task - the two lowest paid tasks ended up being the tasks with the lowest percentage of accurate solutions (when we looked at the results we found that the lengthy descriptions threw learners off and they often missed one of the required data processing steps). 
 Positive to mention is the quality of the solutions, a large fraction of the solutions exhibited zero code smells!
