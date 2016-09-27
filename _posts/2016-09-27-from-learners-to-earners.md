@@ -28,9 +28,9 @@ we explored two questions:
 
 
 
-## You paid your learners???
+## You paid your learners?
 
-In this first study, we did not actually pay learners (that would be a great follow-up though!), instead we inserted ``bonus exercises'' drawn from paid tasks posted on [Upwork](https://www.upwork.com/) into the MOOC *Data Analysis: Take it to the MAX()*, which teaches basic data analysis skills using spreadsheets (lookup and search functions, array formulas, named ranges, etc.). The MOOC was one of the more popular ones at TU Delft with 33,515 registered learners of which less than 7% completed the course successfully (this low number is in line with similar MOOC offerings).
+In this first study, we did not actually pay our learners (that would be a great follow-up though!), instead we inserted ``bonus exercises'' drawn from paid tasks posted on [Upwork](https://www.upwork.com/) into the MOOC *Data Analysis: Take it to the MAX()*, which teaches basic data analysis skills using spreadsheets (lookup and search functions, array formulas, named ranges, etc.). The MOOC was one of the more popular ones at TU Delft with 33,515 registered learners of which less than 7% completed the course successfully (this low number is in line with similar MOOC offerings).
 
 As we aim to determine whether learners can solve real-world tasks that are related to the course material with high accuracy and quality, for each course week we manually selected one appropriate paid task from Upwork, limited to those paying between US $20-$50; we fixed these limits as we wanted the tasks to be meaningful but also solvable in a reasonable amount of time. We kept the task descriptions intact, let our learners solve the tasks and had a spreadsheet expert generate the ground truth solution against which we compared all solutions sent in by our leaners. We also identified a number of relevant [code smells](https://en.wikipedia.org/wiki/Code_smell) that we employed to measure the *quality* of the submissions. 
 
