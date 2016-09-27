@@ -56,4 +56,4 @@ About 2,500 tasks fall into our budget range of up to US $50. However if we filt
 
 ## Where can I read more about this?
 
-In the preprint, up in a few days!
+In the journal's preprint, which will be up within the next 7 days!
