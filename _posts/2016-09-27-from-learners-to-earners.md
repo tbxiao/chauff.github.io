@@ -12,11 +12,9 @@ To investigate the feasibility of this vision, in a recently accepted journal ar
 
 ```bibtex
 @article{Chen2016c,
-  author = {Guanliang Chen and Dan Davis and Markus Krause and Efthimia Aivaloglou 
-            and Claudia Hauff and Geert-Jan Houben},
+  author = {Guanliang Chen and Dan Davis and Markus Krause and Efthimia Aivaloglou and Claudia Hauff and Geert-Jan Houben},
   journal = {IEEE Transactions on Learning Technologies},
-  title = {Can Learners be Earners? Investigating a Design to Enable MOOC Learners 
-           to Apply their Skills and Earn Money in an Online Market Place},
+  title = {Can Learners be Earners? Investigating a Design to Enable MOOC Learners to Apply their Skills and Earn Money in an Online Market Place},
   pages = {...},
   year = {2016}
 }
