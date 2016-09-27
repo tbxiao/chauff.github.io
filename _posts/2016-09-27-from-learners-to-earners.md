@@ -50,7 +50,7 @@ Does Upwork actually have sufficient tasks to support thousands of learners with
 
 Among all open tasks, about 8,000 have a fixed budget (instead of an hourly rate or a specific contract length) which can be binned according to their budget as follows:
 
-<img src="../img/tlt-budget.png" width="600px">
+<img src="../img/tlt-budget.png" width="400px">
 
 About 2,500 tasks fall into our budget range of up to US $50. However if we filter out all those that are *not* relevant to spreadsheets we are left with only 574 *potentially relevant* tasks in the budget range $1-$50. We manually labelled a sample of those tasks for their relevance to the taught MOOC material. Based on this labelling we estimate that for this particular MOOC and our budget constraints 11 *relevant* tasks are added *every day* to Upwork. This is better than nothing, but clearly not enough. In the future we will consider additional freelance platforms, tasks with larger budgets (which may be split across learners) and setups that will aid MOOC leanrers to take the first actual steps into the paid freelance task world.
 
