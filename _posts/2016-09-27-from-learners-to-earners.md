@@ -8,7 +8,7 @@ goal — a majority of learners are already highly educated and come from specif
 
 One reason for those learners to drop out of a course can be found in their financial realities and the subsequent limited amount of time they can dedicate to a course besides earning a living. If we could **pay** learners to take a MOOC, this hurdle would largely disappear. With MOOCS, this leads to the following fundamental challenge: *How can learners be paid at scale?* Ultimately, we envision a recommendation engine that recommends tasks from online market places such as [Upwork](https://www.upwork.com/) or [witmart](http://www.witmart.com/) to learners, that are **relevant** to the course content of the MOOC. In this manner, the learners learn *and* earn money. 
 
-To investigate the feasibility of this vision, in a recently accepted journal article in the [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt)
+To investigate the feasibility of this vision, in a recently accepted journal article in the [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt):
 
 ```bibtex
 @article{Chen2016c,
@@ -21,10 +21,10 @@ To investigate the feasibility of this vision, in a recently accepted journal ar
   year = {2016}
 }
 ```
-we explored:
+we explored two questions:
 
-+ To what extent online market places contain tasks relevant to a specific MOOC, and 
-+ to what extent learners are able to solve **real-world tasks** *correctly* and with sufficient *quality*. 
+1. To what extent online market places contain tasks relevant to a specific MOOC?
+2. To what extent learners are able to solve **real-world tasks** *correctly* and with sufficient *quality*?
 
 
 
