@@ -15,7 +15,7 @@ random forests or SVN hyperplanes.
 In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/) paper: 
 
 ```bibtex
-@inproceedings{Chen2016a,
+@inproceedings{Davis2016,
   author = {Dan Davis and Guanliang Chen and Claudia Hauff and Geert-Jan Houben},
   booktitle = {EDM '16: 9th International Conference on Educational Data Mining},
   title = {Gauging MOOC Learners’ Adherence to the Designed Learning Path},
