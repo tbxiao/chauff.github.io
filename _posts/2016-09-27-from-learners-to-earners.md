@@ -21,8 +21,8 @@ To investigate the feasibility of this vision, in a recently accepted journal ar
 ```
 we explored two questions:
 
-1. To what extent online market places contain tasks relevant to a specific MOOC?
-2. To what extent learners are able to solve **real-world tasks** *correctly* and with sufficient *quality*?
+1. To what extent do online market places contain tasks relevant to a specific MOOC?
+2. To what extent are learners able to solve **real-world tasks** *correctly* and with sufficient *quality*?
 
 
 
