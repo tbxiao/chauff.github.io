@@ -58,4 +58,4 @@ In the future we will consider additional freelance platforms, tasks with larger
 
 ## Where can I read more about this?
 
-In the journal's preprint, which will be up within the next 7 days!
+The journal's preprint will appear [here](http://doi.ieeecomputersociety.org/10.1109/TLT.2016.2614302) shortly.
