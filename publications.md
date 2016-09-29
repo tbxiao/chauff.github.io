@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2016 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/journal-article.png" height="20px">
-Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben. *Can Learners be Earners? Investigating a Design to Enable MOOC Learners to Apply their Skills and Earn Money in an Online Market Place*, accepted as regular article (12 pages) at the [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt/). [[Blog post&#8594;]]({% post_url 2016-09-27-from-learners-to-earners %}) [[TLT Preprint post&#8594;]](http://doi.ieeecomputersociety.org/10.1109/TLT.2016.2614302)
+Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben. *Can Learners be Earners? Investigating a Design to Enable MOOC Learners to Apply their Skills and Earn Money in an Online Market Place*, accepted as regular article (12 pages) at the [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt/). [[Blog post&#8594;]]({% post_url 2016-09-27-from-learners-to-earners %}) [[TLT Preprint &#8594;]](http://doi.ieeecomputersociety.org/10.1109/TLT.2016.2614302)
 
 
 
