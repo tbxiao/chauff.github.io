@@ -64,6 +64,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal (since 10/2016)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
 - Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) (taking place in November 2016)
 - Invited talk at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup (October 2016)
