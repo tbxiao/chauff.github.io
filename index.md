@@ -65,7 +65,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
-- Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal (since 10/2016)
+- Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
 - Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) (taking place in November 2016)
