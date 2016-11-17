@@ -6,6 +6,7 @@ subtitle: Assistant Professor, Web Information Systems, TU Delft
 
 ## News
 
+- I received an NWO Top Grant to push the boundaries in large-scale collaborative search (project to start in 2017)!
 - I am acting as Program Chair for the [39th European Conference on Information Retrieval](http://ecir2017.org/).
 - I am organizing the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl); the preliminary program is [already available (PDF)](https://chauff.github.io/dir2016/DIR2016_Program_v1.pdf)
 - At [ACM SIGIR 2016](http://sigir.org/sigir2016/) I co-organized a workshop on **Search as Learning** together with Jacek Gwizdka, Preben Hansen, Jiyin He and Noriko Kando. The workshop proceedings are [available through CEUR](http://ceur-ws.org/Vol-1647/). I am also a guest editor of a [special issue (PDF)](http://chauff.github.io/sal2016/CfP_SI_Search_As_Learning.pdf) on the topic in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791) as well as a co-organizer of a [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on Search As Learning in Spring 2017.
@@ -65,6 +66,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Recipient of an [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (11/2016)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
