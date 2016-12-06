@@ -5,6 +5,12 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html).
 
+## 2017
+
+<img src="../img/conference-paper.png" height="20px">
+Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben. *Follow the Successful Crowd: Raising MOOC Completion Rates through Social Comparison at Scale*, accepted as full paper at the [7th International Learning Analytics &amp; Knowledge Conference](http://lak17.solaresearch.org/). 
+
+
 ## 2016 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/journal-article.png" height="20px">
