@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  &nbsp;
-subtitle: Assistant Professor, Web Information Systems, TU Delft
+title:  Assistant Professor
+subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
