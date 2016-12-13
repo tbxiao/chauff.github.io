@@ -94,7 +94,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
 
 ## Grants
-- Recipient of a 226,000€ [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html), November 2016 (personal grant)
+- Recipient of a 226,000€ [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant)
 - Grant (33,000€) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
 - TU Delft Education Research tender (2,500€) to bring real-time teaching and learning analytics into the classroom, July 2016
 - TU Delft Study Success tender (3,000€) to further improve teaching in the Bachelor, September 2015 
