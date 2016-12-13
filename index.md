@@ -66,7 +66,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
-- Recipient of an [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (11/2016)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
@@ -93,3 +92,10 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2013](http://www.multimediaeval.org/mediaeval2013/placing2013/)
 - Invited lecture in the PhD course *Technology-enhanced Learning*, offered by the [Dutch Research School for Information and Knowledge Systems](http://www.siks.nl/EL2012.php)
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
+
+## Grants
+- Recipient of a 226,000€ [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html), November 2016 (personal grant)
+- Grant (33,000€) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
+- TU Delft Education Research tender (2,500€) to bring real-time teaching and learning analytics into the classroom, July 2016
+- TU Delft Study Success tender (3,000€) to further improve teaching in the Bachelor, September 2015 
+- TU Delft Blended Education tender (10,000€) to improve teaching in the Bachelor, September 2014
