@@ -37,26 +37,35 @@ I created the material based on a number of great books, including [Mining of Ma
 and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do). 
 
 
-#### Slides - 2014/15 Edition
-- [Introduction](../documents/bdp-2014_15/1_introduction.pdf)
-- [Streams I](../documents/bdp-2014_15/2_streaming.pdf)
-- [Streams II](../documents/bdp-2014_15/3_streaming.pdf)
-- [MapReduce](../documents/bdp-2014_15/4_mapreduce.pdf)
-- [HDFS/GFS](../documents/bdp-2014_15/5_filesystem.pdf)
-- [Scheduling](../documents/bdp-2014_15/6_scheduling.pdf)
-- [Algorithm design for MapReduce](../documents/bdp-2014_15/7_design_patterns.pdf)
-- [Pig I](../documents/bdp-2014_15/8_pig.pdf)
-- [Pig II](../documents/bdp-2014_15/9_pig.pdf)
-- [HBase](../documents/bdp-2014_15/10_hbase.pdf)
-- [Graph algorithms](../documents/bdp-2014_15/11_graph.pdf)
-- [Giraph](../documents/bdp-2014_15/12_giraph.pdf)
-- [ZooKeeper](../documents/bdp-2014_15/14_zookeeper.pdf)
+#### Slides - 2016/17 Edition
+- [Introduction](../documents/bdp/intro.pdf)
+- [Streams I](../documents/bdp/streaming1.pdf)
+- [Streams II](../documents/bdp/streaming2.pdf)
+- [MapReduce](../documents/bdp/mapreduce.pdf)
+- [HDFS/GFS](../documents/bdp/gfs.pdf)
+- [Scheduling](../documents/bdp/hadoop-ctd.pdf)
+- [Algorithm design for MapReduce](../documents/bdp/design_patterns_db.pdf)
+- [Pig I](../documents/bdp/pig_intro.pdf)
+- [Pig II](../documents/bdp/pig_advanced.pdf)
+- [Graph algorithms](../documents/bdp/graph.pdf)
+- [Giraph](../documents/bdp/graph_giraph.pdf)
+- [ZooKeeper](../documents/bdp/coordination_zookeeper.pdf)
+- 2 more lecture on Spark completed this course.
+
+#### Assignments - 2016/17 edition
+- [Assignment 1: Streaming](../documents/bdp/assignment1.pdf)
+- [Assignment 2: Streaming and Hadoop](../documents/bdp/assignment2.pdf)
+- [Assignment 3: Hadoop](../documents/bdp/assignment1.pdf)
+- [Assignment 4: Pig](../documents/bdp/assignment2.pdf)
+- [Assignment 5: Pig](../documents/bdp/assignment1.pdf)
+- [Assignment 6: Giraph](../documents/bdp/assignment2.pdf)
+- [Assignment 7: Spark](../documents/bdp/assignment1.pdf)
 
 #### A Sample of Previous Exams
-- [Resit 2013/14](../documents/bdp-2014_15/exam1.pdf)
-- [Final 2014/15](../documents/bdp-2014_15/exam2.pdf)
-- [Resit 2014/15](../documents/bdp-2014_15/exam3.pdf)
-- [Final 2015/16](../documents/bdp-2014_15/exam4.pdf)
+- [Resit 2013/14](../documents/bdp/exam-1.pdf)
+- [Final 2014/15](../documents/bdp/exam-2.pdf)
+- [Resit 2014/15](../documents/bdp/exam-3.pdf)
+- [Final 2015/16](../documents/bdp/exam-4.pdf)
  
 
 ### Web (and Database) Technology
