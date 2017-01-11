@@ -55,11 +55,11 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 #### Assignments - 2016/17 edition
 - [Assignment 1: Streaming](../documents/bdp/assignment1.pdf)
 - [Assignment 2: Streaming and Hadoop](../documents/bdp/assignment2.pdf)
-- [Assignment 3: Hadoop](../documents/bdp/assignment1.pdf)
-- [Assignment 4: Pig](../documents/bdp/assignment2.pdf)
-- [Assignment 5: Pig](../documents/bdp/assignment1.pdf)
-- [Assignment 6: Giraph](../documents/bdp/assignment2.pdf)
-- [Assignment 7: Spark](../documents/bdp/assignment1.pdf)
+- [Assignment 3: Hadoop](../documents/bdp/assignment3.pdf)
+- [Assignment 4: Pig](../documents/bdp/assignment4.pdf)
+- [Assignment 5: Pig](../documents/bdp/assignment5.pdf)
+- [Assignment 6: Giraph](../documents/bdp/assignment6.pdf)
+- [Assignment 7: Spark](../documents/bdp/assignment7.pdf)
 
 #### A Sample of Previous Exams
 - [Resit 2013/14](../documents/bdp/exam-1.pdf)
