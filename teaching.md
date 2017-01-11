@@ -56,8 +56,8 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 - [Assignment 1: Streaming](../documents/bdp/assignment1.pdf)
 - [Assignment 2: Streaming and Hadoop](../documents/bdp/assignment2.pdf)
 - [Assignment 3: Hadoop](../documents/bdp/assignment3.pdf)
-- [Assignment 4: Pig](../documents/bdp/assignment4.pdf)
-- [Assignment 5: Pig](../documents/bdp/assignment5.pdf)
+- [Assignment 4: Pig](../documents/bdp/assignment4.pdf) [data](../documents/bdp/data-assignment4.zip)
+- [Assignment 5: Pig](../documents/bdp/assignment5.pdf) [data](../documents/bdp/data-assignment5.zip)
 - [Assignment 6: Giraph](../documents/bdp/assignment6.pdf)
 - [Assignment 7: Spark](../documents/bdp/assignment7.pdf)
 
