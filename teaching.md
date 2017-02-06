@@ -66,6 +66,7 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 - [Final 2014/15](../documents/bdp/exam-2.pdf)
 - [Resit 2014/15](../documents/bdp/exam-3.pdf)
 - [Final 2015/16](../documents/bdp/exam-4.pdf)
+- [Final 2016/17](../documents/bdp/exam-5.pdf)
  
 
 ### Web (and Database) Technology
