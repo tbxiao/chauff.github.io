@@ -29,8 +29,7 @@ in the domain of massive open online learning.
 
 ### Big Data Processing
 
-Since 2013/2014 I have been teaching the second year Bachelor course *Big Data Processing* at TU Delft. 
-The course covers a range of technologies in the Hadoop ecosystem after a short excursion into the streaming world; 
+Since 2013/2014 I have been teaching the second year Bachelor course *Big Data Processing* at TU Delft (with 2016/17 being the last time for now). The course covers a range of technologies in the Hadoop ecosystem after a short excursion into the streaming world; 
 I created the material based on a number of great books, including [Mining of Massive Datasets](http://www.mmds.org/),
 [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/), 
 [Hadoop: The Definite Guide](http://shop.oreilly.com/product/0636920033448.do), [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
