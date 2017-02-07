@@ -37,6 +37,7 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 #### Interactive quizzes
 I have also written a very short [blog post](http://chauff.github.io/2017-02-07-quizzes/) about them!
+
 - [17 questions on streaming](http://chauff.github.io/documents/bdp-quiz/streaming.html)
 - [29 questions on MapReduce/Hadoop](http://chauff.github.io/documents/bdp-quiz/hadoop.html)
 - [9 questions on graphs and Giraph](http://chauff.github.io/documents/bdp-quiz/graph.html)
