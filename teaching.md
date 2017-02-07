@@ -35,6 +35,12 @@ I created the material based on a number of great books, including [Mining of Ma
 [Hadoop: The Definite Guide](http://shop.oreilly.com/product/0636920033448.do), [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
 and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do). 
 
+#### Interactive quizzes
+I have also written a very short [blog post](http://chauff.github.io/2017-02-07-quizzes/) about them!
+- [17 questions on streaming](http://chauff.github.io/documents/bdp-quiz/streaming.html)
+- [29 questions on MapReduce/Hadoop](http://chauff.github.io/documents/bdp-quiz/hadoop.html)
+- [9 questions on graphs and Giraph](http://chauff.github.io/documents/bdp-quiz/graph.html)
+- [10 questions on Pig/Pig Latin](http://chauff.github.io/documents/bdp-quiz/pig.html)
 
 #### Slides - 2016/17 Edition
 - [Introduction](../documents/bdp/intro.pdf)
