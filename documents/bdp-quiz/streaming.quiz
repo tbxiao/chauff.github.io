@@ -157,3 +157,11 @@ For which of the following streams is the second-order moment $F_2$ greater than
 *= 10 10 10 10 10 5 5 5 5 5
 * 1 1 1 1 1 5 10 10 5 1
 *= 10 10 10 10 10 10 10 10 10 10
+
+
+What is the space complexity of the FREQUENT algorithm? Recall that it aims to find all elements in a sequence whose frequency exceeds $\frac{1}{k}$ of the total count. In the equations below, $n$ is the maximum value of each key and $m$ is the maximum value of each counter.
+*= $O(k(\log m + \log n))$
+* $o(k(\log m + \log n))$
+* $O(\log k(m+n))$
+* $o(\log k(m+n))$
+

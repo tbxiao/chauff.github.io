@@ -59,3 +59,8 @@ When does the shuffling & sort phase take place in Giraph?
 * That depends on the task to solve; it can be switched on by the developer.
 
 
+Which of the following statements about Giraph are correct?
+* Giraph employs both Hadoop’s map and reduce phases to run computations.
+*= Giraph employs ZooKeeper to enforce barrier waits.
+*= Computations on data are performed in memory as much as possible.
+* Giraph employs ZooKeeper to distribute the messages sent in superstep $S$ to the correct recipients in superstep $S+1$.

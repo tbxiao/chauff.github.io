@@ -250,3 +250,8 @@ Which of the following database operations – implemented as Hadoop jobs – re
 *= Union (with duplicates removed)
 * Selection
 
+Which of the following are fallacies of distributed computing?
+*= The latency is zero.
+*= The bandwidth is infinite.
+*= The network topology does not change.
+*= The network is reliable.
