@@ -64,7 +64,7 @@
 
 <body>
   $\newcommand{\ones}{\mathbf 1}$
-  <a href="http://chauff.github.io/">Back to homepage</a>
+  <a href="https://chauff.github.io/">Back to HP</a> More quizzes: <a href="hadoop.html">Hadoop</a> <a href="graph.html">Graph</a> <a href="pig.html">Pig</a> <a href="streaming.html">Streaming</a>
 <br>
 <div class="disclaimer">
 <i>All errors are my own! Though if you find any, an email would be appreciated ....</i><br>
@@ -450,6 +450,41 @@ Which of the following statements about the Misra-Gries algorithm is correct?</d
 		<hr/>
 		<div>
 			<div class="description">
+A Bloom filter guarantees no</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection">false positives</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">false negatives</div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">false positives and false negatives</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">false positives or false negatives, depending on the Bloom filter type</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
 Which of the following statements about standard Bloom filters is correct?</div>
 			<ol type="a">
 				<li class="choice">
@@ -729,6 +764,190 @@ Which of the following statements about the standard DGIM algorithm are false?</
 				<label>
 					<input type="checkbox"/>
 					<span class="multiple-selection">The buckets contain the count of 1's and each 1's specific position in the stream.</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<button>Submit</button>
+			</div>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+What are DGIM’s maximum error boundaries?</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection">DGIM always underestimates the true count; at most by 25%</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">DGIM either underestimates or overestimates the true count; at most by 50%</div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">DGIM always overestimates the count; at most by 50%</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">DGIM either underestimates or overestimates the true count; at most by 25%</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+Which algorithm should be used to approximate the number of distinct elements in a data stream?</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection">Misra-Gries</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">Alon-Matias-Szegedy</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">DGIM</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">None of the above</div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+Which of the following statements about Bloom filters are correct?</div>
+			<div class="mcq">
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">A Bloom filter has the same properties as a standard Hashmap data structure in Java (java.util.HashMap).</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">A Bloom filter is full if no more hash functions can be added to it.</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">A Bloom filter always returns FALSE when testing for an element that was not previously added.</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">A Bloom filter always returns TRUE when testing for a previously added element.</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">An empty Bloom filter (no elements added to it) will always return FALSE when testing for an element.</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<button>Submit</button>
+			</div>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+Which of the following streaming windows show valid bucket representations according to the DGIM rules?</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection"><span class="bucket">1 0 1 1 1</span> 0 1 0 <span class="bucket">1 1 1 1</span> 0 <span class="bucket">1 0 1</span></div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection"><span class="bucket">1 0 1 1 1</span> 0 0 0 0 <span class="bucket">1 1 0 0</span> 0 <span class="bucket">1 0 1</span> <span class="bucket">1 1</span> 0 0 <span class="bucket">1</span></div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection"><span class="bucket">1 1 1 1</span> 0 0 <span class="bucket">1 1</span> <span class="bucket">1 0 1 0</span> <span class="bucket">1</span></div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection"><span class="bucket">1 0 1 1 0 0 0 1</span> 0 <span class="bucket">1 1 1 0 1</span> <span class="bucket">1 0 0 1</span> 0 <span class="bucket">1</span> <span class="bucket">1</span></div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+For which of the following streams is the second-order moment $F_2$ greater than 45?</div>
+			<div class="mcq">
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">10 5 5 10 10 10 1 1 1 10</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">10 10 10 10 10 5 5 5 5 5</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">1 1 1 1 1 5 10 10 5 1</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">10 10 10 10 10 10 10 10 10 10</span>
 					<span class="correct-checkbox">✓</span>
 					<span class="incorrect-checkbox">✗</span>
 					<div class="response right">This option is correct. </div>

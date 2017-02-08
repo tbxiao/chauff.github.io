@@ -32,12 +32,22 @@ How many records will be generated as output when running this script?
 * 3
 
 
+
 Let's consider the file above once more. You are tasked with writing a Pig Latin script that outputs the unique names (first column) occurring in this file. Which Pig Latin operators do you use (choose the minimum number)?
 *= foreach, distinct
 * filter, distinct
 * foreach, filter
 * foreach
 * filter
+
+
+Which of the following definitions of complex data types in Pig are correct?
+* Tuple: a set of key/value pairs
+*= Tuple: an ordered set of fields.
+* Bag: a collection of key/value pairs.
+* Bag: an ordered set of fields.
+* Map: an ordered set of fields.
+* Map: a collection of tuples.
 
 Which guarantee that Hadoop provides does Pig break?
 * Calls to the Reducer's reduce() method only occur after the last Mapper has finished running.
@@ -96,3 +106,11 @@ Apart from these three lines of code, what additional coding responsibilities do
 * We need to register the jar containing java.lang.Integer.
 * We need to write the toHexString() functionality, extending java.lang.Integer.
 *= There is nothing else to be done.
+
+Which of the following definitions of complex data types in Pig are correct?
+* Tuple: a set of key/value pairs.
+*= Tuple: an ordered set of fields.
+*= Bag: a collection of tuples.
+* Bag: an ordered set of fields.
+*= Map: a set of key/value pairs.
+* Map: a collection of tuples.

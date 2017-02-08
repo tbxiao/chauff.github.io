@@ -17,6 +17,10 @@ body {
   counter-reset: quiz-number;
 }
 
+span.bucket {
+  background-color: #BBB;
+}
+
 .disclaimer {
 	font-size:90%;
 	background-color: #ccc;

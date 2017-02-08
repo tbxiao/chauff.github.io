@@ -124,6 +124,19 @@ Bob has a Hadoop cluster with 20 machines with the following Hadoop setup: repli
 * WordCount fails: too many input splits to process.
 *= WordCount runs successfully.
 
+Bob has a Hadoop cluster with 20 machines under default setup (replication 3, 128MB input split size). Each machine has 500GB of HDFS
+disk space. The cluster is currently empty (no job, no data). Bob intends to upload 5 Terabyte of plain text (in 10 files of approximately 500GB each), followed by running Hadoop’s standard WordCount1 job. What is going to happen?
+* The data upload fails at the first file: it is too large to fit onto a DataNode
+*= The data upload fails at a lager stage: the disks are full
+* WordCount fails: too many input splits to process.
+* WordCount runs successfully.
+
+In Hadoop, the optimal input split size is the same as the
+*= block size
+* average file size in the cluster
+* mininum hard disk size in the cluster
+* number of DataNodes 
+
 In Hadoop, a Counter is attached to a specific ...
 * Mapper
 * Reducer
@@ -231,9 +244,9 @@ The time it takes for a Hadoop job's Map task to finish mostly depends on:
 * the placement of the NameNode in the cluster
 * the duration of the job's Reduce task
 
-For graphs similar to the one shown below, how many iterations are at most required to compute parallel breadth-first search in Hadoop?
-||IMG:graph1.png||
-* The max. number of iterations depends on the diameter of the graph.
-*= The max. number of iterations depends on the number of nodes in the graph.
-* The max. number of iterations depends on the number of edges in the graph.
-* The max. number of iterations does not depend on either of these three aspects (diameter, number of nodes, number of edges).
+Which of the following database operations – implemented as Hadoop jobs – require the use of a Mapper and a Reducer (instead of only a Mapper). Assume that the dataset(s) to be used do not fit into the main memory of a single node in the cluster.
+*= Intersection
+* Union (without duplicates removed)
+*= Union (with duplicates removed)
+* Selection
+

@@ -64,7 +64,7 @@
 
 <body>
   $\newcommand{\ones}{\mathbf 1}$
-  <a href="http://chauff.github.io/">Back to homepage</a>
+  <a href="https://chauff.github.io/">Back to HP</a> More quizzes: <a href="hadoop.html">Hadoop</a> <a href="graph.html">Graph</a> <a href="pig.html">Pig</a> <a href="streaming.html">Streaming</a>
 <br>
 <div class="disclaimer">
 <i>All errors are my own! Though if you find any, an email would be appreciated ....</i><br>
@@ -306,7 +306,10 @@ How many Mapper objects and Reducer objects are created? How many calls to map()
 				</li>
 			</ol>
 		</div>
-
+	</fieldset>
+	<br/>
+	<fieldset>
+		<legend>GFS/HDFS</legend>
 		<div>
 			<div class="description">
 Which of the following scenarios fulfils the brief of the GFS assumptions?</div>
@@ -744,6 +747,77 @@ Bob has a Hadoop cluster with 20 machines with the following Hadoop setup: repli
 		<hr/>
 		<div>
 			<div class="description">
+Bob has a Hadoop cluster with 20 machines under default setup (replication 3, 128MB input split size). Each machine has 500GB of HDFS
+disk space. The cluster is currently empty (no job, no data). Bob intends to upload 5 Terabyte of plain text (in 10 files of approximately 500GB each), followed by running Hadoop’s standard WordCount1 job. What is going to happen?</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection">The data upload fails at the first file: it is too large to fit onto a DataNode</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">The data upload fails at a lager stage: the disks are full</div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">WordCount fails: too many input splits to process.</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">WordCount runs successfully.</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
+In Hadoop, the optimal input split size is the same as the</div>
+			<ol type="a">
+				<li class="choice">
+					<div class="selection">block size</div>
+					<div class="response right">
+						<span class="right">Correct! </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">average file size in the cluster</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">mininum hard disk size in the cluster</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+				<li class="choice">
+					<div class="selection">number of DataNodes</div>
+					<div class="response wrong">
+						<span class="wrong">Incorrect. </span>
+						
+					</div>
+				</li>
+			</ol>
+		</div>
+		<hr/>
+		<div>
+			<div class="description">
 In Hadoop, a Counter is attached to a specific ...</div>
 			<ol type="a">
 				<li class="choice">
@@ -1134,38 +1208,38 @@ The time it takes for a Hadoop job's Map task to finish mostly depends on:</div>
 		<hr/>
 		<div>
 			<div class="description">
-For graphs similar to the one shown below, how many iterations are at most required to compute parallel breadth-first search in Hadoop?
-<div><img src="graph1.png"></div></div>
-			<ol type="a">
-				<li class="choice">
-					<div class="selection">The max. number of iterations depends on the diameter of the graph.</div>
-					<div class="response wrong">
-						<span class="wrong">Incorrect. </span>
-						
-					</div>
-				</li>
-				<li class="choice">
-					<div class="selection">The max. number of iterations depends on the number of nodes in the graph.</div>
-					<div class="response right">
-						<span class="right">Correct! </span>
-						
-					</div>
-				</li>
-				<li class="choice">
-					<div class="selection">The max. number of iterations depends on the number of edges in the graph.</div>
-					<div class="response wrong">
-						<span class="wrong">Incorrect. </span>
-						
-					</div>
-				</li>
-				<li class="choice">
-					<div class="selection">The max. number of iterations does not depend on either of these three aspects (diameter, number of nodes, number of edges).</div>
-					<div class="response wrong">
-						<span class="wrong">Incorrect. </span>
-						
-					</div>
-				</li>
-			</ol>
+Which of the following database operations – implemented as Hadoop jobs – require the use of a Mapper and a Reducer (instead of only a Mapper). Assume that the dataset(s) to be used do not fit into the main memory of a single node in the cluster.</div>
+			<div class="mcq">
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">Intersection</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">Union (without duplicates removed)</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">Union (with duplicates removed)</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response right">This option is correct. </div>
+				</label>
+				<label>
+					<input type="checkbox"/>
+					<span class="multiple-selection">Selection</span>
+					<span class="correct-checkbox">✓</span>
+					<span class="incorrect-checkbox">✗</span>
+					<div class="response wrong">This option is incorrect. </div>
+				</label>
+				<button>Submit</button>
+			</div>
 		</div>
 	</fieldset>
 	<br/>

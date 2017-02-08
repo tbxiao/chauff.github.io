@@ -63,6 +63,12 @@ Which of the following statements about the Misra-Gries algorithm is correct?
 * It produces an exact answer.
 * When run with $k=3$, the output contains the 3 most frequent items.
 
+A Bloom filter guarantees no
+* false positives
+*= false negatives
+* false positives and false negatives
+* false positives or false negatives, depending on the Bloom filter type
+
 Which of the following statements about standard Bloom filters is correct?
 * It is possible to delete an element from a Bloom filter.
 * A Bloom filter always returns the correct result.
@@ -120,3 +126,34 @@ Which of the following statements about the standard DGIM algorithm are false?
 * In DGIM, the size of a bucket is always a power of two.
 *= The maximum number of buckets has to be chosen beforehand. 
 *= The buckets contain the count of 1's and each 1's specific position in the stream. 
+
+What are DGIM’s maximum error boundaries?
+* DGIM always underestimates the true count; at most by 25%
+*= DGIM either underestimates or overestimates the true count; at most by 50%
+* DGIM always overestimates the count; at most by 50%
+* DGIM either underestimates or overestimates the true count; at most by 25%
+
+Which algorithm should be used to approximate the number of distinct elements in a data stream?
+* Misra-Gries
+* Alon-Matias-Szegedy
+* DGIM
+*= None of the above
+
+Which of the following statements about Bloom filters are correct?
+* A Bloom filter has the same properties as a standard Hashmap data structure in Java (java.util.HashMap).
+* A Bloom filter is full if no more hash functions can be added to it.
+* A Bloom filter always returns FALSE when testing for an element that was not previously added.
+*= A Bloom filter always returns TRUE when testing for a previously added element.
+*= An empty Bloom filter (no elements added to it) will always return FALSE when testing for an element.
+
+Which of the following streaming windows show valid bucket representations according to the DGIM rules?
+* <span class="bucket">1 0 1 1 1</span> 0 1 0 <span class="bucket">1 1 1 1</span> 0 <span class="bucket">1 0 1</span>
+* <span class="bucket">1 0 1 1 1</span> 0 0 0 0 <span class="bucket">1 1 0 0</span> 0 <span class="bucket">1 0 1</span> <span class="bucket">1 1</span> 0 0 <span class="bucket">1</span>
+* <span class="bucket">1 1 1 1</span> 0 0 <span class="bucket">1 1</span> <span class="bucket">1 0 1 0</span> <span class="bucket">1</span>
+*= <span class="bucket">1 0 1 1 0 0 0 1</span> 0 <span class="bucket">1 1 1 0 1</span> <span class="bucket">1 0 0 1</span> 0 <span class="bucket">1</span> <span class="bucket">1</span>
+
+For which of the following streams is the second-order moment $F_2$ greater than 45?
+* 10 5 5 10 10 10 1 1 1 10
+*= 10 10 10 10 10 5 5 5 5 5
+* 1 1 1 1 1 5 10 10 5 1
+*= 10 10 10 10 10 10 10 10 10 10
