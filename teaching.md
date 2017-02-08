@@ -67,10 +67,10 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 - [Final 2016/17](../documents/bdp/exam-5.pdf)
  
 #### Interactive quizzes
-- [17 questions on streaming](http://chauff.github.io/documents/bdp-quiz/streaming.html)
-- [29 questions on MapReduce/Hadoop](http://chauff.github.io/documents/bdp-quiz/hadoop.html)
-- [9 questions on graphs and Giraph](http://chauff.github.io/documents/bdp-quiz/graph.html)
-- [10 questions on Pig/Pig Latin](http://chauff.github.io/documents/bdp-quiz/pig.html)
+- [24 questions on streaming](http://chauff.github.io/documents/bdp-quiz/streaming.html)
+- [32 questions on MapReduce/Hadoop](http://chauff.github.io/documents/bdp-quiz/hadoop.html)
+- [10 questions on graphs and Giraph](http://chauff.github.io/documents/bdp-quiz/graph.html)
+- [12 questions on Pig/Pig Latin](http://chauff.github.io/documents/bdp-quiz/pig.html)
 
 
 ### Web (and Database) Technology
