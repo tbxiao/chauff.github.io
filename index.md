@@ -6,7 +6,6 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
-- [I have a PhD vacancy in collaborative search](documents/phd-vacancy-lacrosse.pdf)! Closing date is **January 31, 2017**.
 - I have been **awarded** an [**NWO Top Grant**](http://www.nwo.nl/actueel/nieuws/2016/ew/63-miljoen-top-subsidie-voor-18-exacte-topwetenschappers.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/)! The grant funds a 4-year PhD position and extras. <img src="../img/grant.png" height="40px">
 - I am acting as Program Chair for the [39th European Conference on Information Retrieval](http://ecir2017.org/).
 - I just organized the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl)
@@ -67,6 +66,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Tutorial Chair at the 40th European Conference on Information Retrieval (2018)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
