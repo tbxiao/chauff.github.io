@@ -5,22 +5,16 @@ title: Teaching
 
 ## MSc thesis supervision
 
-Students I have supervised and am currently supervising are researching a range of topics related to information retrieval and 
-learning analytics including spelling correction, big data architectures, topic modeling, query log analysis and cheating in MOOCs. 
-Several of my students have published their MSc work at high-quality conference venues, including ICWE, ACM SIGIR and ACM HyperText.
+I am supervising students who conduct research in *information retrieval* and *learning analytics*; combinations of the two areas ("search as learning") are especially interesting to me. For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
 
-If you are interested in a Master thesis research project in information retrieval, have a look at the ongoing benchmark 
-campaigns - often a good starting point for finding a topic in information retrieval:
-
-- [MediaEval](http://www.multimediaeval.org/mediaeval2016/)
-- [SemEval](http://alt.qcri.org/semeval2016/)
-- [CLEF](http://clef2016.clef-initiative.eu/)
+- [MediaEval](http://www.multimediaeval.org/mediaeval2017/)
+- [SemEval](http://alt.qcri.org/semeval2017/)
+- [CLEF](http://clef2017.clef-initiative.eu/index.php?page=Pages/labs_info.php)
 - [TREC](http://trec.nist.gov/)
 - [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html)
 
-If you are interested in a thesis in learning analytics, have a look at the proceedings of the [first](http://dl.acm.org/citation.cfm?id=2556325) and [second edition](http://dl.acm.org/citation.cfm?id=2724660) 
-of the ACM Learning At Scale conference - they contain many interesting contributions in terms of data science and Web engineering
-in the domain of massive open online learning. 
+If you are interested in learning analytics, have a look at the proceedings of the [first](http://dl.acm.org/citation.cfm?id=2556325) and [second edition](http://dl.acm.org/citation.cfm?id=2724660) 
+of the ACM Learning At Scale conference - they contain many interesting contributions in the area of massive open online learning.
  
 ## Courses
  
