@@ -69,7 +69,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Tutorial Chair at the 40th European Conference on Information Retrieval (2018)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
-- Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org)
+- Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org); mentor at ECIR's doctoral consortium
 - Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) (taking place in November 2016)
 - Invited talk ([slides](http://www.slideshare.net/chauff/largescale-learning-analytics-at-tu-delft)) at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup (October 2016)
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
