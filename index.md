@@ -6,7 +6,7 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
-- I will be at ECIR in April 2017. 
+- I will be at ECIR 2017 in Aberdeen and at ICLR 2017 in Toulon (both in April).
 - I have been **awarded** an [**NWO Top Grant**](http://www.nwo.nl/actueel/nieuws/2016/ew/63-miljoen-top-subsidie-voor-18-exacte-topwetenschappers.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/)! The grant funds a 4-year PhD position and extras. <img src="../img/grant.png" height="40px">
 - I am acting as Program Chair for the [39th European Conference on Information Retrieval](http://ecir2017.org/).
 
