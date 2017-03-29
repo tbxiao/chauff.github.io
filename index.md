@@ -46,10 +46,10 @@ learning to search and IR for specific user groups.
 I have diverse research interests and am always happy to dive into a new area. Together with three PhD students 
 I am supervising (Guanliang Chen, Yue Zhao and Dan Davis), I am currently focusing on large-scale learning analytics and how to incorporate search into the learning process at scale (after all, I am an *IR* researcher!). TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground; ultimately, I and the whole [WIS Learning Analytics team](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) I lead, aim to provide insights and develop mechanisms to improve learning at scale. To get a quick overview of the kind of questions we have recently published about, take a look at the following slides, they cover each contribution in 1-2 slides:
 
-<iframe src="https://docs.google.com/presentation/d/1hJZjzxAhidTjaUiaW_cW57nGpESHK0yd-eMUcYW6QwM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1VT1qPqeAWwM20cDH_3i0cYlEmm2cPa4ZtVy4KEuJvFY/edit?usp=sharing" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-If you are looking for collaborations in the crossover between learning analytics and IR, please get in touch.
+If you are looking for collaborations in the crossover between information retrieval and learning (analytics), get in touch.
 
 ## Contact
 
