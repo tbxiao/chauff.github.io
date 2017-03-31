@@ -63,6 +63,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Organizational duties and activities
 - Tutorial Chair at the 40th European Conference on Information Retrieval (2018)
+- Member of the advisory board of the European project [AFEL](http://afel-project.eu/)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org); mentor at ECIR's doctoral consortium
