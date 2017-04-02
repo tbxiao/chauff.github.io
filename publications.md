@@ -11,7 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track (6 pages).
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Guanliang Chen, Daniel Davis, Markus Krause, Claudia Hauff and Geert-Jan Houben. *Buying Time: Enabling Learners to become Earners with a Real-World Paid Task Recommender System*, [LAK](http://lak17.solaresearch.org/), pp. 578-579, 2017. [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3029469)
+Guanliang Chen, Daniel Davis, Markus Krause, Claudia Hauff and Geert-Jan Houben. *Buying Time: Enabling Learners to become Earners with a Real-World Paid Task Recommender System*, [LAK](http://lak17.solaresearch.org/), pp. 578-579, 2017. [[PDF Preprint&#8594;]](../documents/publications/LAK2017-chen.pdf) [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3029469)
 
 <img src="../img/conference-paper.png" height="20px">
 Daniel Davis, Ioana Jivet, René Kizilcec, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Follow the Successful Crowd: Raising MOOC Completion Rates through Social Comparison at Scale*, [LAK](http://lak17.solaresearch.org/), pp. 454-463, 2017. 
