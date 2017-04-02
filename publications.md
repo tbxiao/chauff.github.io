@@ -15,7 +15,7 @@ Guanliang Chen, Daniel Davis, Markus Krause, Claudia Hauff and Geert-Jan Houben.
 
 <img src="../img/conference-paper.png" height="20px">
 Daniel Davis, Ioana Jivet, René Kizilcec, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Follow the Successful Crowd: Raising MOOC Completion Rates through Social Comparison at Scale*, [LAK](http://lak17.solaresearch.org/), pp. 454-463, 2017. 
-[[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3027411)
+[[PDF Preprint&#8594;]](../documents/publications/LAK2017-davis.pdf) [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3027411)
 
 
 ## 2016 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
