@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2017
 
 <img src="../img/conference-paper.png" height="20px"> 
-Vasileios Triglianos, Sambit Praharaj,Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper.
+Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper.
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track (6 pages).
