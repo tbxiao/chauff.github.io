@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2017
 
+<img src="../img/editor.png" height="20px"> 
+Joemon Jose, Claudia Hauff, Ismail Sengor Altingovde, Dawei Song, Dyaa Albakour, Stuart Watt and John Tait. *Advances in Information Retrieval: 39th European Conference on IR Research, ECIR 2017 Proceedings*.
+
 <img src="../img/conference-paper.png" height="20px"> 
 Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper.
 
