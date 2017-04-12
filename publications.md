@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2017
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search: leading people to longer queries*, accepted at the [40th International ACM SIGIR Conference on Research and Development in Information Retrieval](http://sigir.org/sigir2017).
+Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search*, accepted at the [40th International ACM SIGIR Conference on Research and Development in Information Retrieval](http://sigir.org/sigir2017).
 
 <img src="../img/editor.png" height="20px"> 
 Joemon Jose, Claudia Hauff, Ismail Sengor Altingovde, Dawei Song, Dyaa Albakour, Stuart Watt and John Tait. *Advances in Information Retrieval: 39th European Conference on IR Research, ECIR 2017 Proceedings*.
