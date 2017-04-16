@@ -62,7 +62,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
-- Tutorial Chair at the 40th European Conference on Information Retrieval (2018)
+- Tutorial Chair at the [40th European Conference on Information Retrieval](http://ecir2018.org/) (2018)
 - Organizer of the [Delft Data Science Seminar on Online Education](http://bit.ly/dds-online-education) (March 2017)
 - Member of the advisory board of the European project [AFEL](http://afel-project.eu/)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
