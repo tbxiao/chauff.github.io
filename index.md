@@ -6,7 +6,6 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
-- I will be at ICLR 2017 in Toulon (April 2017).
 - I am acting as Program Chair for the [39th European Conference on Information Retrieval](http://ecir2017.org/).
 - I have been **awarded** an [**NWO Top Grant**](http://www.nwo.nl/actueel/nieuws/2016/ew/63-miljoen-top-subsidie-voor-18-exacte-topwetenschappers.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/)! The grant funds a 4-year PhD position, starting in May 2017.
 
@@ -68,15 +67,15 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org); mentor at ECIR's doctoral consortium
-- Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) (taking place in November 2016)
+- Organizer of the [15th Dutch-Belgian Information Retrieval Workshop](http://dir2016.nl) (November 2016)
 - Invited talk ([slides](http://www.slideshare.net/chauff/largescale-learning-analytics-at-tu-delft)) at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup (October 2016)
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
-- Co-organizer of a Dagstuhl seminar on [*Search as Learning*](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) to be held in February 2017
-- Member of the 2016-2018 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop), organised by NWO and STW
+- Co-organizer of a Dagstuhl seminar on [*Search as Learning*](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) (February 2017)
+- Member of the 2016-2018 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop)
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of the [38th European Conference on Information Retrieval](http://ecir2016.dei.unipd.it/)
 - [Invited talk at the #SupportTheCause symposium](http://supportthecause.nl/) on Twitter-based election forecasting (January 2016)
-- Coordinator (one of two) of the Data Science & Technology track within [TU Delft's Computer Science MSc program](http://www.tudelft.nl/studeren/masteropl/masteropleidingen/computer-science/) since 11/2015
+- Coordinator (one of two) of the Data Science & Technology track within [TU Delft's Computer Science MSc program](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/) since 11/2015
 - [Invited talk at Sanoma](https://www.youtube.com/watch?v=22ncUHW2GnI) on Searching and Learning (October 2015)
 - [Invited talk at ILPS](http://ilps.science.uva.nl/invited-talk-by-claudia-hauff/), University of Amsterdam on Searching and Learning (September 2015)
 - Co-organizer of the [TAIA 2015 workshop](http://research.microsoft.com/en-us/people/milads/taia2015.aspx), co-located with SIGIR 2015
