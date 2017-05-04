@@ -5,7 +5,6 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
-  <meta property="og:image" content="{{ site.author.og_image }}">
   
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
@@ -91,14 +90,6 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
   {% else %}
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
-  {% endif %}
-  
-  {% if page.fb-img %}
-  <meta property="og:image" content="{{ page.fb-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% else %}
-  <meta property="og:image" content="" />
   {% endif %}
   
 </head>
