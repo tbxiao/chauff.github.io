@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Designed vs. executed learning paths in MOOCs
+thumbnail: "/img/og_learningpaths.png"
 ---
 
 MOOCs have been around for a few years by now. Learning designers and MOOC instructors though are still grappling with how
