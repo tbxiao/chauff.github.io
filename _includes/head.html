@@ -83,7 +83,12 @@
   <!-- Facebook OpenGraph tags -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail}}">
+  
+  {% if page.thumbnail %}
+    <meta property="og:image" content="{{ page.thumbnail}}">
+  {% endif %}
+  
+  
 
   
   {% if page.id %}
