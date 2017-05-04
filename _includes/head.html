@@ -88,6 +88,11 @@
     <meta property="og:image" content="{{ page.thumbnail}}">
   {% endif %}
   
+  {% if page.thumbnail %}
+    <meta property="og:image" content="{{ page.thumbnail}}" />
+  {% else %}
+    <meta property="og:image" content="">
+  {% endif %}
   
 
   
