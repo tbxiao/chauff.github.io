@@ -42,6 +42,7 @@ author:
   github: chauff    # eg. daattali
   twitter: charlottehase   # eg. daattali
   linkedin: in/claudiahauff  # eg. "pub/dean-attali/8/946/143"
+  og_image: "/img/og_claudia.png"
 
 # Select which links to show in the footer
 footer-links-active:
