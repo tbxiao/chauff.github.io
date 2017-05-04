@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sub-document timestamping
+thumbnail: "/img/og_wayback.png"
 ---
 
 After a number of recent learning analytics papers, one of my PhD students just got a full paper accepted at
