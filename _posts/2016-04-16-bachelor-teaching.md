@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reflections on teaching a large Bachelor course
+thumbnail: "/img/og_bachelor.png"
 ---
 
 Together with my colleague [Alessandro Bozzon](http://alessandrobozzon.com/), I teach a Bachelor course 
