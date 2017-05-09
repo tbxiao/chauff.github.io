@@ -64,6 +64,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Tutorial Chair at the [40th European Conference on Information Retrieval](http://ecir2018.org/) (2018)
 - Organizer of the [Delft Data Science Seminar on Online Education](http://bit.ly/dds-online-education) (March 2017)
 - Member of the advisory board of the European project [AFEL](http://afel-project.eu/)
+- Invited talk at the [Education in exponential times](http://www.emadridnet.org/index.php/en/events/909-vii-emadrid-workshop) workshop in Madrid (July 2017) 
+- Invited talk at the Leiden-Delft-Erasmus [Centre for Education and Learning](http://www.educationandlearning.nl/agenda/2017-06-09-cel-innovationroom-9-research-on-student-success) on student success (June 2017)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2016](http://www.multimediaeval.org/mediaeval2016/placing/)
 - Program Chair of the [39th European Conference on Information Retrieval](http://ecir2017.org); mentor at ECIR's doctoral consortium
