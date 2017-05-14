@@ -14,7 +14,7 @@ Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Eff
 Joemon Jose, Claudia Hauff, Ismail Sengor Altingovde, Dawei Song, Dyaa Albakour, Stuart Watt and John Tait. *Advances in Information Retrieval: 39th European Conference on IR Research, ECIR 2017 Proceedings*.
 
 <img src="../img/conference-paper.png" height="20px"> 
-Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper.
+Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-triglianos.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track (6 pages).
