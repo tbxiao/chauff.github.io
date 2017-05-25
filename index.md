@@ -6,7 +6,7 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
-- I have been **awarded** an **NWO VIDI** personal grant for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*; this means funding for 2 PhD and 1 postdoc position. Vacancies will be announced soon.
+- I have been **awarded** an **NWO VIDI** personal grant for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*; this means funding for 2 PhD and 1 postdoc position. Vacancies will be announced after the summer of 2017.
 - I attended ICLR in April '17 and [wrote a blog post about it](http://chauff.github.io/2017-04-25-iclr2017/).
 - I have been **awarded** an [**NWO Top Grant**](http://www.nwo.nl/actueel/nieuws/2016/ew/63-miljoen-top-subsidie-voor-18-exacte-topwetenschappers.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/)! The grant funds a 4-year PhD position, starting in May 2017.
 
@@ -94,8 +94,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
 
 ## Grants
-- Recipient of a 800,000€ **NWO VIDI** grant for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant)
-- Recipient of a 226,000€ [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant)
+- Recipient of a 800,000€ **NWO VIDI** grant for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
+- Recipient of a 226,000€ [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
 - Grant (33,000€) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
 - TU Delft Education Research tender (2,500€) to bring real-time teaching and learning analytics into the classroom, July 2016
 - TU Delft Study Success tender (3,000€) to further improve teaching in the Bachelor, September 2015 
