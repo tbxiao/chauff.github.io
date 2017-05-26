@@ -94,8 +94,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
 
 ## Grants
-- NWO VIDI (**800,000€**) grant for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
-- [NWO Top Grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
+- NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
+- [NWO TOP grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
 - Grant (**33,000€**) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
 - TU Delft Education Research tender (**2,500€**) to bring real-time teaching and learning analytics into the classroom, July 2016
 - TU Delft Study Success tender (**3,000€**) to further improve teaching in the Bachelor, September 2015 
