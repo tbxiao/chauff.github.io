@@ -17,7 +17,8 @@ Joemon Jose, Claudia Hauff, Ismail Sengor Altingovde, Dawei Song, Dyaa Albakour,
 Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-triglianos.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track (6 pages).
+Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-zhao.pdf)
+
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Guanliang Chen, Daniel Davis, Markus Krause, Claudia Hauff and Geert-Jan Houben. *Buying Time: Enabling Learners to become Earners with a Real-World Paid Task Recommender System*, [LAK](http://lak17.solaresearch.org/), pp. 578-579, 2017. [[PDF Preprint&#8594;]](../documents/publications/LAK2017-chen.pdf) [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3029469)
