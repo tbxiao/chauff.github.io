@@ -7,6 +7,10 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2017
 
+
+<img src="../img/conference-paper.png" height="20px"> 
+Yue Zhao, Christoph Lofi and Claudia Hauff. *Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach*, accepted at the [12th European Conference on Technology Enhanced Learning](http://www.ec-tel.eu/index.php?id=777) as full paper. 
+
 <img src="../img/conference-short-paper.png" height="20px"> 
 Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search*, accepted at the [40th International ACM SIGIR Conference on Research and Development in Information Retrieval](http://sigir.org/sigir2017). [[Blog post&#8594;]]({% post_url 2017-05-02-glowbox %}) [[PDF Preprint&#8594;]](../documents/publications/SIGIR2017-hiemstra.pdf)
 
