@@ -52,7 +52,7 @@ I am supervising (Guanliang Chen, Yue Zhao, Felipe Moraes and Dan Davis), I am c
 ## Contact
 
 ```
-TU Delft - EWI/SCT/WIS
+TU Delft - EWI/ST/WIS
 PO Box 5031
 2600 GA Delft
 The Netherlands
