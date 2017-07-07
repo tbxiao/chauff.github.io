@@ -94,7 +94,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
 
 ## Grants
-- [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData ("Verantwoorde Waardecreatie met Big Data"): 1 postdoc position within a work package that considers bias in (news) recommenders
+- [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData ("Verantwoorde Waardecreatie met Big Data"): 1 two-year postdoc position within a work package that considers bias in (news) recommenders
 - NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
 - [NWO TOP grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
 - Grant (**33,000€**) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
