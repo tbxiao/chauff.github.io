@@ -33,3 +33,7 @@ documents (from the Web and Wikipedia), six per question on average. The paper a
 A first analysis by the authors indicates that this is a considerably more difficult dataset than [SQUAD](https://rajpurkar.github.io/SQuAD-explorer/), the Stanford Question Answering Dataset, currently one of the main benchmarks for reading comprehension. Some of `TriviaQA`'s questions remind me of the old [A Google A Day](https://en.wikipedia.org/wiki/A_Google_A_Day) quizzes, e.g. *A mill in Woodbridge, Suffolk, England, built in the 12th century, reconstructed in 1792, further restored in 2010 and currently in full working order is a early English example of a mill powered by what?*.
 
 * [*Reading Wikipedia to Answer Open-Domain Questions*](http://aclweb.org/anthology/P/P17/P17-1171.pdf) comes out of Facebook's AI research lab and attempts to answer any factoid question with text snippet from a Wikipedia article. One of the few papers at ACL that includes an IR component (retrieving the Wikipedia articles relevant to a question) as part of their pipeline.
+
+* [*On the Challenges of Translating NLP Research into Commercial Products*](http://aclweb.org/anthology/P/P17/P17-2015.pdf) is a short paper that describes the challenges industry faces when it tries to make use of the latest research findings in natural language processing.
+
+
