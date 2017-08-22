@@ -5,6 +5,7 @@ thumbnail: "/img/og_sigir2017.png"
 ---
 
 [ACL 2017](http://acl2017.org/) with its nearly 200 full papers and more than 100 short papers was a treasure trove again for inspiring approaches, problems and datasets. There is really only one topic I stay away from and that is parsing - it just does not hold a lot of interest for me. The vast majority of papers contain a strong empirical component and it takes a while to actually find papers whose baselines come from papers written in 2013 or earlier; in fact, many papers resort to just reporting baselines from 2016 and 2017 papers. This is quite a contrast to IR, where the deep neural IR models are routinely compared to classic - and robust - retrieval models from the 1980s and 1990s. Are most of the NLP tasks new or did deep learning kill every single 'classic' baseline?
+
 Compared to [last year](http://chauff.github.io/2016-08-12-acl2016/), I am also seeing fewer "quirky" papers (for the lack of a better word); the vast majority are deep and empirical.
 
 Here are the papers I found most interesting this year - more papers will be added as I make my way through the proceedings:
