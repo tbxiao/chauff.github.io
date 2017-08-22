@@ -4,7 +4,9 @@ title: ACL 2017 - A readthrough
 thumbnail: "/img/og_sigir2017.png" 
 ---
 
-[ACL 2017](http://acl2017.org/) with its nearly 200 full papers and more than 100 short papers was a treasure trove again for inspiring approaches, problems and datasets. There is really only one topic I stay away from and that is parsing - it just does not hold a lot of interest for me. Here are the papers I found most interesting this year:
+[ACL 2017](http://acl2017.org/) with its nearly 200 full papers and more than 100 short papers was a treasure trove again for inspiring approaches, problems and datasets. There is really only one topic I stay away from and that is parsing - it just does not hold a lot of interest for me. The vast majority of papers contain a strong empirical component and it takes a while to actually find papers whose baselines come from papers written in 2013 or earlier; in fact, many papers resort to just reporting baselines from 2016 and 2017 papers. This is quite a contrast to IR, where the deep neural IR models are routinely compared to classic - and robust - retrieval models from the 1980s and 1990s. Are most of the NLP tasks new or did deep learning kill every single 'classic' baseline? 
+
+Here are the papers I found most interesting this year:
 
 * [*What do Neural Machine Translation Models Learn about Morphology?*](http://aclweb.org/anthology/P/P17/P17-1080.pdf) is a must-read for anyone who is interested in **analyzing the deep net black box**. The authors take up the challenge for neural machine translation models and explore the impact of several neural design decisions. There should be a paper like this for every model type and task (imho).
 
@@ -27,3 +29,5 @@ and starting from a core programming language, allowed their users to "naturaliz
 documents (from the Web and Wikipedia), six per question on average. The paper also contains a shout-out to TREC and the TREC-8 Question Answering track which was already released in the year 2000:
 <br><img src="../img/P17-1147.png" width="650px"><br>
 A first analysis by the authors indicates that this is a considerably more difficult dataset than [SQUAD](https://rajpurkar.github.io/SQuAD-explorer/), the Stanford Question Answering Dataset, currently one of the main benchmarks for reading comprehension. Some of `TriviaQA`'s questions remind me of the old [A Google A Day](https://en.wikipedia.org/wiki/A_Google_A_Day) quizzes, e.g. *A mill in Woodbridge, Suffolk, England, built in the 12th century, reconstructed in 1792, further restored in 2010 and currently in full working order is a early English example of a mill powered by what?*.
+
+
