@@ -1,18 +1,11 @@
 ---
 layout: post
-title: SIGIR 2017
+title: ACL 2017 - A readthrough
 thumbnail: "/img/og_sigir2017.png" 
 ---
 
-[SIGIR 2017](http://sigir.org/sigir2017/), the *40th International ACM SIGIR Conference on Research and Development in Information Retrieval* took place in early August and was the largest ever with more than 900 researchers gathering in Tokyo, Japan. It was also the largest ever in terms of [awards](http://sigir.org/sigir2017/program/awards/) being handed out. The proceedings are currently freely available on the [ACM Portal](http://dl.acm.org/citation.cfm?id=3077136); 362 papers were submitted (well short of the 2011 record number of submissions: 543) and 78 of those were accepted (22% acceptance rate).
+[ACL 2017](http://acl2017.org/) with its nearly 200 full papers and more than 100 short papers was a treasure trove again for inspiring approaches, problems and datasets. There is really only one topic I stay away from and that is parsing - it just does not hold a lot of interest for me. Here are the papers I found most interesting this year:
 
-Works on user interactions, conversational search and neural methods for IR were on the rise; evaluation & recommender systems' papers were a stable presence; social and entity papers were in decline (not many mentions of Twitter overall). Mark Sanderson did some wordcloud magic on the SIGIR (short) paper titles:
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/sigir2017?src=hash">#sigir2017</a> short and long paper title word cloud <a href="https://t.co/JQ853WHIro">pic.twitter.com/JQ853WHIro</a></p>&mdash; Mark Sanderson (@IR_oldie) <a href="https://twitter.com/IR_oldie/status/895585848644608000">August 10, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Among the long papers, I found the following the most interesting:
-
-* Tetsuya Sakai is on a mission to ensure that IR researchers get their statistics in order, in particular their significance tests and how to interpret their outcomes. In (The Probability that Your Hypothesis Is Correct, Credible Intervals, and Effect Sizes for IR Evaluation)[https://doi.org/10.1145/3077136.3080766], Sakai proposes the use of Bayesian statistics to get what we really want from our statistical tests: a probability that the hypothesis we pose is true, given the data. A good brush-up on statistical tests, their purpose and their limitations.
+* [*FOIL it! Find One mismatch between Image and Language caption*](http://aclweb.org/anthology/P/P17/P17-1024.pdf) takes a closer look at visual question answering (given an image an a question, generate an answer) and image captioning approaches (given an image, generate a caption) by creating a **diagnostic dataset** based on the [MS-COCO](http://mscoco.org/) benchmark. MS-COCO contains 300K images, each with five(+) different captions, written by crowd workers. Image captioning approaches achieve great results on this benchmark, but do they truly learn how to caption or do they exploit biases in the dataset? This diagnostic dataset provides more than a few hints that it is the latter. The authors take the MS-COCO image/caption pairs as their starting point and introduce a single error (a semantically related but incorrect term) into each caption; as an example, the true caption *Three bicycle riders, some trees and a pigeon.* for an image becomes the foiled caption *Three motorcycle riders, some trees and a pigeon.* An image captioning approach taking  They then adapt state-of-the-art image captioning and visual question answering approaches for the tasks of caption classification (correct/foil), foil word detection and foil word correction. These state-of-the-art algorithms are not doing too well at detecting foil captions (at most an accuracy of 45.44 compared to 94.52 that a majority vote of humans achieves), indicating that there is still a long way to go. I really like the idea of a diagnostic dataset, something that we have not yet picked up on a lot in IR.
 
 * 
-
