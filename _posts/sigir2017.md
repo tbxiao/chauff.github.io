@@ -15,8 +15,7 @@ thumbnail: "/img/og_sigir2017.png"
 
 * [*What do Neural Machine Translation Models Learn about Morphology?*](http://aclweb.org/anthology/P/P17/P17-1080.pdf) is a must-read for anyone who is interested in **analyzing the deep net black box**. The authors take up the challenge for neural machine translation models and explore the impact of several neural design decisions. There should be a paper like this for every model type and task (imho).
 
-* One of the - to me - fascinating areas of ACL are the language construction and language evolution studies. [*Naturalizing a Programming Language via Interactive Learning*](http://aclweb.org/anthology/P/P17/P17-1086.pdf) from Stanford falls into this category. The authors built [`Voxelturn`](http://www.voxelurn.com/#/about), a command-line system to create voxel structures such as these one:
+* One of the - to me - fascinating areas of ACL are the **language construction and language evolution** studies. [*Naturalizing a Programming Language via Interactive Learning*](http://aclweb.org/anthology/P/P17/P17-1086.pdf) from Stanford falls into this category. The authors built [`Voxelturn`](http://www.voxelurn.com/#/about), a command-line system to create voxel structures such as these one:
 <br><img src="../img/P17-1086.png" width="350px"><br>
-and starting from a core programming language, allowed their users to "naturalize" the language by defining alternative, more natural syntax. The experiment ran on MTurk (how come I never get to see those interesting HITS?) and within a few days their user community had turned the core programming language into a high-level language. 
-
+and starting from a core programming language, allowed their users to "naturalize" the language by defining an alternative, more natural syntax. The experiment ran on MTurk (how come I never get to see those interesting HITS?) and within a few days their user community had turned the core programming language into a high-level language.
 
