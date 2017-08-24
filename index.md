@@ -6,10 +6,10 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
+- I haven't attended ACL 2017, but I still [wrote a blog post about it](http://chauff.github.io/2017-08-22-acl2017/).
 - I am spending my summer at [Blendle](https://blendle.com/), a Dutch online news platform startup, and tinker around with their search.
 - I have been **awarded** an [**NWO VIDI**](https://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/vidi+awards/vidi+awards+2016) grant for my proposal [SearchX: Integrating search and sensemaking into large-scale open online  learning](http://chauff.github.io/2017-05-30-searchx/); this means funding for 2 PhDs and 1 postdoc position. Vacancies will be announced in early fall 2017. If you are looking for an IR PhD/postdoc position contact me!
 - I attended ICLR in April '17 and [wrote a blog post about it](http://chauff.github.io/2017-04-25-iclr2017/).
-- I have been **awarded** an [**NWO Top Grant**](http://www.nwo.nl/actueel/nieuws/2016/ew/63-miljoen-top-subsidie-voor-18-exacte-topwetenschappers.html) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/)! The grant funds a 4-year PhD position, starting in May 2017.
 
 <p>
  <a class="twitter-timeline"
