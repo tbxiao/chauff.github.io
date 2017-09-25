@@ -63,6 +63,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Organizational duties and activities
+- Invited participant at the Third Strategic Workshop in Information Retrieval (SWIRL III) in Lorne (February 2018)
+- Invited talk at the General Mathematics Colloqium Leiden (December 2017)
 - Invited talk at the Leiden Institute of Advanced Computer Science (December 2017)
 - Invited panel member at the ICTIR 2017 workshop *Search-Oriented Conversational AI* and the SIGIR 2017 workshop on *Neural Information Retrieval*
 - Tutorial Chair at the [40th European Conference on Information Retrieval](http://ecir2018.org/) (2018)
