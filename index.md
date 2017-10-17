@@ -6,6 +6,7 @@ subtitle: Web Information Systems, TU Delft
 
 ## News
 
+- I have a postdoc position on **algorithmic biases** available in a joint project with the University of Amsterdam. [Check out the vacancy](http://www.uva.nl/shared-content/uva/en/vacancies/2017/10/17-509-postdoctoral-researcher-in-recommender-systems-information-retrieval-or-data-mining.html) and apply by November 15, 2017!
 - The Search as Learning Dagstuhl Seminar I co-organized earlier this year was a success! I wrote a [blog post](http://chauff.github.io/2017-09-15-sal/) on some of the challenges we identified.
 - I have spent my summer '17 at [Blendle](https://blendle.com/), a Dutch online news platform startup, and tinkered around with their search.
 - I have been **awarded** an [**NWO VIDI**](https://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/vidi+awards/vidi+awards+2016) grant for my proposal [SearchX: Integrating search and sensemaking into large-scale open online  learning](http://chauff.github.io/2017-05-30-searchx/); this means funding for 2 PhDs and 1 postdoc position. Vacancies will be announced in early fall 2017. If you are looking for an IR PhD/postdoc position contact me!
