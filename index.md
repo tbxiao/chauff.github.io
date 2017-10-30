@@ -69,6 +69,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited talk at the *Leiden Institute of Advanced Computer Science* (December 2017)
 - Invited talk at the *Search Engines Amsterdam* meetup (November 2017)
 - Invited panel member at the ICTIR 2017 workshop *Search-Oriented Conversational AI* and the SIGIR 2017 workshop on *Neural Information Retrieval*
+- Editorial Board member of Springer's [Information Retrieval Journal](https://www.springer.com/10791)
 - Tutorial Chair at the [40th European Conference on Information Retrieval](http://ecir2018.org/) (2018)
 - Invited talk at the [Education in exponential times](http://www.emadridnet.org/index.php/en/events/909-vii-emadrid-workshop) workshop in Madrid (July 2017) 
 - Member of the advisory board of the European project [AFEL](http://afel-project.eu/) (May 2017)
