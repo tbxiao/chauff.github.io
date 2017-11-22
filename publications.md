@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2018
 
 <img src="../img/conference-paper.png" height="20px"> 
-Daniel Davis, Rene Kizilcec, Claudia Hauff and Geert-Jan Houben. *The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs*, accepted at [LAK 2018](https://latte-analytics.sydney.edu.au/)
+Daniel Davis, Rene Kizilcec, Claudia Hauff and Geert-Jan Houben. *The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs*, accepted as full paper at [LAK 2018](https://latte-analytics.sydney.edu.au/).
 
 
 ## 2017
