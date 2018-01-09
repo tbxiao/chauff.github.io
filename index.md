@@ -59,7 +59,7 @@ PO Box 5031
 2600 GA Delft
 The Netherlands
 
-Office: HB 08.110
+Office: Van Mourik Broekmanweg 6, East Wing 04.60
 Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
