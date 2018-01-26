@@ -70,7 +70,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited participant at the *Third Strategic Workshop in Information Retrieval* (SWIRL III) in Lorne (February 2018)
 - Invited talk at the *General Mathematics Colloqium Leiden* (December 2017)
 - Invited talk at the *Leiden Institute of Advanced Computer Science* (December 2017)
-- Invited talk at the *Search Engines Amsterdam* meetup (November 2017)
+- Invited talk ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSsWvS8nsxv8_2LH9rML-T4YNEQM86yUYi78CS0TQPJJq8ysEKizDBNnyfj4eA0e2-7inrQ671iirfs/pub?start=false&loop=false&delayms=3000)) at the *Search Engines Amsterdam* meetup (November 2017)
 - Invited panel member at the ICTIR 2017 workshop *Search-Oriented Conversational AI* and the SIGIR 2017 workshop on *Neural Information Retrieval*
 - Invited speaker at a special panel on on grant acquisition at the [ICTng Retreat](https://www.4tu.nl/nirict/en/Events/ICTng-one-day-retreat/)
 - Editorial Board member of Springer's [Information Retrieval Journal](https://www.springer.com/10791)
