@@ -8,29 +8,29 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2018
 
 <img src="../img/conference-paper.png" height="20px"> 
-Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *Webcam-based attention tracking in Online Learning: A Feasibility Study*, accepted as full paper at [IUI 2018](http://iui.acm.org/2018/). [[PDF Preprint&#8594;]](../documents/publications/iui2018-robal.pdf)
+Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *Webcam-based attention tracking in Online Learning: A Feasibility Study*, IUI, pp. 189-197, 2018. [[PDF Preprint&#8594;]](../documents/publications/iui2018-robal.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Daniel Davis, Rene Kizilcec, Claudia Hauff and Geert-Jan Houben. *The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs*, accepted as full paper at [LAK 2018](https://latte-analytics.sydney.edu.au/). [[PDF Preprint&#8594;]](https://dan7davis.github.io/papers/LAK18_Half_Life.pdf)
+Daniel Davis, Rene Kizilcec, Claudia Hauff and Geert-Jan Houben. *The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs*, LAK, pp. 1-10, 2018. [[PDF Preprint&#8594;]](https://dan7davis.github.io/papers/LAK18_Half_Life.pdf)
 
 
 ## 2017
 
 
 <img src="../img/conference-paper.png" height="20px"> 
-Yue Zhao, Christoph Lofi and Claudia Hauff. *Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach*, accepted at the [12th European Conference on Technology Enhanced Learning](http://www.ec-tel.eu/index.php?id=777) as full paper. [[PDF Preprint&#8594;]](../documents/publications/ectel2017-zhao.pdf)
+Yue Zhao, Christoph Lofi and Claudia Hauff. *Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach*, EC-TEL, pp. 330-344, 2017. [[PDF Preprint&#8594;]](../documents/publications/ectel2017-zhao.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search*, accepted at the [40th International ACM SIGIR Conference on Research and Development in Information Retrieval](http://sigir.org/sigir2017). [[Blog post&#8594;]]({% post_url 2017-05-02-glowbox %}) [[PDF Preprint&#8594;]](../documents/publications/SIGIR2017-hiemstra.pdf)
+Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search*, SIGIR, pp. 981-984, 2017. [[Blog post&#8594;]]({% post_url 2017-05-02-glowbox %}) [[PDF Preprint&#8594;]](../documents/publications/SIGIR2017-hiemstra.pdf)
 
 <img src="../img/editor.png" height="20px"> 
 Joemon Jose, Claudia Hauff, Ismail Sengor Altingovde, Dawei Song, Dyaa Albakour, Stuart Watt and John Tait. *Advances in Information Retrieval: 39th European Conference on IR Research, ECIR 2017 Proceedings*.
 
 <img src="../img/conference-paper.png" height="20px"> 
-Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) as full paper. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-triglianos.pdf)
+Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *Measuring student behaviour dynamics in a large interactive classroom setting*, UMAP, pp. 212-220, 2017. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-triglianos.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, accepted at the [25th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2017/) in the Late Breaking Results track. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-zhao.pdf)
+Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. *Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing*, UMAP (Adjunct Publication), pp. 83-88, 2017. [[PDF Preprint&#8594;]](../documents/publications/UMAP2017-zhao.pdf)
 
 
 <img src="../img/conference-short-paper.png" height="20px"> 
