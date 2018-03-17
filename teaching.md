@@ -95,7 +95,6 @@ in the book.
 ### Information Retrieval
 
 #### Slides - 2017/18 Edition
-
 After a few years of not teaching IR, I am back at it. This time, the *Information Retrieval* course covers core IR topics for half of the lectures and NLP topics (taught by Nava Tintarev) for the other half. 
 
 - [Evalution](../documents/ir2017/IR-Evaluation.pdf) 
@@ -104,12 +103,11 @@ After a few years of not teaching IR, I am back at it. This time, the *Informati
 - [Query refinement](../documents/ir2017/Query-Refinement-Lecture.pdf)
 - [More query refinement and interactive IR](../documents/ir2017/Interactive-IR-Lecture.pdf)
 - Personalization
-- Web serach
+- Web search
 - Learning to rank
 
 
 #### Slides - 2011/12 Edition
-
 In 2011/12 I taught my core area of research in a Master course *Information Retrieval* at TU Delft. This course was my first excursion
 into the use of Hadoop & Co as part of my teaching, thanks to a grant from Amazon and their (at the time) "AWS Education" scheme - $3500
 to allow students to use a real Hadoop cluster for their experiments.  
