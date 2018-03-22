@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2018
 
 <img src="../img/conference-paper.png" height="20px"> 
+Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, accepted at ICWSM, 2018. 
+
+<img src="../img/conference-paper.png" height="20px"> 
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *Webcam-based attention tracking in Online Learning: A Feasibility Study*, IUI, pp. 189-197, 2018. [[PDF Preprint&#8594;]](../documents/publications/iui2018-robal.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
