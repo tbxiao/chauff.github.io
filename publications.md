@@ -7,6 +7,12 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2018
 
+<img src="../img/demo-paper.png" height="20px">
+Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff, *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018.
+
+<img src="../img/demo-paper.png" height="20px">
+Mónica Marrero and Claudia Hauff, *A/B Testing with APONE*, accepted at SIGIR 2018.
+
 <img src="../img/conference-paper.png" height="20px"> 
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. 
 
