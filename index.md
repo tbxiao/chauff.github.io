@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Assistant Professor
+title:  Associate Professor
 subtitle: Web Information Systems, TU Delft
 ---
 
@@ -34,7 +34,7 @@ subtitle: Web Information Systems, TU Delft
 
 ## Briefly
 
-Since 2013, I have been working as Assistant Professor (tenured as of 01/2016) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+Since 2013, I have been working as staff member (Assistant Prof since 2013, tenured as of 2016 and Associate as of 2018) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/). Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
