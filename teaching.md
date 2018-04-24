@@ -97,14 +97,16 @@ in the book.
 #### Slides - 2017/18 Edition
 After a few years of not teaching IR, I am back at it. This time, the *Information Retrieval* course covers core IR topics for half of the lectures and NLP topics (taught by Nava Tintarev) for the other half. 
 
-- [Evalution](../documents/ir2017/IR-Evaluation.pdf) 
-- [IR models](../documents/ir2017/IR-Retrieval-models.pdf)
-- [Indexing](../documents/ir2017/IR-Indexing.pdf)
-- [Query refinement](../documents/ir2017/Query-Refinement-Lecture.pdf)
-- [More query refinement and interactive IR](../documents/ir2017/Interactive-IR-Lecture.pdf)
-- Personalization
-- Web search
-- Learning to rank
+- [IR evaluation](https://docs.google.com/presentation/d/e/2PACX-1vRUZW8Xz2ib8IlJwUIpKucYYFZ5pzUSuoP57UfjwWyQuJil7GDcts50rsOacvV5q3pzhV_HEa69vuSH/pub?start=false&loop=false&delayms=3000)
+- [Retrieval models](https://docs.google.com/presentation/d/e/2PACX-1vQFLHSedV4X00-vLhTNbV0aX7zklIM0rosjsYRCyMnurfEOilb4MBVUrTCjpVu0A6yink3czArmBvNp/pub?start=false&loop=false&delayms=3000)
+- [Indexing](https://docs.google.com/presentation/d/e/2PACX-1vTeCcr8yrh0Q0zMttx3WtO0zhLcpzQSr2piYUtMYkINVUruMUa-lO2a824Bt_sxxbQTV-Kl1N1TA4TI/pub?start=false&loop=false&delayms=3000)
+- [Query refinement](https://docs.google.com/presentation/d/e/2PACX-1vT4OiTBDlFaUEvFwcyZITsiy9oBHr6NHZSbj2xo2Smw_MMR9owKpUjIguHdJBYPXZhI6lLPhNYIsD8R/pub?start=false&loop=false&delayms=3000)
+- [Interactive IR](https://docs.google.com/presentation/d/e/2PACX-1vQj-MAdwO6pEyoAB4bMFqdsgldNNDQrqRZaf7tyOPsK62Px8688N_GHMlIc21WLM7W-u1VigSoRbOd8/pub?start=false&loop=false&delayms=3000)
+- [Personalization in (Web) search](https://docs.google.com/presentation/d/e/2PACX-1vQ-sXMd4Ggt5YdAGHrZYh52p5ufZsxzqxKhlp_V1l60MUDRS8HfzEr5iAbNTh8ucTIC2x0q1UYeklk2/pub?start=false&loop=false&delayms=3000)
+- [Neural models](https://docs.google.com/presentation/d/e/2PACX-1vRwuQ_a3Am7pyJWdqOGiWsCXqbfppRwQo2AM3nByclxanLvLAxe2s9zOWlXJ79zARP1Ke9KIpZefH-c/pub?start=false&loop=false&delayms=3000)
+- [Learning to rank](https://docs.google.com/presentation/d/e/2PACX-1vTwo37wjtBJi7MBnEDA6wzgybymAvKagc28OoI94UFuwohAN3WBMmnSxAipoBdap44JhPbyUKiE9Y0L/pub?start=false&loop=false&delayms=3000)
+
+I have also written a blog post about the [IR project setup](http://chauff.github.io/2018-04-24-ir/).
 
 
 #### Slides - 2011/12 Edition
