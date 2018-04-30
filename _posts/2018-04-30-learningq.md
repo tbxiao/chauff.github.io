@@ -11,9 +11,7 @@ high-quality formative assessment questions on different difficulty levels.
 
 **Question generation** research makes this possible. The problem of current question generation works though is that they are largely
 evaluated on datasets such as [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) or [RACE](https://arxiv.org/abs/1704.04683) 
-which have been created for machine reading comprehension - they typically require all information to answer a question
-to be available in a short piece of text). This is of course not very useful for educational questions, as it covers only the lowest
-levels of learning. Take a look at the following document/question examples, two from SQuAD and RACE and one from our LearningQ dataset:
+which have either been created for machine reading comprehension or language comprehension tests - they typically contain all information to answer a question to be available in a short piece of text). This is of course not very useful for educational questions, as it covers only the lowest levels of learning. Take a look at the following document/question examples, two from SQuAD and RACE and one from our LearningQ dataset:
 
 <img src="../img/learningq_datasets.png" width="650px">
 
