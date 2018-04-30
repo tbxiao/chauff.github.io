@@ -42,7 +42,7 @@ While we were able to take all 7K crawled instructor questions from TED-Ed at fa
 and annotator effort to built a suitable classifier for the more than 1 million questions crawled from Khan Academy. In the end,
 our classifier identified 223K unique useful questions; below are a few examples of useful/not useful question from this source.
 
-<img src="../img/learningq_khan.png" width="650px">
+<img src="../img/learningq-khan.png" width="650px">
 
 The questions in LearningQ cover a wide range of educational topics and contain long and cognitively demanding documents for 
 which question generation requires reasoning over the relationships between sentences and paragraphs; this is in contrast
