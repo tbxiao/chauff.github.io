@@ -16,7 +16,7 @@ which have either been created for machine reading comprehension or language com
 <img src="https://chauff.github.io/img/learningq-datasets.png">
 
 For human(!) learning, we are interested in questions whose answers cannot be simply read out from a piece of text available to the user.
-To train neural (what else?) question generator approaches, we thus need a dataset that contains those cognitively more difficult
+To train neural (what else these days?) question generator approaches, we thus need a dataset that contains those cognitively more difficult
 questions. That's the question we answer in our [ICWSM 2018](http://www.icwsm.org/2018/index.php) [paper](https://github.com/AngusGLChen/LearningQ/blob/master/ICWSM2018_LearningQ_preprint.pdf):
 
 ```bibtex
@@ -34,8 +34,7 @@ approaches which show the gap between vision and reality (and that gap is huge).
 
 ## Data Collection
 
-Where do we get *useful* (for learning) document-question pairs from? We looked at a number of educational Web portals and eventually
-settled on gathering questions from [TED-Ed](https://ed.ted.com/) and [Khan Academy](https://www.khanacademy.org/). The former
+Where do we get a *very large* set of *useful* (for learning) and *diverse* (covering various topics) document-question pairs from? We looked at a number of educational Web portals and eventually settled on gathering questions from [TED-Ed](https://ed.ted.com/) and [Khan Academy](https://www.khanacademy.org/). The former
 contains learning materials and questions created by instructors (thus: high-quality), the latter contains learning materials 
 (articles and videos) and questions that learners post about the materials. 
 
