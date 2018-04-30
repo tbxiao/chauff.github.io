@@ -4,6 +4,8 @@ title: LearningQ
 thumbnail: "/img/og_learningq.png"
 ---
 
+<img src="https://chauff.github.io/img/og_learningq.png" width="150px">
+
 Imagine this: you are an educator who teaches a large class and would like to give your students the opportunity to practice
 as much as they like. So you create questions. But that is cumbersome. Instead, you'd like (or: I'd like) an automatic pipeline that
 takes in the material you teach and spits out *useful*, and *automatically generated* questions. Ideally: an infinite number of 
