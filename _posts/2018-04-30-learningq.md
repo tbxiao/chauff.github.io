@@ -27,8 +27,7 @@ questions. The process of creating such a dataset is described in our ICWSM 2018
 	year = {2018}
 }
 ```
-where we describe the data collection of an appropriate training data set as well as initial baselines of existing question generation
-approaches which show the gap between vision and reality (and that gap is huge). The source code, dataset description and links to the actual dataset are available [here](https://github.com/AngusGLChen/LearningQ).
+The source code, dataset description and links to the actual dataset are available [here](https://github.com/AngusGLChen/LearningQ).
 
 
 
