@@ -4,8 +4,6 @@ title: LearningQ
 thumbnail: "/img/og_learningq.png"
 ---
 
-<img src="https://chauff.github.io/img/og_learningq.png" width="150px">
-
 Imagine this: you are an educator who teaches a large class and would like to give your students the opportunity to practice
 as much as they like. So you create questions. But that is cumbersome. Instead, you'd like (or: I'd like) an automatic pipeline that
 takes in the material you teach and spits out *useful*, and *automatically generated* questions. Ideally: an infinite number of 
@@ -32,6 +30,8 @@ questions. That's the question we answer in our [ICWSM 2018](http://www.icwsm.or
 where we describe the data collection of an appropriate training data set as well as initial baselines of existing question generation
 approaches which show the gap between vision and reality (and that gap is huge). The dataset, preprint and the source code is 
 available [here](https://github.com/AngusGLChen/LearningQ).
+
+
 
 ## Data Collection
 
@@ -73,3 +73,5 @@ while on LearningQ it is less than 4, which indicates large space for improvemen
 Now we get to work, trying to improve over our baselines. The vision will only be a reality when we can with reasonable confidence
 generate good questions (we are far away from excellent). The application domain for us are MOOCs, leading to research and prototypes 
 with potentially tens of thousands of users. 
+
+<img src="https://chauff.github.io/img/og_learningq.png" width="150px">
