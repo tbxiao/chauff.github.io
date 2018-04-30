@@ -66,3 +66,8 @@ while on LearningQ it is less than 4, which indicates large space for improvemen
 
 <img src="https://chauff.github.io/img/learningq-results.png" width="650px">
 
+## What now?
+
+Now we get to work, trying to improve over our baselines. The vision will only be a reality when we can with reasonable confidence
+generate good questions (we are far away from excellent). The application domain for us are MOOCs, leading to research and prototypes 
+with potentially tens of thousands of users. 
