@@ -17,7 +17,7 @@ which have either been created for machine reading comprehension or language com
 
 For human(!) learning, we are interested in questions whose answers cannot be simply read out from a piece of text available to the user.
 To train neural (what else these days?) question generator approaches, we thus need a dataset that contains those cognitively more difficult
-questions. That's the question we answer in our [ICWSM 2018](http://www.icwsm.org/2018/index.php) [paper](https://github.com/AngusGLChen/LearningQ/blob/master/ICWSM2018_LearningQ_preprint.pdf):
+questions. The process of creating such a dataset is described in our ICWSM 2018 [paper](https://github.com/AngusGLChen/LearningQ/blob/master/ICWSM2018_LearningQ_preprint.pdf):
 
 ```bibtex
 @paper{ICWSM18LearningQ,
