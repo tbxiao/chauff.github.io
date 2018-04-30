@@ -64,5 +64,5 @@ methods which perform well on existing datasets cannot generate useful education
 The best Bleu 4 score achieved by the state-of-the-art methods (i.e., Attention Seq2Seq) on SQuAD is larger than 12, 
 while on LearningQ it is less than 4, which indicates large space for improvement on educational question generation.
 
-<img src="https://chauff.github.io/img/learningq-results.png">
+<img src="https://chauff.github.io/img/learningq-results.png" width="650px">
 
