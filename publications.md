@@ -14,7 +14,7 @@ Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff, *SearchX: Empowering
 Mónica Marrero and Claudia Hauff, *A/B Testing with APONE*, accepted at SIGIR 2018. [GitHub repository](https://marrerom.github.io/APONE/)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. 
+Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. [[PDF Preprint&#8594;]](../documents/publications/HYPERTEXT2018-zhao.pdf) [GitHub repository](https://github.com/Yue-ZHAO/IntelliEye)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, accepted at [ICWSM](http://www.icwsm.org/2018/index.php), 2018. [[Dataset and preprint&#8594;]](https://github.com/AngusGLChen/LearningQ) 
