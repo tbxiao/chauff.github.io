@@ -17,7 +17,7 @@ Mónica Marrero and Claudia Hauff, *A/B Testing with APONE*, accepted at SIGIR 2
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. 
 
 <img src="../img/conference-paper.png" height="20px"> 
-Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, accepted at [ICWSM](http://www.icwsm.org/2018/index.php), 2018. 
+Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, accepted at [ICWSM](http://www.icwsm.org/2018/index.php), 2018. [[Dataset and preprint&#8594;]](https://github.com/AngusGLChen/LearningQ) 
 
 <img src="../img/conference-paper.png" height="20px"> 
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *Webcam-based attention tracking in Online Learning: A Feasibility Study*, IUI, pp. 189-197, 2018. [[PDF Preprint&#8594;]](../documents/publications/iui2018-robal.pdf)
