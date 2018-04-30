@@ -52,7 +52,7 @@ designed mostly for the **lowest cognitive skill level** (i.e. remembering).
 
 <img src="https://chauff.github.io/img/learningq-stats.png">
 
-We actually find questions across all cognitive levels in our dataset:
+We actually find questions across all cognitive levels (we took Bloom's taxonomy as our starting point) in our dataset:
 
 <img src="https://chauff.github.io/img/learningq-levels.png">
 
