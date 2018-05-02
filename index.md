@@ -65,7 +65,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 
 ## Organizational duties and activities
-- Short paper co-chair at ECIR 2019
+- tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
+- Short paper co-chair at [ECIR 2019](http://ecir2019.org/)
 - Invited keynote at CORIA, the French chapter of IR conferences (May 2018)
 - Invited participant at the *Third Strategic Workshop in Information Retrieval* (SWIRL III) in Lorne (February 2018)
 - Invited talk at the *General Mathematics Colloqium Leiden* (December 2017)
