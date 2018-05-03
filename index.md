@@ -5,12 +5,12 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- **May 2018**: I have open PhD and Postdoc positions in the [SearchX] project, a synergy between information retrieval / NLP as well as learning analytics (data science applied to human learners' traces). If you are interested, please get in touch!
+- **May 2018**: I have open PhD and Postdoc positions in the [SearchX](https://chauff.github.io/2017-05-30-vidi/) project, a synergy between information retrieval / NLP as well as learning analytics (data science applied to human learners' traces). If you are interested, please get in touch!
 - Two demos of my team will make an appearance at SIGIR 2018: a collaborative search (on GitHub: [frontend](https://github.com/felipemoraes/searchx-frontend) and [backend](https://github.com/felipemoraes/searchx-backend)) and an A/B testing framework (also on [GitHub](https://marrerom.github.io/APONE/))
 - In February 2018 I started a new project on **algorithmic biases** together with the University of Amsterdam. Exciting times ahead!
 - The Search as Learning Dagstuhl Seminar I co-organized earlier this year was a success! I wrote a [blog post](http://chauff.github.io/2017-09-15-sal/) on some of the challenges we identified.
 - I have spent my summer '17 at [Blendle](https://blendle.com/), a Dutch online news platform startup, and tinkered around with their search.
-- I have been **awarded** an [**NWO VIDI**](https://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/vidi+awards/vidi+awards+2016) grant for my proposal [Integrating search and sensemaking into large-scale open online  learning](http://chauff.github.io/2017-05-30-searchx/); this means funding for 2 PhDs and 1 postdoc position. Vacancies will be anounced soon. If you are looking for an IR PhD/postdoc position contact me!
+- I have been **awarded** an [**NWO VIDI**](https://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/vidi+awards/vidi+awards+2016) grant for my proposal [Integrating search and sensemaking into large-scale open online  learning](https://chauff.github.io/2017-05-30-vidi/).
 - I attended ICLR in April '17 and [wrote a blog post about it](http://chauff.github.io/2017-04-25-iclr2017/).
 
 <p>
