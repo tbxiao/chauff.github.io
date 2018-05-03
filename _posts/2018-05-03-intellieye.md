@@ -86,8 +86,8 @@ time is likely to be perceived as privacy-invading?
 
 For this last question we evaluated three approaches to 'alert' the learners that have different annoyance levels:
 - *pausing the video* (extremely annoying) when inattention is detected, 
-- *auditory alert*: ringing a bell repeatedly (less annoying)
-- *visual alert*: red hue around the video player (not really annoying)
+- *auditory alert*: ringing a bell repeatedly (less annoying),
+- *visual alert* ☺: red hue around the video player (not really annoying).
 
 ## Results
 
