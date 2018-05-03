@@ -42,7 +42,7 @@ make an annoying sound, etc.) and hopefully return learners' attention to the le
 But how can we detect anything given that our learners are spread around the world? We could use learners'
 Webcam feeds. Now of course, we can't really observe learners, but we can design an *automated* method that processes
 the Webcam feed and alerts learners when loss of attention is detected. To avoid false positives, we used a few
-heuristics to measure ``inattention'':
+heuristics to measure inattention:
 
 * if the browser tab/window containing the lecture video is not visible to the learner, we assume inattention;
 * if a learner's face cannot be detected for some time we assume inattention unless we are observing mouse
@@ -102,7 +102,7 @@ inattention occurs exhibit fewer inattention episodes than learners in a conditi
 
 Over time we saw neither an increase nor a decrease in IntelliEye's use:
 
-<img src="https://chauff.github.io/img/intellieye-sessions.png" width="750px">
+<img src="https://chauff.github.io/img/intellieye-sessions.png" width="900px">
 
 
 
