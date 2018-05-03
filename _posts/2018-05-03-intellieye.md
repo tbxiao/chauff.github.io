@@ -91,11 +91,14 @@ For this last question we evaluated three approaches to 'alert' the learners tha
 
 ## Results
 
-- **78%** of our MOOC learners used hardware and software setups which are capable to support such widgets, making the
+**78%** of our MOOC learners used hardware and software setups which are capable to support such widgets, making the
 wide-spread adoption of our approach realistic, at least from a technological point of view.
-- **67%** of learners with capable setups was (understandably) reluctant to allow the use of Webcam-based attention tracking techniques,
-citing as main reasons privacy concerns and the lack of perceived usefulness of such a tool.
-- Among the learners using IntelliEye we observe (i) high levels of inattention (on average one inattention episode occured every
+
+**67%** of learners with capable setups was (not surprisingy) reluctant to allow the use of Webcam-based attention tracking techniques. Among those that gave us a reason for disabling (a quarter of them had tried IntelliEye at least once), most remarked that they were capable of attention tracking themselves (the literature says otherwise). Privacy was the second most popular reason for disabling IntelliEye:
+
+<img src="https://chauff.github.io/img/intellieye-disable.png" width="500px">
+
+Among the learners using IntelliEye we observe (i) high levels of inattention (on average one inattention episode occured every
 **36 seconds**, a much higher rate than reported in previous lab studies, where attention is usually held a few minutes at least.
 - Learners adapt their behaviour towards the technology: learners in conditions that disturb (well, annoy) the learner when 
 inattention occurs exhibit fewer inattention episodes than learners in a condition that provides less disturbance. Besides their behaviour though, we did not see any significant changes in their learning outcomes (also hard to measure due to the limited deployment period).
@@ -105,6 +108,8 @@ Over time we saw neither an increase nor a decrease in IntelliEye's use:
 <img src="https://chauff.github.io/img/intellieye-sessions.png" width="900px">
 
 The two main takeaway messages are really the extraordinary low attention levels (though of course this requires further research) we found and the fact that a substantial number of MOOC learners are *not* adverse to trialing such technology. 
+
+As a sanity check, we also asked learners that chose to disable IntelliEye
 
 
 
