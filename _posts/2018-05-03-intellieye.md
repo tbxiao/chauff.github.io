@@ -94,7 +94,7 @@ For this last question we evaluated three approaches to 'alert' the learners tha
 **78%** of our MOOC learners used hardware and software setups which are capable to support such widgets, making the
 wide-spread adoption of our approach realistic, at least from a technological point of view.
 
-**67%** of learners with capable setups was (not surprisingy) reluctant to allow the use of Webcam-based attention tracking techniques. Among those that gave us a reason for disabling (a quarter of them had tried IntelliEye at least once), most remarked that they were capable of attention tracking themselves (the literature says otherwise). Privacy was the second most popular reason for disabling IntelliEye:
+**67%** of learners with capable setups was (not surprisingy) reluctant to allow the use of Webcam-based attention tracking techniques. Among those that gave us a reason for disabling (a quarter of them had tried IntelliEye at least once), most remarked that they were capable of attention tracking themselves (the literature says otherwise). Privacy was the third most popular reason for disabling IntelliEye:
 
 <img src="https://chauff.github.io/img/intellieye-disable.png" width="500px">
 
