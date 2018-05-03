@@ -100,7 +100,8 @@ wide-spread adoption of our approach realistic, at least from a technological po
 
 Among the learners using IntelliEye we observe (i) high levels of inattention (on average one inattention episode occured every
 **36 seconds**, a much higher rate than reported in previous lab studies, where attention is usually held a few minutes at least.
-- Learners adapt their behaviour towards the technology: learners in conditions that disturb (well, annoy) the learner when 
+
+Learners **adapt their behaviour towards the technology**: learners in conditions that disturb (well, annoy) the learner when 
 inattention occurs exhibit fewer inattention episodes than learners in a condition that provides less disturbance. Besides their behaviour though, we did not see any significant changes in their learning outcomes (also hard to measure due to the limited deployment period).
 
 Over time we saw neither an increase nor a decrease in IntelliEye's use:
