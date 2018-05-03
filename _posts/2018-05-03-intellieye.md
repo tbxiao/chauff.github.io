@@ -84,10 +84,13 @@ advanced widgets such as IntelliEye?
 time is likely to be perceived as privacy-invading?
 - **Effect on behaviour**: What impact does IntelliEye have on learners' behaviours and actions (if any)? 
 
-For this last question we evaluated three approaches to 'alert' the learners that have different annoyance levels:
-- *pausing the video* :grimacing: : when inattention is detected (extremely annoying), 
-- *auditory alert* :unamused: : ringing a bell repeatedly (less annoying),
-- *visual alert* :expressionless: : red hue around the video player (not really annoying).
+For this last question we evaluated three approaches to 'alert' the learners that have decreasing levels of annoyance built in:
+- *pausing the video* :grimacing: when inattention is detected, 
+- *ringing a bell repeatedly* :unamused: when inattention is detected,
+- *flashing a red border* :expressionless: around the video player.
+
+Learners were randomly assigned to a single alert condition.
+
 
 ## Results
 
