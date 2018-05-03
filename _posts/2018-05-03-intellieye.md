@@ -22,7 +22,7 @@ Today's MOOCs are set up in a video-centric manner and provide ample opportuniti
 distracted and lose their attention without realizing it. How often have you found yourself checking your emails
 or browsing the Web without consciously thinking about doing that? I have, more than once.
 
-Here is what we did about this in our upcoming ACM Hypertext paper:
+Here is what we did about this in our upcoming ACM Hypertext paper ([preprint](https://chauff.github.io/documents/publications/HYPERTEXT2018-zhao.pdf)):
 
 ```bibtex
 @paper{Hypertext2018IntelliEye,
