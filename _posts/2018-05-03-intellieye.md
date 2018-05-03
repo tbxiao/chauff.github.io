@@ -7,6 +7,7 @@ thumbnail: "/img/og_intellieye.png"
 When I am not talking about information retrieval research/education, I usually talk about MOOCs in this blog. 
 While IR and MOOCs seem pretty unrelated, they come together very well in the area of *Search As Learning*. 
 Search though is not always necessary for MOOC research, there are plenty of other things one can explore as well.
+And sometimes there is just an idea, that sounds challenging as well as interesting and we go for it.
 
 So ... MOOCs ... 
 
@@ -90,8 +91,6 @@ For this last question we evaluated three approaches to 'alert' the learners tha
 
 ## Results
 
-So, what did we find? 
-
 - **78%** of our MOOC learners used hardware and software setups which are capable to support such widgets, making the
 wide-spread adoption of our approach realistic, at least from a technological point of view.
 - **67%** of learners with capable setups was (understandably) reluctant to allow the use of Webcam-based attention tracking techniques,
@@ -101,6 +100,9 @@ citing as main reasons privacy concerns and the lack of perceived usefulness of 
 - Learners adapt their behaviour towards the technology: learners in conditions that disturb (well, annoy) the learner when 
 inattention occurs exhibit fewer inattention episodes than learners in a condition that provides less disturbance.
 
+Over time we saw neither an increase nor a decrease in IntelliEye's use:
+
+<img src="https://chauff.github.io/img/intellieye-sessions.png" width="750px">
 
 
 
