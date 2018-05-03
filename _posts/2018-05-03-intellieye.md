@@ -46,31 +46,30 @@ heuristics to measure inattention:
 
 * if the browser tab/window containing the lecture video is not visible to the learner, we assume inattention;
 * if a learner's face cannot be detected for some time we assume inattention unless we are observing mouse
-movements at the same time (a sanity check), i.e. we employ 
-face tracking as a robust proxy of attention tracking.
+movements at the same time (a sanity check), i.e. we employ face tracking as a robust proxy of attention tracking.
 
 We implemented these heuristics in an open-source system we call [IntelliEye](https://github.com/Yue-ZHAO/IntelliEye), 
 that embeds itself into the [edX](https://www.edx.org/) video player widget. Unlike some other MOOC platforms, 
-edX allows course designers to execute custom JavaScript (among other things). After IntelliEye's deployement, 
-the vieo player widget looks as follows:
+edX allows course designers to execute custom JavaScript. After IntelliEye's deployement, 
+the video player widget looks as follows:
 
 <img src="https://chauff.github.io/img/intellieye-player.png" width="500px">
 
 
 
 ## Deployment
-Such as system (while very educational to design and implement) of course raises a lot of **privacy issues** and we were
+Such as system of course raises a lot of **privacy issues** and we were
 very curious about how learners would react to such an "intervention". We deployed IntelliEye in TU Delft's self-paced MOOC
 *[Introduction to Aeronautical Engineering](https://www.edx.org/course/introduction-to-aeronautical-engineering)*; 
 the first time learners loaded a course page with a video player
-that had IntelliEye embedded (we ran a few sanity checks to avoid activation on old hardware for instance), they 
+that had IntelliEye embedded (we ran a few sanity checks to avoid IntelliEye's activation on old hardware for instance), they 
 received these instructions:
 
 <img src="https://chauff.github.io/img/intellieye-instructions.png" width="500px">
 
 Learners were able to deactivate IntelliEye at any point in time. 
 
-IntelliEye was deployed for ten weeks between October and December 2017 (the MOOC itself ran much longer); 
+IntelliEye was deployed for ten weeks (the MOOC itself ran much longer); 
 it was available for all videos within the MOOC. A total of 2,612 different learners visited the MOOC during 
 the deployment period and were exposed to IntelliEye.
 
@@ -99,11 +98,13 @@ citing as main reasons privacy concerns and the lack of perceived usefulness of 
 - Among the learners using IntelliEye we observe (i) high levels of inattention (on average one inattention episode occured every
 **36 seconds**, a much higher rate than reported in previous lab studies, where attention is usually held a few minutes at least.
 - Learners adapt their behaviour towards the technology: learners in conditions that disturb (well, annoy) the learner when 
-inattention occurs exhibit fewer inattention episodes than learners in a condition that provides less disturbance.
+inattention occurs exhibit fewer inattention episodes than learners in a condition that provides less disturbance. Besides their behaviour though, we did not see any significant changes in their learning outcomes (also hard to measure due to the limited deployment period).
 
 Over time we saw neither an increase nor a decrease in IntelliEye's use:
 
 <img src="https://chauff.github.io/img/intellieye-sessions.png" width="900px">
+
+The two main takeaway messages are really the extraordinary low attention levels (though of course this requires further research) we found and the fact that a substantial number of MOOC learners are *not* adverse to trialing such technology. 
 
 
 
