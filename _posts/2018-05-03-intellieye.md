@@ -64,7 +64,7 @@ very curious about how learners would react to such an ''intervention''. We depl
 that had IntelliEye embedded (we ran a few sanity checks to avoid activation on old hardware for instance), they 
 received these instructions:
 
-<img src="https://chauff.github.io/img/intellieye-player.png" width="500px">
+<img src="https://chauff.github.io/img/intellieye-instructions.png" width="500px">
 
 Learners were able to deactivate IntelliEye at any point in time. 
 
