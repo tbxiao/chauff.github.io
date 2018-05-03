@@ -11,8 +11,8 @@ And sometimes there is just an idea, that sounds challenging as well as interest
 
 So ... MOOCs ... 
 
-MOOCs suffer from retention issues: most MOOC learners start but do not finish. 
-Completion rates of below 5% is not a rare sights in MOOCs aiming at first year Bachelor knowledge levels.
+MOOCs suffer from **retention issues**: most MOOC learners start but do not finish. 
+Completion rates of **below 5%** is not a rare sights in MOOCs aiming at first year Bachelor knowledge levels.
 One culprit is the lack of oversight and directions: learners need to be
 skilled in self-regulated learning to monitor themselves and their
 progress, keep their focus and plan their learning. Many learners
