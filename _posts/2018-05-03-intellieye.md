@@ -85,9 +85,9 @@ time is likely to be perceived as privacy-invading?
 - **Effect on behaviour**: What impact does IntelliEye have on learners' behaviours and actions (if any)? 
 
 For this last question we evaluated three approaches to 'alert' the learners that have different annoyance levels:
-- *pausing the video* (extremely annoying) when inattention is detected, 
+- *pausing the video* :grimacing: : when inattention is detected (extremely annoying), 
 - *auditory alert* :unamused: : ringing a bell repeatedly (less annoying),
-- *visual alert* ☺: red hue around the video player (not really annoying).
+- *visual alert* :expressionless: : red hue around the video player (not really annoying).
 
 ## Results
 
