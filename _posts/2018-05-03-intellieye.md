@@ -109,8 +109,3 @@ Over time we saw neither an increase nor a decrease in IntelliEye's use:
 <img src="https://chauff.github.io/img/intellieye-sessions.png" width="900px">
 
 The two main takeaway messages are really the extraordinary low attention levels (though of course this requires further research) we found and the fact that a substantial number of MOOC learners are *not* adverse to trialing such technology. 
-
-As a sanity check, we also asked learners that chose to disable IntelliEye
-
-
-
