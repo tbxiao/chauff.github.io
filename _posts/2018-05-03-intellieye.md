@@ -39,7 +39,7 @@ Here is what we did about this in our upcoming ACM Hypertext paper ([preprint](h
 We zoomed in on videos, as they are the most passive type to learning (just watch and listen). 
 If we were able to detect online learners' loss of attention **in real-time**, we could intervene (pause the video,
 make an annoying sound, etc.) and hopefully return learners' attention to the lecture video at hand. 
-But how can we detect anything given that our learners are spread around the world? We could use learners'
+How can we detect anything given that our learners are spread around the world? We could use learners'
 Webcam feeds. Now of course, we can't really observe learners, but we can design an *automated* method that processes
 the Webcam feed and alerts learners when loss of attention is detected. To avoid false positives, we used a few
 heuristics to measure inattention:
@@ -47,21 +47,22 @@ heuristics to measure inattention:
 * if the browser tab/window containing the lecture video is not visible to the learner, we assume inattention;
 * if a learner's face cannot be detected for some time we assume inattention unless we are observing mouse
 movements at the same time (a sanity check), i.e. we employ 
-face tracking as a robust proxy of attention tracking;
+face tracking as a robust proxy of attention tracking.
 
 We implemented these heuristics in an open-source system we call [IntelliEye](https://github.com/Yue-ZHAO/IntelliEye), 
-that embeds itself into the edX video player widget (unlike some other MOOC platforms, edX allows course designers to
-execute custom JavaScript):
+that embeds itself into the [edX](https://www.edx.org/) video player widget. Unlike some other MOOC platforms, 
+edX allows course designers to execute custom JavaScript (among other things). After IntelliEye's deployement, 
+the vieo player widget looks as follows:
 
 <img src="https://chauff.github.io/img/intellieye-player.png" width="500px">
 
-In this screenshot IntelliEye is active and tracking the learner's attention.
 
 
 ## Deployment
-Such as system (while very educational to design and implement) of course raises a lot of privacy issues and we were
-very curious about how learners would react to such an ''intervention''. We deployed IntelliEye in the self-paced MOOC
-*Introduction to Aeronautical Engineering (AE1110x)*; the first time learners loaded a course page with a video player
+Such as system (while very educational to design and implement) of course raises a lot of **privacy issues** and we were
+very curious about how learners would react to such an "intervention". We deployed IntelliEye in TU Delft's self-paced MOOC
+*[Introduction to Aeronautical Engineering](https://www.edx.org/course/introduction-to-aeronautical-engineering)*; 
+the first time learners loaded a course page with a video player
 that had IntelliEye embedded (we ran a few sanity checks to avoid activation on old hardware for instance), they 
 received these instructions:
 
