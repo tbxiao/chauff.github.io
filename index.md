@@ -65,6 +65,19 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 
+
+
+## Grants
+- [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData (**325,000€**) awarded together with 2 co-PIS. A two-year Postdoc position will be funded within a work package that considers fairness in news recommenders.
+- NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
+- [NWO TOP grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
+- Grant (**33,000€**) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
+- TU Delft Education Research tender (**2,500€**, 1 co-PI) to bring real-time teaching and learning analytics into the classroom, July 2016
+- TU Delft Study Success tender (**3,000€**, 1 co-PI) to further improve teaching in the Bachelor, September 2015 
+- TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
+
+
+
 ## Organizational duties and activities
 - Tutorial chair at ICTIR 2019
 - Tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
@@ -109,13 +122,3 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
 
 
-
-
-## Grants
-- [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData (**325,000€**) awarded together with 2 co-PIS. A two-year Postdoc position will be funded within a work package that considers fairness in news recommenders.
-- NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
-- [NWO TOP grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
-- Grant (**33,000€**) from the Leiden-Delft-Erasmus Centre for Education and Learning to conduct research on the benefits of eyetracking in massive open online learning, November 2016
-- TU Delft Education Research tender (**2,500€**, 1 co-PI) to bring real-time teaching and learning analytics into the classroom, July 2016
-- TU Delft Study Success tender (**3,000€**, 1 co-PI) to further improve teaching in the Bachelor, September 2015 
-- TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
