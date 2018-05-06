@@ -66,6 +66,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 
 ## Organizational duties and activities
+- Tutorial chair at ICTIR 2019
 - Tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
 - Short paper co-chair at [ECIR 2019](http://ecir2019.org/)
 - Invited keynote at CORIA, the French chapter of IR conferences (May 2018)
