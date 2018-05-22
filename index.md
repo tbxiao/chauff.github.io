@@ -104,7 +104,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited talk ([slides](http://www.slideshare.net/chauff/largescale-learning-analytics-at-tu-delft)) at the [Data Science Northeast Netherlands](http://www.meetup.com/Data-Science-Northeast-Netherlands/) meetup (October 2016)
 - Guest editor of the special issue *Search as Learning* in Springer's [Information Retrieval Journal](http://link.springer.com/journal/10791)
 - Co-organizer of a Dagstuhl seminar on [*Search as Learning*](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) (February 2017)
-- Member of the 2016-2018 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop)
+- Member of the 2016-2018 Steering Committee [ICT with Industry workshop](http://www.nwo.nl/over-nwo/organisatie/nwo-onderdelen/ew/bijeenkomsten/ict+with+industry+workshop) ([website of the 2017 edition](https://chauff.github.io/ictWI2017/))
 - Co-organizer of the [Search as Learning workshop](http://chauff.github.io/sal2016/) at SIGIR 2016
 - Demo co-chair of the [38th European Conference on Information Retrieval](http://ecir2016.dei.unipd.it/)
 - [Invited talk at the #SupportTheCause symposium](http://supportthecause.nl/) on Twitter-based election forecasting (January 2016)
