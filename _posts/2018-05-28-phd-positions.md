@@ -3,7 +3,8 @@ layout: post
 title: 2 PhD positions
 ---
 
-Project SearchX: Integrating search and sensemaking into large-scale open online learning
+In the NWO project **Searchx: Integrating search and sensemaking into large-scale open online learning** I have two open PhD positions. 
+Application deadline: June 15, 2018.
 
 ## Project description
 
