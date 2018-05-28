@@ -66,7 +66,7 @@ For the position at TU Delft we offer a full-time, fixed-term post for a period 
 TU Delft offers a customisable compensation package, a discount for health insurance and sport memberships, 
 and a monthly work costs contribution. Flexible work schedules can be arranged. Salary and benefits are in accordance with 
 the Collective Labour Agreement for Dutch Universities. More information about the terms and conditions at 
-TU Delft [is available](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phds-at-tu-delft/)
+TU Delft [is available](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phds-at-tu-delft/).
 
 As a PhD candidate you will be enrolled in the [TU Delft Graduate School](https://www.tudelft.nl/en/education/programmes/phd/). The TU Delft Graduate School provides an inspiring 
 research environment; an excellent team of supervisors, academic staff and a mentor; and a Doctoral Education Programme 
