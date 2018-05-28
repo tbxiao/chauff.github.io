@@ -36,11 +36,11 @@ The project is led and supervised by myself.
 
 ## Requirements
 
-We are looking for two candidates, one with a strong focus on information retrieval/NLP and one with a strong focus on 
-machine learning/data science, with the following profile:
+We are looking for two candidates, one with a strong focus on **information retrieval/NLP** and one with a strong focus on 
+**machine learning/data science**, with the following profile:
 
 - MSc in Computer Science, or a related field (including Applied Mathematics, Computer Engineering, Computational Linguistics);
-- followed MSc courses and have research experience (e.g. at Master thesis level) in the at least some of the following areas: information retrieval, natural language processing, machine learning (in particular deep learning), dialogue systems, and human computer interaction;
+- followed MSc courses and have research experience (e.g. at Master thesis level) in the at least some of the following areas: information retrieval, natural language processing, machine learning (in particular deep learning - we have a GPU cluster on standby!), dialogue systems, and human computer interaction;
 - enjoy research and are self-motivated;
 - are team players;
 - have excellent communication skills in English.
