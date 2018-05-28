@@ -3,7 +3,8 @@ layout: post
 title: 2 PhD positions
 ---
 
-In the NWO project **Searchx: Integrating search and sensemaking into large-scale open online learning** I have two open PhD positions. 
+In the NWO project **Searchx: Integrating search and sensemaking into large-scale open online learning** I have two open PhD positions
+at the Delft University of Technology.
 Application deadline: June 15, 2018.
 
 ## Project description
@@ -16,8 +17,8 @@ with little intervention from instructors.
 
 One important and so far completely neglected aspect of online learning is search (retrieving information) and sensemaking 
 (making sense of information): learners turn to the Web seeking additional information, and over time create mental representations 
-of the material. However, Web search engines today are not built to support users in the type of complex searches often required in 
-learning situations. The SearchX project brings together the - so far widely disparate - fields of learning at scale and information 
+of the material. **However, Web search engines today are not built to support users in the type of complex searches often required in 
+learning situations.** The SearchX project brings together the - so far widely disparate - fields of learning at scale and information 
 retrieval in a mutually beneficial manner. SearchX has two goals: 
 
 1. to significantly increase learners' engagement and success in massive open online learning through the tight coupling of 
