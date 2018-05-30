@@ -62,7 +62,7 @@ The application should consist of the following:
 
 ## Conditions of employment
 
-For the position at TU Delft we offer a full-time, fixed-term post for a period of four years. 
+For the position at TU Delft we offer a full-time, fixed-term employment for a period of four years. The monthly salary is in accordance with the [collective labour agreement of Dutch universities](https://www.labouragreementuniversities.nl/career/terms-of-employment/remuneration/) (salary scales [P0 to P3](https://www.caouniversiteiten.nl/wp-content/uploads/2017/08/Collective-Labour-Agreement-Dutch-Universities-July-2016-June-2017.pdf#page=76)).
 TU Delft offers a customisable compensation package, a discount for health insurance and sport memberships, 
 and a monthly work costs contribution. Flexible work schedules can be arranged. Salary and benefits are in accordance with 
 the Collective Labour Agreement for Dutch Universities. More information about the terms and conditions at 
