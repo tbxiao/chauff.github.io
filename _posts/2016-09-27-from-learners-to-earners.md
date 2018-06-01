@@ -17,7 +17,9 @@ To investigate the feasibility of this vision, in a recently accepted journal ar
   journal = {IEEE Transactions on Learning Technologies},
   title = {Can Learners be Earners? Investigating a Design to Enable MOOC Learners to 
   Apply their Skills and Earn Money in an Online Market Place},
-  pages = {...},
+  doi = {10.1109/TLT.2016.2614302},
+  url = {doi.ieeecomputersociety.org/10.1109/TLT.2016.2614302},
+  ISSN = {1939-1382},
   year = {2016}
 }
 ```
