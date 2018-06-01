@@ -17,7 +17,7 @@ In our upcoming paper:
   author = {Yue Zhao and Claudia Hauff},
   booktitle = {TPDL '16: 20th Int. Conference on Theory and Practice of Digital Libraries},
   title = {Sub-document Timestamping: A study on the Content Creation Dynamics of Web Documents},
-  pages = {...},
+  pages = {203-214},
   year = {2016}
 }
 ```
