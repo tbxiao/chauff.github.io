@@ -20,7 +20,7 @@ In our [EDM 2016](http://www.educationaldatamining.org/EDM2016/) paper:
   author = {Dan Davis and Guanliang Chen and Claudia Hauff and Geert-Jan Houben},
   booktitle = {EDM '16: 9th International Conference on Educational Data Mining},
   title = {Gauging MOOC Learners’ Adherence to the Designed Learning Path},
-  pages = {...},
+  pages = {54-61},
   year = {2016}
 }
 ```
