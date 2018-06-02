@@ -7,6 +7,11 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2018
 
+<img src="../img/workshop-paper.png" height="20px">
+Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff, 
+*Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
+[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018.
+
 <img src="../img/journal-article.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, accepted in the [Computers & Eduation](https://www.journals.elsevier.com/computers-and-education/) journal.
 
