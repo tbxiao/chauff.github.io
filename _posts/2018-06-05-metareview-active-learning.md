@@ -31,28 +31,27 @@ Lets now look at a few key summary graphs of those 126 papers.
 
 <img src="https://chauff.github.io/img/by_all.png" width="700px">
 
-Here, we split the 126 papers/experiments according to the digital learning environment the experiment was conducted in
-(take into account that for 2017 we only include papers published by July of that year). *Native environments* (software designed and implemented specifically for the experiment) turned out to be the most 
-popular. MOOC-based experiments start to appear in 2014, MTurk-based experiments appear at around the same time. 
-While it is more expensive to carry out research with Mturk compared to existing MOOCs
-(which provide no incentive or compensation), Mturk ensures a certain level
-of compliance and engagement from the subjects in that they are rewarded
-for their time with money.
+Here, we split the 126 papers according to the digital learning environment the reported experiments was conducted in
+(take into account that for 2017 we only include papers published by July of that year). 
+
+*Native environments*, i.e. software designed and implemented specifically for the experiment, turned out to be the most 
+popular. MOOC-based experiments started to appear in 2014, MTurk-based experiments appeared at around the same time. 
 
 <img src="https://chauff.github.io/img/by_env.png" width="700px">
 
 How successful (i.e. how often is the intervention reported to perform better than the control condition) are the
-different environments? In this graph a "-" indicates studies reporting a significant negative effect of the intervention;  
+different environments? In this graph and all that follow, a "-" indicates studies reporting a significant negative effect of the intervention;  
 the "+" indicates a significant positive effect of the intervention; and the "o" indicates findings without a statistically 
 significant effect.
  
 It turns out that the native environments are the "best" to use to achieve significantly better
 results; MOOC environments do not fare too well here, more than half of the studies report a non-significant difference
-between control and experimental conditions.
+between control and experimental conditions. This may not be too surprising as MOOC environments are agnostic to the
+content topic, while native environments can be designed to fit specific types of content (e.g. language learning).
 
 <img src="https://chauff.github.io/img/by_incentive.png" width="700px">
 
-If we look at how study participants were incentivized to participate we surprisingly found often studies without
+If we look at how study participants were incentivized to participate we found surprisingly many studies without
 an incentive/compensation, followed by class-based incentives (credits or requirement for passing a class).
 
 <img src="https://chauff.github.io/img/by_n.png" width="700px">
