@@ -13,7 +13,7 @@ Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff,
 [2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018.
 
 <img src="../img/journal-article.png" height="20px">
-Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, accepted in the [Computers & Eduation](https://www.journals.elsevier.com/computers-and-education/) journal.
+Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Eduation](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [[Online version]](https://doi.org/10.1016/j.compedu.2018.05.019)
 
 <img src="../img/demo-paper.png" height="20px">
 Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff, *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018. GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend)
