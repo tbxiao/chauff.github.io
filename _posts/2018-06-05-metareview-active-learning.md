@@ -32,9 +32,7 @@ Lets now look at a few key summary graphs of those 126 papers.
 <img src="https://chauff.github.io/img/by_all.png" width="700px">
 
 Above, we split the 126 papers according to the digital learning environment the reported experiments was conducted in
-(take into account that for 2017 we only include papers published by July of that year). 
-
-*Native environments*, i.e. software designed and implemented specifically for the experiment, turned out to be the most 
+(take into account that for 2017 we only include papers published by July of that year). *Native environments*, i.e. software designed and implemented specifically for the experiment, turned out to be the most 
 popular. MOOC-based experiments started to appear in 2014, MTurk-based experiments appeared at around the same time. 
 
 <img src="https://chauff.github.io/img/by_env.png" width="700px">
