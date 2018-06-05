@@ -31,7 +31,7 @@ Lets now look at a few key summary graphs of those 126 papers.
 
 <img src="https://chauff.github.io/img/by_all.png" width="700px">
 
-Here, we split the 126 papers according to the digital learning environment the reported experiments was conducted in
+Above, we split the 126 papers according to the digital learning environment the reported experiments was conducted in
 (take into account that for 2017 we only include papers published by July of that year). 
 
 *Native environments*, i.e. software designed and implemented specifically for the experiment, turned out to be the most 
@@ -40,7 +40,7 @@ popular. MOOC-based experiments started to appear in 2014, MTurk-based experimen
 <img src="https://chauff.github.io/img/by_env.png" width="700px">
 
 How successful (i.e. how often is the intervention reported to perform better than the control condition) are the
-different environments? In this graph and all that follow, a "-" indicates studies reporting a significant negative effect of the intervention; the "+" indicates a significant positive effect of the intervention; and the "o" indicates findings without a statistically significant effect.
+different environments? In the graph above and all that follow, a "-" indicates studies reporting a significant negative effect of the intervention; the "+" indicates a significant positive effect of the intervention; and the "o" indicates findings without a statistically significant effect.
  
 It turns out that the native environments are the "best" to use to achieve significantly better
 results; MOOC environments do not fare too well here, more than half of the studies report a non-significant difference
@@ -49,7 +49,7 @@ content topic, while native environments can be designed to fit specific types o
 
 <img src="https://chauff.github.io/img/by_incentive.png" width="700px">
 
-If we look at how study participants were incentivized to participate we found surprisingly many studies without
+Above we considered how study participants were incentivized to participate: we found surprisingly many studies without
 an incentive/compensation, followed by class-based incentives (credits or requirement for passing a class).
 
 <img src="https://chauff.github.io/img/by_n.png" width="700px">
