@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2018
 
+<img src="../img/conference-paper.png" height="20px">
+Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff, *SearchX: Empowering Research on Collaborative Search*, accepted at [DESIRES 2018](http://desires.dei.unipd.it/).
+
 <img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff, 
 *Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
