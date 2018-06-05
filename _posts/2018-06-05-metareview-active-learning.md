@@ -11,7 +11,7 @@ As a starting point to our meta-review we took [John Hattie's seminal work from 
 relating to achievement_ on learning strategies used to facilitate active learning. 
 We considered **research published between 2009 and July 2017** that present empirical evaluations of these learning strategies.
 
-We found 7,706 papers through our systematic search and used three criteria to determine whether a paper should be
+We identified 7,706 papers in a first literature search round and used three criteria to determine whether a paper should be
 in or out of our meta-review:
 
 1. The learning  strategy  being  analyzed  must  have  been **scalable** (it does not require manual grading, feedback,
@@ -20,7 +20,7 @@ physical presence, etc.).
 sample size of **at least ten** across all conditions. 
 3. The subjects of the studies must be **adult learners**.
 
-Through our systematic search we found **126** papers meeting our criteria; it turned out that the requirement of a 
+This resulted in **126** papers (1.6%) meeting our criteria; it turned out that the requirement of a 
 randomized controlled trial was a very strict one that most papers failed. Often, reported experiments focused solely on
 the developed learning intervention, instead of a comparison between a control and one or more experimental conditions.
 
