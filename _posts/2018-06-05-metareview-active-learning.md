@@ -6,13 +6,13 @@ thumbnail: "/img/og_activelearning.png"
 
 In a meta-review just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
 journal, we have taken stock of prior findings in the domain of **empirically evaluated** active learning strategies 
-in digital learning environments. We were of course primarily concerned with evaluating these findings with an eye 
+in digital learning environments. We were primarily concerned with evaluating these findings with an eye 
 towards **scalable learning**, i.e. learning interventions that can easily be deployed to thousands of learners as is
 common in MOOCs. 
 
-As a starting point to our meta-review we took John Hattie's seminal work from 2008: _Visible learning: A synthesis of over 800 meta-analyses 
+As a starting point to our meta-review we took [John Hattie's seminal work from 2008](https://www.taylorfrancis.com/books/9781134024124): _Visible learning: A synthesis of over 800 meta-analyses 
 relating to achievement_ on learning strategies used to facilitate active learning. 
-We considered **research published between 2009 and July 2017** that presents empirical evaluations of these learning strategies.
+We considered **research published between 2009 and July 2017** that present empirical evaluations of these learning strategies.
 
 We found 7,706 papers through our systematic search and used three criteria to determine whether a paper should be
 in or out of our meta-review:
