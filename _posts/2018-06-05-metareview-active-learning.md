@@ -38,12 +38,7 @@ popular. MOOC-based experiments started to appear in 2014, MTurk-based experimen
 <img src="https://chauff.github.io/img/by_env.png" width="700px">
 
 How successful (i.e. how often is the intervention reported to perform better than the control condition) are the
-different environments? In the graph above and all that follow, a "-" indicates studies reporting a significant negative effect of the intervention; the "+" indicates a significant positive effect of the intervention; and the "o" indicates findings without a statistically significant effect.
- 
-It turns out that the native environments are the "best" to use to achieve significantly better
-results; MOOC environments do not fare too well here, more than half of the studies report a non-significant difference
-between control and experimental conditions. This may not be too surprising as MOOC environments are agnostic to the
-content topic, while native environments can be designed to fit specific types of content (e.g. language learning).
+different environments? In the graph above and all that follow, a "-" indicates studies reporting a significant negative effect of the intervention; the "+" indicates a significant positive effect of the intervention; and the "o" indicates findings without a statistically significant effect. It turns out that the native environments are the "best" to use to achieve significantly better results; MOOC environments do not fare too well here, more than half of the studies report a non-significant difference between control and experimental conditions. This may not be too surprising as MOOC environments are agnostic to the content topic, while native environments can be designed to fit specific types of content (e.g. language learning).
 
 <img src="https://chauff.github.io/img/by_incentive.png" width="700px">
 
