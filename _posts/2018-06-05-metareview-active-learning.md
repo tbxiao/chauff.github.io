@@ -4,8 +4,10 @@ title: Meta-review on empirically evaluated active learning strategies
 thumbnail: "/img/og_activelearning.png"
 ---
 
-In a meta-review just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
-journal, we have taken stock of prior findings in the domain of **empirically evaluated** active learning strategies (e.g. gamification, cooperative learning) in digital learning environments. We were primarily concerned with evaluating these findings with an eye towards **scalable learning**, i.e. learning interventions that can easily be deployed to thousands of learners as is common in MOOCs. 
+After a few years of conducting experiments in the MOOC environment and finding time and time again that we were not able to replicate insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. Here is in a nutshell what we found.
+
+In our meta-review just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
+journal, we have taken stock of prior findings in the domain of **empirically evaluated** active learning strategies in digital learning environments. We were primarily concerned with evaluating these findings with an eye towards **scalable learning**, i.e. learning interventions that can easily be deployed to thousands of learners as is common in MOOCs. 
 
 As a starting point to our meta-review we took [John Hattie's seminal work from 2008](https://www.taylorfrancis.com/books/9781134024124): _Visible learning: A synthesis of over 800 meta-analyses 
 relating to achievement_ on learning strategies used to facilitate active learning. 
