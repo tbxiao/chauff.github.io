@@ -4,10 +4,22 @@ title: Meta-review on empirically evaluated active learning strategies
 thumbnail: "/img/og_activelearning.png"
 ---
 
-After a few years of conducting experiments in the MOOC environment and finding time and time again that we were not able to replicate insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. Here is in a nutshell what we found.
+After a few years of conducting experiments in the MOOC environment and finding time and time again that we were not able to replicate major insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. This study ([preprint](https://chauff.github.io/documents/publications/CE2018-Davis.pdf)) was just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
+journal:
 
-In our meta-review just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
-journal, we have taken stock of prior findings in the domain of **empirically evaluated** active learning strategies in digital learning environments. We were primarily concerned with evaluating these findings with an eye towards **scalable learning**, i.e. learning interventions that can easily be deployed to thousands of learners as is common in MOOCs. 
+```bibtex
+@article{CE2018ActiveLearning,
+  author = {Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben},
+  title = {Activating learning at scale: A review of innovations in online learning strategies},
+  journal = {Computers \& Education},
+  volume = {...},
+  number = {...},
+  pages = {...},
+  year = {2018}
+}
+```
+
+Here is in a nutshell what we found.
 
 As a starting point to our meta-review we took [John Hattie's seminal work from 2008](https://www.taylorfrancis.com/books/9781134024124): _Visible learning: A synthesis of over 800 meta-analyses 
 relating to achievement_ on learning strategies used to facilitate active learning. 
@@ -52,17 +64,3 @@ studies in the 501+ partiicpants category are MOOC-based) with respect to age, p
 in contrast to class-based studies.
 
 For more insights, read the paper!
-
-Please cite:
-
-```bibtex
-@article{CE2018ActiveLearning,
-  author = {Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben},
-  title = {Activating learning at scale: A review of innovations in online learning strategies},
-  journal = {Computers \& Education},
-  volume = {...},
-  number = {...},
-  pages = {...},
-  year = {2018}
-}
-```
