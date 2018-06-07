@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meta-review on empirically evaluated active learning strategies
+title: Meta-review in Computers & Education
 thumbnail: "/img/og_activelearning.png"
 ---
 
