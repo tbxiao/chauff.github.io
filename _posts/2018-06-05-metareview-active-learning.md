@@ -4,7 +4,7 @@ title: Meta-review on active learning strategies in digital learning environment
 thumbnail: "/img/og_activelearning.png"
 ---
 
-After a few years of conducting experiments in the MOOC environment and finding time and time again that we were not able to replicate major insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. This study ([preprint](https://chauff.github.io/documents/publications/CE2018-Davis.pdf)) was just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
+After a few years of conducting experiments in the MOOC environment and often finding that we were not able to replicate major insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. This study ([preprint](https://chauff.github.io/documents/publications/CE2018-Davis.pdf)) was just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
 journal:
 
 ```bibtex
@@ -18,8 +18,6 @@ journal:
   year = {2018}
 }
 ```
-
-Here is in a nutshell what we found.
 
 As a starting point to our meta-review we took [John Hattie's seminal work from 2008](https://www.taylorfrancis.com/books/9781134024124): _Visible learning: A synthesis of over 800 meta-analyses 
 relating to achievement_ on learning strategies used to facilitate active learning. 
@@ -38,7 +36,7 @@ This resulted in **126** papers (1.6%) meeting our criteria; it turned out that 
 randomized controlled trial was a very strict one that most papers failed. Often, reported experiments focused solely on
 the developed learning intervention, instead of a comparison between a control and one or more experimental conditions.
 
-Lets now look at a few key summary graphs of those 126 papers.
+Lets now look at a few key summary graphs of those 126 papers (ignoring the learning strategy specifics for now).
 
 <img src="https://chauff.github.io/img/by_all.png" width="700px">
 
@@ -63,4 +61,4 @@ likely null results appear to occur. One potential explanation here is the heter
 studies in the 501+ partiicpants category are MOOC-based) with respect to age, prior education, study time ... 
 in contrast to class-based studies.
 
-For more insights, read the paper!
+The paper contains more detailed analyses of the different activce learning strategies and how successful prior studies were, so go ahead and [read it](https://chauff.github.io/documents/publications/CE2018-Davis.pdf).
