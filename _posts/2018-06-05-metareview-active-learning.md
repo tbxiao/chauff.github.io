@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meta-review in Computers & Education
+title: Meta-review on active learning strategies in digital learning environments
 thumbnail: "/img/og_activelearning.png"
 ---
 
