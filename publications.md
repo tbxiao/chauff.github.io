@@ -10,8 +10,6 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 <img src="../img/workshop-paper.png" height="20px">
 Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Feature Engineering for Second Language Acquisition Modeling*. [13th Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), co-located with NAACL HLT, 2018. [[PDF &#8594;]](http://aclweb.org/anthology/W18-0543)
 
-
-
 <img src="../img/conference-paper.png" height="20px">
 Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Research on Collaborative Search*, accepted at [DESIRES 2018](http://desires.dei.unipd.it/).
 
@@ -21,7 +19,7 @@ Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff.
 [2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018.
 
 <img src="../img/journal-article.png" height="20px">
-Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. Available at [[ScienceDirect]](https://doi.org/10.1016/j.compedu.2018.05.019). 
+Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [PDF Preprint&#8594;](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
 
 <img src="../img/demo-paper.png" height="20px">
 Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-moraes.pdf) GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend) 
