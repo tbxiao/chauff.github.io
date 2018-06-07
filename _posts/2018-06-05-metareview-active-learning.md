@@ -4,7 +4,7 @@ title: Meta-review on active learning strategies in digital learning environment
 thumbnail: "/img/og_activelearning.png"
 ---
 
-After a few years of conducting experiments in the MOOC environment and often finding that we were not able to replicate major insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. This study ([preprint](https://chauff.github.io/documents/publications/CE2018-Davis.pdf)) was just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
+After a few years of conducting experiments in the MOOC environment and often finding that we were not able to replicate major insights from prior studies (conducted in the lab, classroom, a specifically designed online learning environment), we had an inkling that MOOC environments are tougher to crack. In order to turn this inkling into a scientific study we conducted a meta-review of so-called active learning strategies (strategies that involve learners in the learning process, e.g. gammification, cooperative learning) in the MOOC and other online learning environments. This study ([preprint](https://chauff.github.io/documents/publications/CE2018-Davis.pdf)), led by [Dan Davis](https://dan7davis.github.io/), was just published in the [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) 
 journal:
 
 ```bibtex
