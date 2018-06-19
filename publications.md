@@ -16,10 +16,10 @@ Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *Se
 <img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff. 
 *Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
-[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018.
+[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf)
 
 <img src="../img/journal-article.png" height="20px">
-Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [PDF Preprint&#8594;](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
+Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [[PDF Preprint&#8594;]](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
 
 <img src="../img/demo-paper.png" height="20px">
 Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-moraes.pdf) GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend) 
