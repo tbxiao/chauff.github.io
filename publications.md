@@ -16,7 +16,7 @@ Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *Se
 <img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff. 
 *Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
-[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf)
+[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vSCso841MXJDbVdz9hClhvkwkMTUvIA6bDutZkzqWKHg-4fbsA5J34GvHofZjcr2X7MY2se-iLXi5Vq/pub?start=false&loop=false&delayms=3000)
 
 <img src="../img/journal-article.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [[PDF Preprint&#8594;]](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
@@ -25,7 +25,7 @@ Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learn
 Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-moraes.pdf) GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend) 
 
 <img src="../img/demo-paper.png" height="20px">
-Mónica Marrero and Claudia Hauff. *A/B Testing with APONE*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-marrero.pdf) [[GitHub repository&#8594;]](https://marrerom.github.io/APONE/) 
+Mónica Marrero and Claudia Hauff. *A/B Testing with APONE*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-marrero.pdf) [[GitHub repository&#8594;]](https://marrerom.github.io/APONE/) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vRqavF6PNV66RgscN1xwGA21iHpHNVs6u2w-B9-UIfz7NLBZwRc765VtvgA4Ao0YjmDXFY71ctQiv5P/pub?start=false&loop=false&delayms=3000)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. [[PDF Preprint&#8594;]](../documents/publications/HYPERTEXT2018-zhao.pdf) [[GitHub repository&#8594;]](https://github.com/Yue-ZHAO/IntelliEye)
