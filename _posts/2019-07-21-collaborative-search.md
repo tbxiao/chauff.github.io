@@ -23,7 +23,7 @@ installations, either of a browser plugin or a mobile app.
 Here is an overview of existing systems, with the implementation dimensions highlighted, 
 taken from our [DESIRES 2018 preprint](../documents/publications/DESIRES2018-Putra.pdf):
 
-<img src="https://chauff.github.io/img/searchx-systems.png" width="700px">
+<img src="https://chauff.github.io/img/searchx-systems.png" width="900px">
 
 
 ## Needs
@@ -75,14 +75,14 @@ collaborator influence the search result rankings seen by all collaborators).
 
 Here is the search interface with all implemented features switched on:
 
-<img src="https://chauff.github.io/img/searchx-interface-main.png" width="700px">
+<img src="https://chauff.github.io/img/searchx-interface-main.png" width="900px">
 
 As you can see we added quite a few things: chat, shared bookmarks, shared query history, document ratings, number of document views, color coding to provide a sense of which collaborator did what and different verticals (out of the box
 we support the Bing API, Indri and Elastic as backends).
 
 Here is the view after clicking on a search result:
 
-<img src="https://chauff.github.io/img/searchx-interface-viewer.png" width="700px">
+<img src="https://chauff.github.io/img/searchx-interface-viewer.png" width="900px">
 
 The built-in document viewer is not only great to tracking users (otherwise we would have no idea of what they are doing once they leave our search result page - often important for interactive IR experiments) but also allows users to annotate
 the documents in tandem.
