@@ -89,6 +89,6 @@ the documents in tandem.
 
 ## Available on GitHub
 
-We have open-sourced ```SearchX``` at [https://github.com/felipemoraes/searchx-frontend](https://github.com/felipemoraes/searchx-frontend) (front-end) and [https://github.com/felipemoraes/searchx-backend](https://github.com/felipemoraes/searchx-backend) (back-end).
+We have open-sourced ```SearchX``` in two repositories, splitting the backend and frontend code: [https://github.com/felipemoraes/searchx-frontend](https://github.com/felipemoraes/searchx-frontend) and [https://github.com/felipemoraes/searchx-backend](https://github.com/felipemoraes/searchx-backend). To get started first set up the backend (the installation instructions are on GitHub) and then install the frontend packages.
 
 If you want to try it out and are getting stuck, please contact us, we are more than happy to help!
