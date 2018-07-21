@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collaborative Search - an implementation story
+title: Collaborative search - an implementation story
 thumbnail: "/img/og_searchx.png"
 ---
 
@@ -15,13 +15,11 @@ are the central focus. When starting this project with [Felipe Moraes](http://ww
 one of the first things we did was looking at existing
 collaborative search systems, i.e. search systems that come with some of the typical collaborative search features such
 as a chat allowing searchers to communicate, shared bookmarking, a shared query history and so on. 
-After all, you can find more than 4000 research papers that mention *collaborative search* on Google Scholar.
-Someone must have implemented a collaborative search system that is (1) open-sourced and (2) functioning. Turns out,
-there is only one, [Coagmento](http://www.coagmento.org/). The drawback of Coagmento though is the need for client-side
-installations, either of a browser plugin or a mobile app.
+After all, you can find more than 4000 research papers that mention *collaborative search* on Google Scholar, and some of them are dedicated solely to the description of collaborative search systems.
+So, someone must have implemented a collaborative search system that is (1) open-sourced and (2) functioning. Turns out,
+there is only one, [Coagmento](http://www.coagmento.org/) that fulfils both of these conditions. The drawback of Coagmento though is the need for client-side installations, either a browser plugin or a mobile app.
 
-Here is an overview of existing systems, with the implementation dimensions highlighted, 
-taken from our [DESIRES 2018 preprint](../documents/publications/DESIRES2018-Putra.pdf):
+Here is an overview of existing systems as described in the literature and ours (```SearchX```), with the implementation dimensions highlighted. The table is taken from our [DESIRES 2018 preprint](../documents/publications/DESIRES2018-Putra.pdf):
 
 <img src="https://chauff.github.io/img/searchx-systems.png" width="900px">
 
