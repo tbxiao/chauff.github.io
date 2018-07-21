@@ -8,7 +8,7 @@ Web search is generally seen as a solitary activity, as most mainstream technolo
 single-user search sessions. However, for a sufficiently complex task, **search collaborations** have shown to be beneficial.
 
 
-## Existing Systems
+## Existing systems
 
 In one of my projects, **large-scale** collaborations whilst searching (think tens or hundreds of potential collaborators)
 are the central focus. When starting this project with [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (a PhD student in my team), 
@@ -65,7 +65,7 @@ the development process:
 } 
 ```
 
-## SearchX Look and Feel
+## SearchX look and feel
 There are many types of search collaborations, we focus on *remote*, *synchronous* and *explicit* collaborations, i.e.
 search collaborations where each collaborator has its own device, the collaborators search together at the same time and
 are aware of each other's activities. This requires a lot of interface work (some widgets in the search interface have
@@ -87,8 +87,14 @@ Here is the view after clicking on a search result:
 The built-in document viewer is not only great to tracking users (otherwise we would have no idea of what they are doing once they leave our search result page - often important for interactive IR experiments) but also allows users to annotate
 the documents in tandem.
 
+## Demo
+
+If you head over to [http://searchx.ewi.tudelft.nl/](http://searchx.ewi.tudelft.nl/) you will see a demo version of our collaborative search system. To check out how well the system works with several collaborators open the same URL in different browsers or a regular browser tab and a private browser tab. Be aware though, that whatever you query for is visible to everyone!
+
 ## Available on GitHub
 
 We have open-sourced ```SearchX``` in two repositories, splitting the backend and frontend code: [https://github.com/felipemoraes/searchx-frontend](https://github.com/felipemoraes/searchx-frontend) and [https://github.com/felipemoraes/searchx-backend](https://github.com/felipemoraes/searchx-backend). To get started first set up the backend (the installation instructions are on GitHub) and then install the frontend packages.
+
+A big todo item on our list is to create a good looking website around those two repositories, with a lot of examples, instructions, tips and tricks. This information can be already found in the different READMEs, but it does not yet look very accessible. Hopefully we have this done after the summer.
 
 If you want to try it out and are getting stuck, please contact us, we are more than happy to help!
