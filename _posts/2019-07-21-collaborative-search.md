@@ -97,4 +97,6 @@ We have open-sourced ```SearchX``` in two repositories, splitting the backend an
 
 A big todo item on our list is to create a good looking website around those two repositories, with a lot of examples, instructions, tips and tricks. This information can be already found in the different READMEs, but it does not yet look very accessible. Hopefully we have this done after the summer.
 
+A second todo we currently are tackling is to include basic authentication mechanisms to enable private collaboration sessions.
+
 If you want to try it out and are getting stuck, please contact us, we are more than happy to help!
