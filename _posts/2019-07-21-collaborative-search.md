@@ -64,7 +64,7 @@ the development process:
 } 
 ```
 
-## A few details
+## SearchX Look and Feel
 There are many types of search collaborations, we focus on *remote*, *synchronous* and *explicit* collaborations, i.e.
 search collaborations where each collaborator has its own device, the collaborators search together at the same time and
 are aware of each other's activities. This requires a lot of interface work (some widgets in the search interface have
@@ -76,6 +76,18 @@ Here is the search interface with all implemented features switched on:
 
 <img src="https://chauff.github.io/img/searchx-interface-main.png" width="700px">
 
-and here is the view after clicking on a search result:
+As you can see we added quite a few things: chat, shared bookmarks, shared query history, document ratings, number of document views, color coding to provide a sense of which collaborator did what and different verticals (out of the box
+we support the Bing API, Indri and Elastic as backends).
+
+Here is the view after clicking on a search result:
 
 <img src="https://chauff.github.io/img/searchx-interface-viewer.png" width="700px">
+
+The built-in document viewer is not only great to tracking users (otherwise we would have no idea of what they are doing once they leave our search result page - often important for interactive IR experiments) but also allows users to annotate
+the documents in tandem.
+
+## Available on GitHub
+
+We have open-sourced ```SearchX``` at [https://github.com/felipemoraes/searchx-frontend](https://github.com/felipemoraes/searchx-frontend) (front-end) and [https://github.com/felipemoraes/searchx-backend](https://github.com/felipemoraes/searchx-backend) (back-end).
+
+If you want to try it out and are getting stuck, please contact us, we are more than happy to help!
