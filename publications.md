@@ -11,7 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Feature Engineering for Second Language Acquisition Modeling*. [13th Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), co-located with NAACL HLT, 2018. [[PDF &#8594;]](http://aclweb.org/anthology/W18-0543)
 
 <img src="../img/conference-paper.png" height="20px">
-Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Research on Collaborative Search*, accepted at [DESIRES 2018](http://desires.dei.unipd.it/).
+Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *On the Development of a Collaborative Search System*, accepted at [DESIRES 2018](http://desires.dei.unipd.it/). [[PDF Preprint&#8594;]](../documents/publications/DESIRES2018-Putra.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff. 
