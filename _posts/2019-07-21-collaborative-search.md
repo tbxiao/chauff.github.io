@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Collaborative Search - an implementation story
+twitter:image:src
 ---
 
 Web search is generally seen as a solitary activity, as most mainstream technologies are designed for 
