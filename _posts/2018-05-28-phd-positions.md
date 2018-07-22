@@ -3,6 +3,9 @@ layout: post
 title: 2 PhD positions
 ---
 
+**UPDATE: the positions are no longer available. The post is kept alive for archival purposes. **
+
+
 In the NWO project **Searchx: Integrating search and sensemaking into large-scale open online learning** I have two fully-funded 4-year PhD positions at the Delft University of Technology.
 Application deadline: June 15, 2018 (the advert will remain accessible until the positions are filled).
 
