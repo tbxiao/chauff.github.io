@@ -44,8 +44,7 @@ including query performance prediction (the topic of [my PhD thesis](../document
 social search, computational social science, 
 learning to search and IR for specific user groups.
 
-I have diverse research interests and am always happy to dive into a new area. Together with four PhD students 
-I am supervising ([Guanliang Chen](https://angusglchen.github.io/), [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/), [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) and [Dan Davis](https://dan7davis.github.io/)), I am currently focusing on large-scale learning analytics and how to incorporate search into the learning process at scale. In 2016 and 2017 I have been awarded two prestigious personal grants by the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area; take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground for my [Lambda-Lab](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) team. To get a quick overview of the kind of questions we have recently published about, take a look at the following slides, they cover each contribution in 1-2 slides (check the speaker notes as well):
+I have diverse research interests and am always happy to dive into a new area. Together with four PhD students I am currently focusing on large-scale learning analytics and how to incorporate search into the learning process at scale. In 2016 and 2017 I have been awarded two prestigious personal grants by the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area; take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground for my [Lambda-Lab](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) team. To get a quick overview of the kind of questions we have recently published about, take a look at the following slides, they cover each contribution in 1-2 slides (check the speaker notes as well):
 
 <iframe src="https://docs.google.com/presentation/d/1VT1qPqeAWwM20cDH_3i0cYlEmm2cPa4ZtVy4KEuJvFY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -65,7 +64,14 @@ Office: Van Mourik Broekmanweg 6, East Wing 04.60
 Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
-
+## Current and past members of my lab
+- [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
+- [Guanliang Chen](https://angusglchen.github.io/) (PhD student, ongoing)
+- [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, ongoing)
+- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
+- [Dan Davis](https://dan7davis.github.io/) (PhD student, ongoing)
+- [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
+- [Monica Marrero](http://www.wis.ewi.tudelft.nl/marrero/) (Research engineer, ongoing)
 
 
 ## Grants
@@ -76,8 +82,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Education Research tender (**2,500€**, 1 co-PI) to bring real-time teaching and learning analytics into the classroom, July 2016
 - TU Delft Study Success tender (**3,000€**, 1 co-PI) to further improve teaching in the Bachelor, September 2015 
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
-
-
 
 ## Organizational duties and activities
 - Tutorial chair at ICTIR 2019
@@ -121,5 +125,3 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Co-organizer of the [Placing Task benchmark @ MediaEval 2013](http://www.multimediaeval.org/mediaeval2013/placing2013/)
 - Invited lecture in the PhD course *Technology-enhanced Learning*, offered by the [Dutch Research School for Information and Knowledge Systems](http://www.siks.nl/EL2012.php)
 - Part of the local organization team of [SIGIR 2007](http://www.sigir.org/sigir2007/organisers.html)
-
-
