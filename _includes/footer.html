@@ -97,9 +97,17 @@
 <!-- Default Statcounter code for My github hp
 https://chauff.github.io/ -->
 <script type="text/javascript">
-var sc_project=11696664; 
-var sc_invisible=1; 
-var sc_security="0e650257"; 
+	
+//lets only count this visit if the domain is my own (public forks of this repo are annoying)
+var sc_project = -1;
+var sc_invisible = 1;
+var sc_security = "-1"; 	
+if( window.location.toString().indexOf("chauff.github.io") !== -1 )
+{
+	sc_project=11696664; 
+	sc_security="0e650257"; 
+}
+
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
