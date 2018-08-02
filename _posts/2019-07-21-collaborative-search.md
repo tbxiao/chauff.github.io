@@ -91,10 +91,8 @@ If you head over to [http://searchx.ewi.tudelft.nl/](http://searchx.ewi.tudelft.
 
 ## Available on GitHub
 
-We have open-sourced ```SearchX``` in two repositories, splitting the backend and frontend code: [https://github.com/felipemoraes/searchx-frontend](https://github.com/felipemoraes/searchx-frontend) and [https://github.com/felipemoraes/searchx-backend](https://github.com/felipemoraes/searchx-backend). To get started first set up the backend (the installation instructions are on GitHub) and then install the frontend packages.
+We have open-sourced ```SearchX``` on GitHub: [https://github.com/felipemoraes/searchx](https://github.com/felipemoraes/searchx). 
 
-A big todo item on our list is to create a good looking website around those two repositories, with a lot of examples, instructions, tips and tricks. This information can be already found in the different READMEs, but it does not yet look very accessible. Hopefully we have this done after the summer.
-
-A second todo we currently are tackling is to include basic authentication mechanisms to enable private collaboration sessions.
+A big todo item on our list is to include basic authentication mechanisms to enable private collaboration sessions; right now, `SearchX` is a tool mainly for research. 
 
 If you want to try it out and are getting stuck, please contact us, we are more than happy to help!
