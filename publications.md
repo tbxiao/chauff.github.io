@@ -7,6 +7,11 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2018
 
+
+<img src="../img/conference-paper.png" height="20px">
+Felipe Moraes, Sindunuraga Rikarno Putra and Claudia Hauff. *Contrasting search as a learning activity with instructor-designed learning*, accepted at [CIKM 2018](http://www.cikm2018.units.it/). 
+
+
 <img src="../img/workshop-paper.png" height="20px">
 Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Feature Engineering for Second Language Acquisition Modeling*. [13th Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), co-located with NAACL HLT, 2018. [[PDF &#8594;]](http://aclweb.org/anthology/W18-0543)
 
