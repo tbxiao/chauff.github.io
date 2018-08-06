@@ -5,7 +5,7 @@ title: Teaching
 
 ## MSc thesis supervision
 
-I am supervising students who conduct research in *information retrieval* and *learning analytics*; combinations of the two areas ("search as learning") are especially interesting to me. For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
+I am supervising students who conduct research in *information retrieval* and *learning analytics* (basically data science applied to the learning domain). For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
 
 - [MediaEval](http://www.multimediaeval.org/mediaeval2017/)
 - [SemEval](http://alt.qcri.org/semeval2017/)
@@ -71,25 +71,29 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* at TU Delft, together with
 [Alessandro Bozzon](http://alessandrobozzon.com/). I teach the Web technology part, which turned out to be quite a challenge due to
 the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
-before the start of this course). To level the playing field for the more than 300 students we have every year, we rely on the [Learning Web App Development](http://learningwebappdev.com/)
+before the start of this course). To level the playing field for the more than 300 (400, 600,... it is increasing every year) students we have, we rely on the [Learning Web App Development](http://learningwebappdev.com/)
 book, which introduces the modern Web stack in an accessible and practical manner. The lectures build on the material introduced
 in the book.
 
-#### Web Slides - 2014/15 Edition  
+#### Web Slides - 2017/18 Edition  
 
-- [HTTP](../documents/webdb-2014_15/lecture1.pdf)
-- [HTML and Web app design](../documents/webdb-2014_15/lecture2.pdf)
-- [Client-side JavaScript](http://www.st.ewi.tudelft.nl/~hauff/Web-Lectures/SLIDES_2014_2015/javascript-lecture/js.html#/presentable)
-- [Server-side JavaScript](../documents/webdb-2014_15/lecture4.pdf)
-- [CSS](../documents/webdb-2014_15/lecture5.pdf)
-- [A mix of technologies](../documents/webdb-2014_15/lecture6.pdf)
-- [Cookies and sessions](../documents/webdb-2014_15/lecture7.pdf)
-- [Securing your application](../documents/webdb-2014_15/lecture8.pdf)
+- HTTP: slide decks [1](../documents/webdb-2017-18/web-http.pdf) and [2](../documents/webdb-2017-18/web-http-continued.pdf)
+- [HTML and Web app design](../documents/webdb-2017-18/web-html5.pdf)
+- [Client-side JavaScript](../documents/webdb-2017-18/web-javascript.pdf)
+- [Server-side JavaScript](../documents/webdb-2017-18/web-nodejs.pdf)
+- [CSS](../documents/webdb-2017-18/web-css3.pdf)
+- [Server-side JavaScript continued](../documents/webdb-2017-18/web-nodejs-continued.pdf)
+- [Cookies and sessions](../documents/webdb-2017-18/web-cookies-sessions.pdf)
+- [Securing your application](../documents/webdb-2017-18/web-security.pdf)
 
 
 #### A Sample of Previous Exams
-- [Midterm 2014/15](../documents/webdb-2014_15/midterm1.pdf) (includes database questions, covered in the other course half)
-- [Final 2014/15](../documents/webdb-2014_15/final1.pdf) (includes database questions, covered in the other course half)
+Note: the samples below include database questions, which are covered in the other half of the course
+- [Midterm 2014/15](../documents/webdb-2017-18/midterm1.pdf)
+- [Final 2014/15](../documents/webdb-2017-18/final1.pdf)
+- [Midterm 2015/16](../documents/webdb-2017-18/midterm2.pdf)
+- [Final 2015/16](../documents/webdb-2017-18/final2.pdf)
+
 
 
 ### Information Retrieval
