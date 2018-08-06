@@ -68,14 +68,14 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 
 ### Web (and Database) Technology
-Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* at TU Delft, together with
+Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft, together with
 [Alessandro Bozzon](http://alessandrobozzon.com/). I teach the Web technology part, which turned out to be quite a challenge due to
 the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
-before the start of this course). To level the playing field for the more than 300 (400, 600,... it is increasing every year) students we have, we rely on the [Learning Web App Development](http://learningwebappdev.com/)
+before the start of this course). To level the playing field for the more than 300 (or 400, 500, 600,... it is increasing every year) students we have, we rely on the [Learning Web App Development](http://learningwebappdev.com/)
 book, which introduces the modern Web stack in an accessible and practical manner. The lectures build on the material introduced
 in the book.
 
-#### Web Slides - 2017/18 Edition  
+#### Web Programming Slides - 2017/18 Edition  
 
 - HTTP: slide decks [1](../documents/webdb-2017-18/web-http.pdf) and [2](../documents/webdb-2017-18/web-http-continued.pdf)
 - [HTML and Web app design](../documents/webdb-2017-18/web-html5.pdf)
@@ -86,14 +86,24 @@ in the book.
 - [Cookies and sessions](../documents/webdb-2017-18/web-cookies-sessions.pdf)
 - [Securing your application](../documents/webdb-2017-18/web-security.pdf)
 
+#### Lab Assignments - 2017/18 Edition
+
+Note: this course has five assignments and at the end the students will have developed a fully functioning Web application (in this year a *habit tracker*) with a database backend. The assignments build on each other and are executed in groups of two students; interviews with TAs lead to a pass or fail of an assignment.
+
+- [Lab 1](../documents/webdb-2017-18/Lab1.pdf) 
+- [Lab 2](../documents/webdb-2017-18/Lab2.pdf)
+- [Lab 3](../documents/webdb-2017-18/Lab3.pdf)
+- [Lab 4](../documents/webdb-2017-18/Lab4.pdf)
+- [Lab 5](../documents/webdb-2017-18/Lab5.pdf)
+
 
 #### A Sample of Previous Exams
+
 Note: the samples below include database questions, which are covered in the other half of the course
-- [Midterm 2014/15](../documents/webdb-2017-18/midterm1.pdf)
-- [Final 2014/15](../documents/webdb-2017-18/final1.pdf)
 - [Midterm 2015/16](../documents/webdb-2017-18/midterm2.pdf)
 - [Final 2015/16](../documents/webdb-2017-18/final2.pdf)
-
+- [Midterm 2016/17](../documents/webdb-2017-18/midterm1.pdf)
+- [Final 2016/117](../documents/webdb-2017-18/final1.pdf)
 
 
 ### Information Retrieval
