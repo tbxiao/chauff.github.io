@@ -76,7 +76,6 @@ book, which introduces the modern Web stack in an accessible and practical manne
 in the book.
 
 #### Web Programming Slides - 2017/18 Edition  
-
 - HTTP: slide decks [1](../documents/webdb-2017-18/web-http.pdf) and [2](../documents/webdb-2017-18/web-http-continued.pdf)
 - [HTML and Web app design](../documents/webdb-2017-18/web-html5.pdf)
 - [Client-side JavaScript](../documents/webdb-2017-18/web-javascript.pdf)
@@ -87,9 +86,7 @@ in the book.
 - [Securing your application](../documents/webdb-2017-18/web-security.pdf)
 
 #### Lab Assignments - 2017/18 Edition
-
 Note: this course has five assignments and at the end the students will have developed a fully functioning Web application (in this year a *habit tracker*) with a database backend. The assignments build on each other and are executed in groups of two students; interviews with TAs lead to a pass or fail of an assignment.
-
 - [Lab 1](../documents/webdb-2017-18/Lab1.pdf) 
 - [Lab 2](../documents/webdb-2017-18/Lab2.pdf)
 - [Lab 3](../documents/webdb-2017-18/Lab3.pdf)
@@ -98,7 +95,6 @@ Note: this course has five assignments and at the end the students will have dev
 
 
 #### A Sample of Previous Exams
-
 Note: the samples below include database questions, which are covered in the other half of the course
 - [Midterm 2015/16](../documents/webdb-2017-18/midterm2.pdf)
 - [Final 2015/16](../documents/webdb-2017-18/final2.pdf)
