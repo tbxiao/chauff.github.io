@@ -10,7 +10,7 @@ Enter *Search as Learning*.
 
 The field of Search as Learning addresses questions surrounding **human learning during the search process**. Existing research has largely focused on observing how users with learning-oriented information needs behave and interact with search engines. What is not yet quantified is the extent to which search is a viable learning activity (and alternative) compared to instructor-designed learning. **Can a search session be as effective as a lecture video — our instructor-designed learning artefact — for learning?** 
 
-The answer to this question can be found in our CIKM 2018 work (on a side-note, I don't believe the new rating system at CIKM worked very well, papers ended up with lots of weird scores ... anyway):
+The answer to this question can be found in our CIKM 2018 work (*on a side-note, I don't believe the new rating system at CIKM worked very well, papers ended up with lots of weird scores ... anyway*):
 
 ```bibtex
 @paper{CIKM2018SAL,
@@ -23,7 +23,13 @@ The answer to this question can be found in our CIKM 2018 work (on a side-note, 
 
 ## User study
 
-We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically (i) single-user search, (ii) search as a support tool for instructor-designed learning and (iii) collaborative search. As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. Using our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup. Here is how the study was set up:
+We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically 
+
+- single-user search, 
+- search as a support tool for instructor-designed learning, and 
+- collaborative search. 
+
+As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. Using our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup. Here is how the study was set up:
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
