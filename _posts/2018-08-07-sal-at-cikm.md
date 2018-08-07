@@ -25,7 +25,7 @@ The answer to this question can be found in our CIKM 2018 work (*on a side-note,
 
 We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically 
 
-- single-user search, 
+- single-user search; 
 - search as a support tool for instructor-designed learning, and 
 - collaborative search. 
 
