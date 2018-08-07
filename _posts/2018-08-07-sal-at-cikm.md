@@ -4,11 +4,11 @@ title: Search as Learning at CIKM 2018
 thumbnail: "/img/og_sal_cikm2018.png"
 ---
 
-In recent months, we spent a lot of time and effort to design and implement a well-functioning open-source collaborativce search system SearchX. I wrote about it [here](https://chauff.github.io/2018-07-21-collaborative-search/). Having done all the implementation work, now is the time to reap the benefits of the work, i.e. run experiments with our new and shiny research tool.
+In recent months, we spent a lot of time and effort to design and implement a well-functioning **open-source collaborativce search system** called `SearchX`. I wrote about it [here](https://chauff.github.io/2018-07-21-collaborative-search/). Having done all the implementation work, now is the time to reap the benefits of the work, i.e. run experiments with our new and shiny research tool.
 
-Enter Search as Learning.
+Enter *Search as Learning*.
 
-The field of Search as Learning addresses questions surrounding human learning during the search process. Existing research has largely focused on observing how users with learning-oriented information needs behave and interact with search engines. What is not yet quantified is the extent to which search is a viable learning activity compared to instructor-designed learning. Can a search session be as effective as a lecture video—our instructor-designed learning artefact—for learning? 
+The field of Search as Learning addresses questions surrounding **human learning during the search process**. Existing research has largely focused on observing how users with learning-oriented information needs behave and interact with search engines. What is not yet quantified is the extent to which search is a viable learning activity (and alternative) compared to instructor-designed learning. **Can a search session be as effective as a lecture video — our instructor-designed learning artefact — for learning?** 
 
 The answer to this question can be found in our CIKM 2018 work (on a side-note, I don't believe the new rating system at CIKM worked very well, papers ended up with lots of weird scores ... anyway):
 
@@ -23,11 +23,11 @@ The answer to this question can be found in our CIKM 2018 work (on a side-note, 
 
 ## User study
 
-We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX) against different instances of search, specifically (i) single-user search, (ii) search as a support tool for instructor-designed learning and (iii) collaborative search. As a starting point, we went after vocabulary learning, a rather easy to evaluate learning task. Using our SearchX framework to not only provide the collaborative part, but to facilitate the entire study setup. here is how it worked:
+We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically (i) single-user search, (ii) search as a support tool for instructor-designed learning and (iii) collaborative search. As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. Using our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup. Here is how the study was set up:
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
-Across all five conditions, every participant (we had 151 in total) first conducted a pre-test for which randomly three of the ten available topics (such as *radioactive decay*, *urban water cycle*, *glycolysis*) were selected; we asked our participants for each of the topics to assess their knowledge on ten vecabulary items (i.e. what is the definition of *Auger electron*, *mud flats*, *coagulation*) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
+Across all five conditions, every participant (we had 151 in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as *radioactive decay*, *urban water cycle*, *glycolysis*) were selected; we asked our participants for each of the topics to assess their knowledge on ten vecabulary items (i.e. what is the definition of *Auger electron*, *mud flats*, *coagulation*) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
 
 As in prior works, we looked at the *learning gain* as a metric of learning (basically the difference between post-test and pre-test knowledge). A few more details on the five conditions:
 
