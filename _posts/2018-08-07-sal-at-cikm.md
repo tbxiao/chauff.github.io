@@ -29,7 +29,7 @@ We designed a user study that pits instructor-designed learning (short high-qual
 - search as a support tool for instructor-designed learning, and 
 - collaborative search. 
 
-As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. Using our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup. Here is how the study was set up:
+As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. We used our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup as well. Here is how the setup worked:
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
