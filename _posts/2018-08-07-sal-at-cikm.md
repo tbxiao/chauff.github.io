@@ -23,25 +23,25 @@ The answer to this question can be found in our CIKM 2018 work (*on a side-note,
 
 ## User study
 
-We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically 
+We designed a user study that pits instructor-designed learning (short high-quality video lecture as commonly found in online learning platforms such as edX, TEDEd, Khan Academy) against different instances of search, specifically: 
 
 - single-user search; 
-- search as a support tool for instructor-designed learning, and 
+- search as a support tool for instructor-designed learning; and 
 - collaborative search. 
 
 As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. We used our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup as well. Here is how the setup worked:
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
-Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected; we asked our participants for each of the topics to assess their knowledge on ten vocabulary items (these items were all domain terminology, e.g. **Auger electron**, **coagulation**, **krebs cycle**) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
+Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected. We asked our participants for each of the topics to assess their knowledge on ten vocabulary items (these items were all domain terminology, e.g. **Auger electron**, **coagulation**, **krebs cycle**) and assigned the participants to the topic they knew the least about. After the participants completed their condition, we evaluated their knowledge on those vocabulary items again.
 
-As in prior works, we looked at the **learning gain** as a metric of learning (basically the difference between post-test and pre-test knowledge). A few more details on the five conditions:
+As in prior works, we looked at the **learning gain** as a metric of learning, which is basically the difference between post-test and pre-test knowledge. A few more details on the five conditions:
 
 - **Video (V)**: a participant is given access to the MOOC lecture video and can watch it at her own pace (those videos are between 4 and 13 minutes long);
 - **Search (SE)**: a participant is provided with the single-user search interface and instructed to search on the assigned
 topic for at least 20 minutes;
-- **Video+Search (V+SE)**: a participant first views the video as in the video condition and afterwards is provided with the single-user search interface and asked to search on the assigned topic. The minimum time for this task (across both video watching and searching) is 20 minutes.
-- **Video+Search (V+SE20)**: similar to V+SE, but now with 20 minutes of search time.
+- **Video+Search (V+SE)**: a participant first views the video as in the video condition and afterwards is provided with the single-user search interface and asked to search on the assigned topic. The minimum time for this task (across both video watching and searching) is 20 minutes;
+- **Video+Search (V+SE20)**: similar to V+SE, but now with 20 minutes of search time;
 - **Collaborative Search (CSE)**: two participants search together using the collaborative version of SearchX for at least 20 minutes. This variant of SearchX (since this is a modular implementation we can easily switch interface features on and off) included the shared query history widget, shared bookmarking and a chat window.
 
 ## Vocabulary knowledge state levels
@@ -53,21 +53,21 @@ We measured the learning gains of our study participants in the vocabulary learn
 3. *I have seen this term/phrase before, and I think it means ___*
 4. *I know this term/phrase. It means ___*
 
-These levels do not only provide us with information on how certain our participants about their learning (state (3) vs. (4)) but also required participants to write down their idea of the definition of each term. 
+These levels do not only provide us with information on how certain our participants are about their learning (state (3) vs. (4)) but also required participants to write down their idea of the definition of each term, which we then could manually check.
 
 ## Results
 
 We found that:
 
 - lecture video watching yields up to a 24% higher learning gain than single-user search;
-- collaborative search for learning does **not** lead to increased learning, and
+- collaborative search for learning does **not** lead to increased learning; and
 - lecture video watching supported by search leads up to a 41% improvement in learning gains over instructor-designed learning without a subsequent search phase.
 
 Below is an overview of the vocabulary state changes between pre-test and post-test aggregated across all topics/participants for each condition:
 
 <img src="https://chauff.github.io/img/cikm2018-learning-gains.png" width="500px">
 
-Across all conditions, participants in **SE** have the largest percentage (>40%) of vocabulary items that remain unkown to them (knowledge levels 1/2). As expected in the **V** (**+SE/SE20**) conditions this percentage is considerably lower (15%-20%) as all tested vocabulary items were mentioned in the video (that's a result of us defining the vocabulary terms). Interestingly, collaborative search (**CSE**) did not help at all, two participants searching together gained the least knowledge. Interestingly, despite achieving the least, the collaborative search participants were the ones that reported the least problems in their learning!
+Across all conditions, participants in **SE** have the largest percentage (>40%) of vocabulary items that remain unkown to them (knowledge levels 1/2). As expected in the **V** (**+SE/SE20**) conditions this percentage is considerably lower (15%-20%) as all tested vocabulary items were mentioned in the video (that's a result of us defining the vocabulary terms). Collaborative search (**CSE**) did not help at all, two participants searching together gained the least knowledge; quite a deviation from our expectations. Interestingly, despite achieving the least, the collaborative search participants were the ones that self-reported the least problems in their learning!
 
 ## Limitations, i.e. the road to future work
 
