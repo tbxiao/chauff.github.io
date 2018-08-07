@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Search as Learning at CIKM 2018
