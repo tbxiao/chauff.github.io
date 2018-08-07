@@ -33,7 +33,7 @@ As a starting point, we went after **vocabulary learning**, a rather easy to eva
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
-Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected; we asked our participants for each of the topics to assess their knowledge on ten vecabulary itemsm and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
+Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected; we asked our participants for each of the topics to assess their knowledge on ten vocabulary items (these items were all domain terminology, e.g. **Auger electron**, **coagulation**, **krebs cycle**) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
 
 As in prior works, we looked at the **learning gain** as a metric of learning (basically the difference between post-test and pre-test knowledge). A few more details on the five conditions:
 
