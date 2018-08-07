@@ -33,9 +33,9 @@ As a starting point, we went after **vocabulary learning**, a rather easy to eva
 
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
-Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected; we asked our participants for each of the topics to assess their knowledge on ten vecabulary items (which required them to write out the definitions of the terms as will become clear below) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
+Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected; we asked our participants for each of the topics to assess their knowledge on ten vecabulary items (which required them to write out the definitions of the terms) and assigned the participants to the topic they knew least about. After the participant completed their condition, we evaluated their knowledge on those vocabulary items again.
 
-As in prior works, we looked at the *learning gain* as a metric of learning (basically the difference between post-test and pre-test knowledge). A few more details on the five conditions:
+As in prior works, we looked at the **learning gain** as a metric of learning (basically the difference between post-test and pre-test knowledge). A few more details on the five conditions:
 
 - **Video (V)**: a participant is given access to the MOOC lecture video and can watch it at her own pace (those videos are between 4 and 13 minutes long);
 - **Search (SE)**: a participant is provided with the single-user search interface and instructed to search on the assigned
@@ -44,7 +44,7 @@ topic for at least 20 minutes;
 - **Video+Search (V+SE20)**: similar to V+SE, but now with 20 minutes of search time.
 - **Collaborative Search (CSE)**: two participants search together using the collaborative version of SearchX for at least 20 minutes. This variant of SearchX (since this is a modular implementation we can easily switch interface features on and off) included the shared query history widget, shared bookmarking and a chat window.
 
-## Some results
+## Vocabulary knowledge state levels
 
 We measured the learning gains of our study participants in the vocabulary learning task across four knowledge state levels:
 
@@ -54,6 +54,8 @@ We measured the learning gains of our study participants in the vocabulary learn
 4. *I know this term/phrase. It means ___*
 
 These levels do not only provide us with information on how certain our participants about their learning (state (3) vs. (4)) but also required participants to write down their idea of the definition of each term. 
+
+## Results
 
 We found that:
 
