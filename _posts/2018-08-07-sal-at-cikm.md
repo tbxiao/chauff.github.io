@@ -67,6 +67,8 @@ Below is an overview of the vocabulary state changes between pre-test and post-t
 
 <img src="https://chauff.github.io/img/cikm2018-learning-gains.png" width="500px">
 
+Here, _1/2 → 4_ indicates the fraction of vocabulary state changes between the pre- and post-test that went from (almost) no knowledge to knowing the term/phrase.
+
 Across all conditions, participants in **SE** have the largest percentage (>40%) of vocabulary items that remain unkown to them (knowledge levels 1/2). As expected in the **V** (**+SE/SE20**) conditions this percentage is considerably lower (15%-20%) as all tested vocabulary items were mentioned in the video (that's a result of us defining the vocabulary terms). Collaborative search (**CSE**) did not help at all, two participants searching together gained the least knowledge; quite a deviation from our expectations. Interestingly, despite achieving the least, the collaborative search participants were the ones that self-reported the least problems in their learning!
 
 ## Limitations, i.e. the road to future work
