@@ -63,6 +63,8 @@ the development process:
 } 
 ```
 
+.... as well as a CIKM 2018 paper where we make use of our system for search as learning experiments. More details in [this blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/). 
+
 ## SearchX look and feel
 There are many types of search collaborations, we focus on *remote*, *synchronous* and *explicit* collaborations, i.e.
 search collaborations where each collaborator has its own device, the collaborators search together at the same time and
