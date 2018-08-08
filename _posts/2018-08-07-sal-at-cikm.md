@@ -46,6 +46,8 @@ topic for at least 20 minutes; the search back-end connects to the [Bing Web sea
 - **Video+Search (V+SE20)**: similar to V+SE, but now with 20 minutes of search time;
 - **Collaborative Search (CSE)**: two participants search together using the collaborative version of SearchX for at least 20 minutes. This variant of SearchX (since this is a modular implementation we can easily switch interface features on and off) included the shared query history widget, shared bookmarking and a chat window.
 
+The median time our participants spent in the experiment was 49 minutes; we paid out £5.00 per hour.
+
 ## Vocabulary knowledge state levels
 
 We measured the learning gains of our study participants in the vocabulary learning task across four knowledge state levels:
