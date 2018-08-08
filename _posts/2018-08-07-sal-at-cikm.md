@@ -33,7 +33,6 @@ We designed a user study that pits instructor-designed learning (short high-qual
 
 As a starting point, we went after **vocabulary learning**, a rather easy to evaluate learning task that also other IR researchers have used quite extensively. We used our `SearchX` framework to not only provide the collaborative part, but to facilitate the entire study setup as well. Here is how the setup worked:
 
-<center>
 <img src="https://chauff.github.io/img/cikm2018-study.png" width="500px">
 
 Across all five conditions, every participant (we had **151** in total and ended up using workers from the [Prolific platform](https://prolific.ac/) as CrowdFlower workers turned out to be too unreliable) first conducted a pre-test for which randomly three of the ten available topics (such as **radioactive decay**, **urban water cycle**, **glycolysis**) were selected. We asked our participants for each of the topics to assess their knowledge on ten vocabulary items (these items were all domain terminology, e.g. **Auger electron**, **coagulation**, **krebs cycle**) and assigned the participants to the topic they knew the least about. After the participants completed their condition, we evaluated their knowledge on those vocabulary items again.
