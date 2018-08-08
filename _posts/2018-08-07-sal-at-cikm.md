@@ -41,7 +41,7 @@ As in prior works, we looked at the **learning gain** as a metric of learning, w
 
 - **Video (V)**: a participant is given access to the MOOC lecture video and can watch it at her own pace (those videos are between 4 and 13 minutes long);
 - **Search (SE)**: a participant is provided with the single-user search interface and instructed to search on the assigned
-topic for at least 20 minutes; the search back-end connects to the [Bing Web search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/) to serve high-quality Web search results;
+topic for at least 20 minutes; the search back-end was hooked to the [Bing Web search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/) to serve high-quality Web search results;
 - **Video+Search (V+SE)**: a participant first views the video as in the video condition and afterwards is provided with the single-user search interface and asked to search on the assigned topic. The minimum time for this task (across both video watching and searching) is 20 minutes;
 - **Video+Search (V+SE20)**: similar to V+SE, but now with 20 minutes of search time;
 - **Collaborative Search (CSE)**: two participants search together using the collaborative version of SearchX for at least 20 minutes. This variant of SearchX (since this is a modular implementation we can easily switch interface features on and off) included the shared query history widget, shared bookmarking and a chat window.
