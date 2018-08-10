@@ -89,7 +89,7 @@ the documents in tandem.
 
 ## Demo
 
-If you head over to [http://searchx.ewi.tudelft.nl/](http://searchx.ewi.tudelft.nl/) you will see a demo version of our collaborative search system. To check out how well the system works with several collaborators open the same URL in different browsers or a regular browser tab and a private browser tab. Be aware though, that whatever you query for is visible to everyone!
+If you head over to [http://searchx.ewi.tudelft.nl/search](http://searchx.ewi.tudelft.nl/search) you will see a demo version of our collaborative search system. To check out how well the system works with several collaborators open the same URL in different browsers or a regular browser tab and a private browser tab. Be aware though, that whatever you query for is visible to everyone!
 
 ## Available on GitHub
 
