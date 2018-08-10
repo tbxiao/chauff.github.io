@@ -10,7 +10,7 @@ Enter *Search as Learning*.
 
 The field of Search as Learning addresses questions surrounding **human learning during the search process**. Existing research has largely focused on observing how users with learning-oriented information needs behave and interact with search engines. What is not yet quantified is the extent to which search is a viable learning activity (and alternative) compared to instructor-designed learning. **Can a search session be as effective as a lecture video — our instructor-designed learning artefact — for learning?** 
 
-The answer to this question (or, to at least answer it in a very specific setting) can be found in our CIKM 2018 work, led by [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/), with strong contributions from Sindunuraga Rikarno Putra, a Master student doing his thesis work in our lab: 
+The answer to this question (or, at least an answer in a very specific setting) can be found in our CIKM 2018 work, led by [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/), with strong contributions from Sindunuraga Rikarno Putra, a Master student doing his thesis work in our lab: 
 
 ```bibtex
 @paper{CIKM2018SAL,
