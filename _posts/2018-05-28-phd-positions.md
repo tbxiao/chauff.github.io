@@ -3,7 +3,7 @@ layout: post
 title: 2 PhD positions
 ---
 
-**UPDATE: we still have a position available. Please contact me for details.**
+**UPDATE: the positions are no longer available.**
 
 
 In the NWO project **Searchx: Integrating search and sensemaking into large-scale open online learning** I have two fully-funded 4-year PhD positions at the Delft University of Technology.
