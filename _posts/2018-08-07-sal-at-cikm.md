@@ -4,7 +4,7 @@ title: Search as Learning at CIKM 2018
 thumbnail: "/img/og_sal_cikm2018.png"
 ---
 
-In recent months, we spent a lot of time and effort to design and implement a well-functioning **open-source collaborativce search system** called `SearchX`. I wrote about it [here](https://chauff.github.io/2018-07-21-collaborative-search/). Having done all the implementation work, now is the time to reap the benefits of the work, i.e. run experiments with our new and shiny research tool.
+In recent months, we spent a lot of time and effort to design and implement a well-functioning **open-source collaborative search system** called `SearchX`. I wrote about it [here](https://chauff.github.io/2018-07-21-collaborative-search/). Having done all the implementation work, now is the time to reap the benefits of the work, i.e. run experiments with our new and shiny research tool.
 
 Enter *Search as Learning*.
 
