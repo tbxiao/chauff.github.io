@@ -9,7 +9,7 @@ subtitle: Web Information Systems, TU Delft
 - Our paper *Contrasting search as a learning activity with instructor-designed learning* led by Felipe Moraes with Sindunuraga Rikarno Putra, a Master student in my team, as second author, accepted as a full paper at **CIKM 2018** ([blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/)). 
 - Two demos of my team made an appearance at SIGIR 2018: a collaborative search (on GitHub: [frontend](https://github.com/felipemoraes/searchx-frontend) and [backend](https://github.com/felipemoraes/searchx-backend)) and an A/B testing framework (also on [GitHub](https://marrerom.github.io/APONE/))
 - In February 2018 I started a new project on **algorithmic biases** together with the University of Amsterdam. Exciting times ahead!
-- The Search as Learning Dagstuhl Seminar I co-organized earlier this year was a success! I wrote a [blog post](http://chauff.github.io/2017-09-15-sal/) on some of the challenges we identified.
+- The Search as Learning Dagstuhl Seminar I co-organized in 2017 was a success! I wrote a [blog post](http://chauff.github.io/2017-09-15-sal/) on some of the challenges we identified.
 - I have spent my summer '17 at [Blendle](https://blendle.com/), a Dutch online news platform startup, and tinkered around with their search.
 - I attended ICLR in April '17 and [wrote a blog post about it](http://chauff.github.io/2017-04-25-iclr2017/).
 
