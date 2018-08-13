@@ -23,6 +23,12 @@ Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff.
 *Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
 [2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vSCso841MXJDbVdz9hClhvkwkMTUvIA6bDutZkzqWKHg-4fbsA5J34GvHofZjcr2X7MY2se-iLXi5Vq/pub?start=false&loop=false&delayms=3000)
 
+<img src="../img/conference-paper.png" height="20px"> 
+Yue Zhao, Tarmo Robal, Christoph Lofi, Claudia Hauff. *Can I have a Mooc2Go, please? On The Viability of Mobile vs. Stationary Learning*, accepted at [ECTEL 2018](http://www.ec-tel.eu/index.php?id=791), 2018.
+
+<img src="../img/conference-paper.png" height="20px"> 
+Daniel Davis, Vasileios Triglianos, Claudia Hauff and Geert-Jan Houben. *SRLx: A Personalized Learner Interface for MOOCs*, accepted at [ECTEL 2018](http://www.ec-tel.eu/index.php?id=791), 2018.
+
 <img src="../img/journal-article.png" height="20px">
 Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [[PDF Preprint&#8594;]](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
 
