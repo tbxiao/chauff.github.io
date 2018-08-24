@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 
 <img src="../img/conference-paper.png" height="20px">
-Felipe Moraes, Sindunuraga Rikarno Putra and Claudia Hauff. *Contrasting search as a learning activity with instructor-designed learning*, accepted at [CIKM 2018](http://www.cikm2018.units.it/). 
+Felipe Moraes, Sindunuraga Rikarno Putra and Claudia Hauff. *Contrasting search as a learning activity with instructor-designed learning*, accepted at [CIKM 2018](http://www.cikm2018.units.it/). [[PDF Preprint&#8594;]](../documents/publications/CIKM2018-Moraes.pdf)
 
 
 <img src="../img/workshop-paper.png" height="20px">
