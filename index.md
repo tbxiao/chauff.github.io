@@ -5,7 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- If you are interested in a **PhD position in information retrieval and related areas** (NLP, data science) please get in touch!
+- If you are interested in a **PhD or Postdoc position in information retrieval and related areas** (NLP, data science) please get in touch!
 - Our paper *Contrasting search as a learning activity with instructor-designed learning* led by Felipe Moraes with Sindunuraga Rikarno Putra, a Master student in my team, as second author, accepted as a full paper at **CIKM 2018** ([blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/)). 
 - Two demos of my team made an appearance at SIGIR 2018: a collaborative search (on GitHub: [frontend](https://github.com/felipemoraes/searchx-frontend) and [backend](https://github.com/felipemoraes/searchx-backend)) and an A/B testing framework (also on [GitHub](https://marrerom.github.io/APONE/))
 - In February 2018 I started a new project on **algorithmic biases** together with the University of Amsterdam. Exciting times ahead!
