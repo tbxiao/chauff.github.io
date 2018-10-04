@@ -77,7 +77,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 
 ## Grants
-- NWO Aspasia grant (**50,000€**) as a top-up of my NWO VIDI project, September 2018;
+- NWO Aspasia grant (**100,000€**) as a top-up of my NWO VIDI (50K for my research, 50K for diversity measures in the faculty), September 2018;
 - [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData (**325,000€**) awarded together with 2 co-PIS. A two-year Postdoc position will be funded within a work package that considers fairness in news recommenders.
 - NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
 - [NWO TOP grant](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/top-grants/top-grants-physical-sciences/index.html) (**226,000€**) to conduct "innovative or high-risk scientific research that addresses questions of high quality and urgency;" specifically [I will push the boundaries of large-scale collaborative search](http://chauff.github.io/2016-11-27-lacrosse/), November 2016 (personal grant, 23% acceptance rate)
