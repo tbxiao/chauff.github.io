@@ -5,6 +5,11 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html).
 
+## 2019
+
+<img src="../img/conference-paper.png" height="20px">
+Dimitrios Bountouridis, Jaron Harambam, Mykolah Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html). 
+
 ## 2018
 
 <img src="../img/conference-paper.png" height="20px">
