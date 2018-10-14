@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2019
 
 <img src="../img/conference-paper.png" height="20px">
-Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html). 
+Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the 2nd [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html) (ACM FAT*). 
 
 ## 2018
 
