@@ -84,11 +84,12 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />
   
-  
+  <!-- Twitter tags -->
   {% if page.thumbnail %}
     <meta property="og:image" content="{{page.thumbnail}}" />
+    <meta property="twitter:card" content="summary" />
     <meta property="twitter:image" content="https://chauff.github.io{{page.thumbnail}}" /> 
-    <meta property="twitter:description" content="https://chauff.github.io{{page.description}}" />
+    <meta property="twitter:title" content="https://chauff.github.io{{page.title}}" />
   {% else %}
     <meta property="og:image" content="">
   {% endif %}
