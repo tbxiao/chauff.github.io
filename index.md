@@ -65,13 +65,16 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Current and past members of my lab
-- [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
+- Arthur Barbosa Câmara (PhD student, starting 11/2018)
+- Gustavo Penha (PhD student, starting 11/2018)
 - [Guanliang Chen](https://angusglchen.github.io/) (PhD student, ongoing)
 - [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, ongoing)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - [Dan Davis](https://dan7davis.github.io/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
-- [Monica Marrero](http://www.wis.ewi.tudelft.nl/marrero/) (Research engineer, ongoing)
+
+- [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
+- Monica Marrero (Research engineer, 2017-18)
 
 
 ## Grants
