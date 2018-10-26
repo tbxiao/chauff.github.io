@@ -64,7 +64,7 @@ Office: Van Mourik Broekmanweg 6, East Wing 04.60
 Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
-## Current and past members of my lab
+## Current members of my lab
 - Arthur Barbosa Câmara (PhD student, starting 11/2018)
 - Gustavo Penha (PhD student, starting 11/2018)
 - [Guanliang Chen](https://angusglchen.github.io/) (PhD student, ongoing)
@@ -73,6 +73,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [Dan Davis](https://dan7davis.github.io/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
 
+## Past lab members
 - [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
 - Monica Marrero (Research engineer, 2017-18)
 
