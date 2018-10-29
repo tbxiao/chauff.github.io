@@ -77,7 +77,8 @@ in the book.
 
 #### Web Technology Transcripts, Demo code, etc.
 
-In the 2018/19 edition, we have roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all in a GitHub repository: https://github.com/chauff/Web-Teaching.
+In the 2018/19 edition, we have roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all in a GitHub repository: [https://github.com/chauff/Web-Teaching](https://github.com/chauff/Web-Teaching).
+
 Feel free to use the materials (with acknowledgement)!
 
 #### Web Technology Slides - 2017/18 Edition  
