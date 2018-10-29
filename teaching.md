@@ -75,7 +75,12 @@ before the start of this course). To level the playing field for the more than 3
 book, which introduces the modern Web stack in an accessible and practical manner. The lectures build on the material introduced
 in the book.
 
-#### Web Programming Slides - 2017/18 Edition  
+#### Web Technology Transcripts, Demo code, etc.
+
+In the 2018/19 edition, we have roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all in a GitHub repository: https://github.com/chauff/Web-Teaching
+Feel free to use the materials (with acknowledgement)!
+
+#### Web Technology Slides - 2017/18 Edition  
 - HTTP: slide decks [1](../documents/webdb-2017-18/web-http.pdf) and [2](../documents/webdb-2017-18/web-http-continued.pdf)
 - [HTML and Web app design](../documents/webdb-2017-18/web-html5.pdf)
 - [Client-side JavaScript](../documents/webdb-2017-18/web-javascript.pdf)
