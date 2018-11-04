@@ -85,11 +85,14 @@
   <meta property="og:type" content="website" />
   
   <!-- Twitter tags -->
-  {% if page.thumbnail %}
-    <meta property="og:image" content="{{page.thumbnail}}" />
     <meta property="twitter:card" content="summary" />
     <meta property="twitter:image" content="https://chauff.github.io{{page.thumbnail}}" /> 
     <meta property="twitter:title" content="{{page.title}}" />
+    <meta property="og:description" content="{{page.description}}" />
+    <meta name="twitter:site" content="@charlotteHase" />
+
+  {% if page.thumbnail %}
+    <meta property="og:image" content="{{page.thumbnail}}" />
   {% else %}
     <meta property="og:image" content="">
   {% endif %}
