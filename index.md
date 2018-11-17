@@ -5,7 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- Together with a number of colleagues, we have set up a monthly [Delft AI meetup group](https://www.meetup.com/Delft-AI-Meetup/). Join it if you are a local!
+- Three colleagues and I have set up a monthly [Delft AI meetup group](https://www.meetup.com/Delft-AI-Meetup/). Join it if you are a local!
 - [Blog post](https://chauff.github.io/2018-11-04-emnlp/) on EMNLP 2018 is up!
 - As of October 2018 I have finally created [extensive lectures materials](https://github.com/chauff/Web-Teaching) (assignments, transcripts, demo applications) for my first year BSc Computer Science & Engineering web technology lectures. 
 - If you are interested in a **PhD or Postdoc position in information retrieval and related areas** (NLP, data science) please get in touch!
