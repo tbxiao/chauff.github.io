@@ -93,6 +93,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Program Co-Chair for CIKM 2020
 - Invited speaker at the *Israeli Learning Analytics Symposium* (March 2019)
 - Tutorial chair at ICTIR 2019
+- Workshop co-chair at SIGIR 2019
+- [Delft AI meetup co-organizer](https://www.meetup.com/Delft-AI-Meetup/) (active since November 2018)
 - Tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
 - Short paper co-chair at [ECIR 2019](http://ecir2019.org/)
 - Invited keynote at CORIA, the French chapter of IR conferences (May 2018) ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/pub?start=false&loop=false&delayms=3000#slide=id.g1eacb904ba_0_0))
