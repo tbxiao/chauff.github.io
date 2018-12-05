@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2019
 
+<img src="../img/demo-paper.png" height="20px">
+Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/).
+
 <img src="../img/conference-paper.png" height="20px">
 Daan Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). 
 
