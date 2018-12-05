@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2019
 
 <img src="../img/conference-paper.png" height="20px">
+Daan Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). 
+
+<img src="../img/conference-paper.png" height="20px">
 Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the [2nd ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html). [[PDF Preprint&#8594;]](../documents/publications/FAT2019-Bountouridis.pdf)
 
 ## 2018
