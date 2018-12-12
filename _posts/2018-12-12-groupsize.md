@@ -55,3 +55,33 @@ when scaling up group sizes from two to six collaborators. Our results
 indicate that a further scaling up of group sizes, found to be statistically
 significant, is feasible with existing collaborative search features and can
 potentially lead to new research avenues in the collaborative search space.
+
+## Our study
+
+We investigated three search conditions, with variant levels of collaborative features switched on:
+
+- **S-Single**: Independent search with individual bookmarks and individual query history (no awareness, no division of labour).
+- **S-UI-Coll**: S-Single + Shared saved documents, shared query history and collapsing of saved and excluded documents in the SERP (awareness, interface-level division of labour).
+- **S-UIAlg-Coll**: S-UI-Coll + Shared relevance feedback (awareness, interface-level division of labour and system-level sharing of knowledge)
+
+We used Aquaint as our corpus and selected three of the most difficult topics (=lowest recall achieved by automated search systems among all Aquaint topics): *airport security*, *piracy* and *tax evasion indicted*. Each crowd-worker (we used Prolific as our worker source) moved through the following workflow:
+
+<img src="https://chauff.github.io/img/irj2019-flow.png" width="800px">
+
+The hardest part turned out to be to get sufficiently many crowd-workers into a single experiment. Our goal was to collect data on four group sizes: 1, 2, 4 and 6. Since we are looking at synchronous collaborative searh we needed our crowd-workers to wait in a virtual waiting room for some time to allow sufficiently many other workers to join the experiment. We added a game of snake to make it more appealing. After a maximum waiting time we started the experiment anyway - with however many workers were currently in the waiting room. We synced the movement of the group of workers through the three search tasks - after 10 minutes on the task, the workers that searched together were moved to the next search task.
+
+## Findings
+
+The major findings of the work are aggregated in these nine plots:
+
+<img src="https://chauff.github.io/img/irj2019-recall.png" width="800px">
+
+Observations:
+- For none of the topics, search variants and group size combination is the reported recall greater than 0.4, indicating the difficulty of the topics and the potential benefit an increasing collaborator pool could bring about.
+- In all cases, a larger group size leads to a larger recall level. 
+- We did *not* observe a *synergy effect*: pairs of collaborators were not more effective than two independent searchers whose results were aggregated (first plot column).
+- The collaboration benefits do not diminish over time, they remain relatively constant and are not limited to the early minutes of the search session.
+
+## Preprint
+
+Coming soon.
