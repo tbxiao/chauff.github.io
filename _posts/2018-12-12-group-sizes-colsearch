@@ -5,7 +5,7 @@ thumbnail: "/img/og_irj.png"
 ---
 
 While today's Web search engines are designed for single-user search, over the years research efforts have shown that 
-complex information needs|which are explorative, open-ended and multi-faceted|can be answered more
+complex information needs - which are explorative, open-ended and multi-faceted - can be answered more
 efficiently and effectively when searching in collaboration. 
 
 **Collaborative search** (and sensemaking) research has investigated techniques, algorithms and interface affordances to 
@@ -39,18 +39,18 @@ a fixed set of search tasks is the most popular.
 
 ## Our contributions
 
-Through a **large-scale user experiment** (300 participants) we investigated to what extent prior simulation findings
-on variable group sizes in collaborative search carry over to the real world. In the work we made a number of contributions:
+Through a **large-scale user experiment** (>300 participants) we investigated to what extent prior simulation findings
+on variable group sizes in collaborative search carry over to the real world. We made a number of contributions:
 
-- We extended [SearchX](https://github.com/felipemoraes/searchx), our synchronous collaborative search framework with 
+- First of all, we extended [SearchX](https://github.com/felipemoraes/searchx), our synchronous collaborative search framework with 
 algorithmic mediation components as well as features enabling efficient use of SearchX for crowdsourcing studies, 
 that we successfully deployed in a crowd-sourcing setup with hundreds of crowd-workers and different
 levels of user and task synchronisation.
-- We find most prior simulation-based results on the impact of group size
-on behaviour and search effectiveness to not hold in our user study with
-several hundred crowd-workers.
+- We found most prior simulation-based results on the impact of group size
+on behaviour and search effectiveness **to not hold** in our user study with
+several hundred *crowd-workers*.
 - Importantly, in our study - conducted across three difficult recall-oriented
-search topics - we do not observe diminishing returns (measured in recall)
+search topics - **we do not observe diminishing returns** (measured in recall)
 when scaling up group sizes from two to six collaborators. Our results
 indicate that a further scaling up of group sizes, found to be statistically
 significant, is feasible with existing collaborative search features and can
