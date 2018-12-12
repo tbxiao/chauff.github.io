@@ -9,7 +9,7 @@ complex information needs - which are explorative, open-ended and multi-faceted 
 efficiently and effectively when searching in collaboration. 
 
 **Collaborative search** (and sensemaking) research has investigated techniques, algorithms and interface affordances to 
-gain insights and improve the collaborative search process. It is not hard to imagine that the size of the group collaborating on
+gain insights and improve the collaborative search process. It is not hard to imagine that the **size of the group** collaborating on
 a search task significantly influences the group's behaviour and search effectiveness.
 
 However, a common denominator across almost all existing studies is a **fixed** group size - usually either pairs, triads or in a 
@@ -31,7 +31,6 @@ we took aim at this research gap and explored the following question: **What is 
 size on collaborative search effectiveness?** 
 
 First, we categorized previous research in a neat table:
-
 <img src="https://chauff.github.io/img/irj2019-priorworks.png" width="800px">
 
 Evidently, user studies with collaborating pairs are the most popular. Few studies work with self-selected search tasks, the setup with
@@ -43,22 +42,20 @@ Through a **large-scale user experiment** (>300 participants) we investigated to
 on variable group sizes in collaborative search carry over to the real world. We made a number of contributions:
 
 - First of all, we extended [SearchX](https://github.com/felipemoraes/searchx), our synchronous collaborative search framework with 
-algorithmic mediation components as well as features enabling efficient use of SearchX for crowdsourcing studies, 
+**algorithmic mediation components** as well as features enabling efficient use of SearchX for crowdsourcing studies, 
 that we successfully deployed in a crowd-sourcing setup with hundreds of crowd-workers and different
 levels of user and task synchronisation.
 - We found most prior simulation-based results on the impact of group size
-on behaviour and search effectiveness **to not hold** in our user study with
-several hundred *crowd-workers*.
+on behaviour and search effectiveness **to not hold** in our user study.
 - Importantly, in our study - conducted across three difficult recall-oriented
 search topics - **we do not observe diminishing returns** (measured in recall)
 when scaling up group sizes from two to six collaborators. Our results
-indicate that a further scaling up of group sizes, found to be statistically
-significant, is feasible with existing collaborative search features and can
+indicate that a further scaling up of group sizes is feasible with existing collaborative search features and can
 potentially lead to new research avenues in the collaborative search space.
 
 ## Our study
 
-We investigated three search conditions, with variant levels of collaborative features switched on:
+We investigated three search conditions, with various levels of collaborative features switched on:
 
 - **S-Single**: Independent search with individual bookmarks and individual query history (no awareness, no division of labour).
 - **S-UI-Coll**: S-Single + Shared saved documents, shared query history and collapsing of saved and excluded documents in the SERP (awareness, interface-level division of labour).
@@ -68,7 +65,7 @@ We used Aquaint as our corpus and selected three of the most difficult topics (=
 
 <img src="https://chauff.github.io/img/irj2019-flow.png" width="800px">
 
-The hardest part turned out to be to get sufficiently many crowd-workers into a single experiment. Our goal was to collect data on four group sizes: 1, 2, 4 and 6. Since we are looking at synchronous collaborative searh we needed our crowd-workers to wait in a virtual waiting room for some time to allow sufficiently many other workers to join the experiment. We added a game of snake to make it more appealing. After a maximum waiting time we started the experiment anyway - with however many workers were currently in the waiting room. We synced the movement of the group of workers through the three search tasks - after 10 minutes on the task, the workers that searched together were moved to the next search task.
+The hardest part turned out to be to get sufficiently many crowd-workers into a single experiment. Our goal was to collect data on four group sizes: 1, 2, 4 and 6. Since we are looking at synchronous collaborative search we needed our crowd-workers to wait in a virtual waiting room for some time to allow sufficiently many other workers to join the experiment. We added a game of snake to make it more appealing. After a maximum waiting time we started the experiment anyway - with however many workers were currently in the waiting room. We synced the movement of the group of workers through the three search tasks - after 10 minutes on the task, the workers that searched together were moved to the next search task.
 
 ## Findings
 
@@ -76,17 +73,17 @@ The major findings of the work are aggregated in nine plots (since in practice w
 
 <img src="https://chauff.github.io/img/irj2019-recall.png" width="800px">
 
-Observations:
+The four main observations are the following:
 - For none of the topics, search variants and group size combination is the reported recall greater than 0.4, indicating the difficulty of the topics and the potential benefit an increasing collaborator pool could bring about.
-- In all cases, a larger group size leads to a larger recall level. 
+- A larger group size leads to a larger recall level. 
 - We did *not* observe a *synergy effect*: pairs of collaborators were not more effective than two independent searchers whose results were aggregated (first plot column).
-- The collaboration benefits do not diminish over time, they remain relatively constant and are not limited to the early minutes of the search session.
+- The collaboration benefits do **not diminish** over time, they remain relatively constant and are not limited to the early minutes of the search session.
 
 ## Where to go from here
 
-Ideally, we continue scaling up the group size, in order to find the point of diminishing returns. However, this will not be possible in a crowd-sourcing setup, as it took a lot of sweat and programming to enable get six crowd-workers who roughly star the task at the same time in sync through a throughout a thirty minute period. Any further studies in this direction have to be conducted in practical settings where we naturally have many participants working together (...sounds like something we ca do in a MOOC).
+Ideally, we continue scaling up the group size, in order to find the point of diminishing returns. However, this will not be possible in a crowd-sourcing setup, as it took a lot of sweat and programming to enable six crowd-workers who roughly start the task at the same time to remainn in sync throughout a thirty minute period. Any further studies in this direction have to be conducted in practical settings where we naturally have many participants working together (...sounds like something we ca do in a MOOC).
 
-Algorithmic mediatio is another direction we will pursue further; there is not a lot of research on this issue, as it is hard to get right and also hard to measure the effects in actual user studies. However, with the recent advances in all kinds of fields that happen to have access to a lot of data (*cough*), we will continue in this direction as well.
+Algorithmic mediation is another direction we will pursue further; there is not a lot of research on this issue, as it is hard to get right and also hard to measure the effects in actual user studies. However, with the recent advances in all kinds of fields that happen to have access to a lot of data, we will continue in this direction as well.
 
 ## Preprint
 
