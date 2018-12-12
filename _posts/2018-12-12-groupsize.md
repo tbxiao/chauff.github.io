@@ -82,6 +82,12 @@ Observations:
 - We did *not* observe a *synergy effect*: pairs of collaborators were not more effective than two independent searchers whose results were aggregated (first plot column).
 - The collaboration benefits do not diminish over time, they remain relatively constant and are not limited to the early minutes of the search session.
 
+## Where to go from here
+
+Ideally, we continue scaling up the group size, in order to find the point of diminishing returns. However, this will not be possible in a crowd-sourcing setup, as it took a lot of sweat and programming to enable get six crowd-workers who roughly star the task at the same time in sync through a throughout a thirty minute period. Any further studies in this direction have to be conducted in practical settings where we naturally have many participants working together (...sounds like something we ca do in a MOOC).
+
+Algorithmic mediatio is another direction we will pursue further; there is not a lot of research on this issue, as it is hard to get right and also hard to measure the effects in actual user studies. However, with the recent advances in all kinds of fields that happen to have access to a lot of data (*cough*), we will continue in this direction as well.
+
 ## Preprint
 
 Coming soon.
