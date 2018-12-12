@@ -72,7 +72,7 @@ The hardest part turned out to be to get sufficiently many crowd-workers into a 
 
 ## Findings
 
-The major findings of the work are aggregated in these nine plots (since in practice we ended up with group sizes of 3 and 5 as well, we considered groups of 3&4 as well as groups of 5&6 workers as one group size):
+The major findings of the work are aggregated in nine plots (since in practice we ended up with group sizes of 3 and 5 as well, we considered groups of 3&4 as well as groups of 5&6 workers as one group size). Here, we plot the average group recall for each topic and search variant computed in **two-minute time intervals**:
 
 <img src="https://chauff.github.io/img/irj2019-recall.png" width="800px">
 
