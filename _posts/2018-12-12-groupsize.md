@@ -16,7 +16,7 @@ However, a common denominator across almost all existing studies is a **fixed** 
 few cases four users collaborating. Investigations into larger group sizes and the impact of group size dynamics on users' 
 behaviour and search metrics have so far rarely been considered - and when, then only in a simulation setup. 
 
-In our recently accepted Information Retrieval journal article (published some time in 2019):
+In our recently accepted Information Retrieval journal article (published some time in 2019, the preprint can be viewed [here](../documents/publications/IRJ2019-Moraes.pdf)):
 
 ```bibtex
 @article{IRJ2019ColSearchGroupSizes,
@@ -84,7 +84,3 @@ The four main observations are the following:
 Ideally, we continue scaling up the group size, in order to find the point of diminishing returns. However, this will not be possible in a crowd-sourcing setup, as it took a lot of sweat and programming to enable six crowd-workers who roughly start the task at the same time to remainn in sync throughout a thirty minute period. Any further studies in this direction have to be conducted in practical settings where we naturally have many participants working together (...sounds like something we ca do in a MOOC).
 
 Algorithmic mediation is another direction we will pursue further; there is not a lot of research on this issue, as it is hard to get right and also hard to measure the effects in actual user studies. However, with the recent advances in all kinds of fields that happen to have access to a lot of data, we will continue in this direction as well.
-
-## Preprint
-
-Coming soon.
