@@ -16,10 +16,6 @@ Tianbai Xiao, Kun Xu, and Qingdong Cai, "A unified gas-kinetic scheme for multis
 
 ## 2018
 
-<img src="../img/conference-paper.png" height="20px">
-Dan Davis, Claudia Hauff and Geert-Jan Houben. *Evaluating Crowdworkers as a Proxy for Online Learners in
-Video-Based Learning Contexts*, accepted at [CSCW 2018](http://cscw.acm.org/2018/). [[PDF Preprint&#8594;]](../documents/publications/CSCW2018-Davis.pdf)
-
 <img src="../img/journal-article.png" height="20px">
 Tianbai Xiao, Kun Xu, Qingdong Cai, and Tiezheng Qian. An investigation of non-equilibrium heat transport in a gas system under external force field. International Journal of Heat and Mass Transfer, 126: 362-379, 2018. [[PDF]](../documents/publications/xiao2018-investigation.pdf)
 
