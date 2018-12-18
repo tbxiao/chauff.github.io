@@ -38,7 +38,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Tianbai Xiao
-  email: "tianbaixiao[at]gmail.com"
+  email: "tianbaixiao@gmail.com"
   github: vavrines    # eg. daattali
   twitter: vavrines   # eg. daattali
   og_image: "/img/og_claudia.png"
