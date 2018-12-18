@@ -28,7 +28,7 @@ avatar: "/img/xiao.jpg"
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   Publications: "publications"
   Vitae: "vitae" #
  
