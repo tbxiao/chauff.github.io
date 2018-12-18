@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Tianbai Xiao
-subtitle: Web Information Systems, TU Delft
+subtitle: College of Engineering, Peking University
 ---
 
 ## News
@@ -11,26 +11,6 @@ subtitle: Web Information Systems, TU Delft
 - If you are interested in a **PhD or Postdoc position in information retrieval and related areas** (NLP, data science) please get in touch!
 - Our paper *Contrasting search as a learning activity with instructor-designed learning* led by Felipe Moraes with Sindunuraga Rikarno Putra, a Master student in my team, as second author, accepted as a full paper at **CIKM 2018** ([blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/)). 
 - Two demos of my team made an appearance at SIGIR 2018: a collaborative search (on GitHub: [frontend](https://github.com/felipemoraes/searchx-frontend) and [backend](https://github.com/felipemoraes/searchx-backend)) and an A/B testing framework (also on [GitHub](https://marrerom.github.io/APONE/))
-
-<p>
- <a class="twitter-timeline"
- href="https://twitter.com/CharlotteHase"
- data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
- <script>
-						!function(d, s, id) {
-							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
-									.test(d.location) ? 'http' : 'https';
-							if (!d.getElementById(id)) {
-								js = d.createElement(s);
-								js.id = id;
-								js.src = p
-										+ "://platform.twitter.com/widgets.js";
-								fjs.parentNode.insertBefore(js, fjs);
-							}
-						}(document, "script", "twitter-wjs");
- </script>
-</p>
 
 ## Briefly
 
@@ -62,7 +42,7 @@ PO Box 5031
 The Netherlands
 
 Office: Van Mourik Broekmanweg 6, East Wing 04.60
-Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
+Email: tianbaixiao@gmail.com
 ```
 
 ## Current members of my lab
