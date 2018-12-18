@@ -30,7 +30,7 @@ navbar-links:
   Blog: "blog"
   Teaching: "teaching"
   Publications: "publications"
-  Datasets: "datasets" #
+  Info: "info" #
  
 # --- Footer options --- #
 
