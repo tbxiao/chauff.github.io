@@ -3,12 +3,12 @@ layout: page
 title: Vitae
 ---
 
-Tianbai XIAO
-State Key Laboratory for Turbulence and Complex Systems 
-Department of Mechanics and Engineering Science
-College of Engineering, Peking University
-Beijing 100871, China
-+86 15650703607 
+*Tianbai XIAO*  
+State Key Laboratory for Turbulence and Complex Systems  
+Department of Mechanics and Engineering Science  
+College of Engineering, Peking University  
+Beijing 100871, China  
++86 15650703607  
 tianbaixiao@gmail.com
 
 ## RESEARCH INTERESTS
