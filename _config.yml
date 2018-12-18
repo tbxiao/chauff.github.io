@@ -30,7 +30,7 @@ navbar-links:
   Blog: "blog"
   Teaching: "teaching"
   Publications: "publications"
-  Vitae: "vitae" #
+  Info: "info" #
  
 # --- Footer options --- #
 
