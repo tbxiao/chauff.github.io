@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Associate Professor
+title:  Tianbai Xiao
 subtitle: Web Information Systems, TU Delft
 ---
 
