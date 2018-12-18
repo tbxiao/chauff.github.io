@@ -17,7 +17,7 @@ baseurl: ""
 title: Home
 
 # Short description of your site
-description: Academic website and blog
+description: Personal website and blog
 
 # --- Navigation bar options --- #
 
@@ -29,8 +29,8 @@ avatar: "/img/xiao.jpg"
 navbar-links:
   Blog: "blog"
   Teaching: "teaching"
-  Datasets: "datasets" #
   Publications: "publications"
+  Datasets: "datasets" #
  
 # --- Footer options --- #
 
