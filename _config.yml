@@ -29,6 +29,7 @@ avatar: "/img/xiao.jpg"
 navbar-links:
   Blog: "blog"
   #Teaching: "teaching"
+  Portfolio: "portfolio"
   Publications: "publications"
   Vitae: "vitae" #
  
