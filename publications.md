@@ -12,6 +12,7 @@ Tianbai Xiao, Kun Xu, and Qingdong Cai. A velocity-space adaptive unified gas ki
 
 ## 2019
 
+<img src="../img/journal-article.png" height="20px">
 Tianbai Xiao, Kun Xu, and Qingdong Cai, "A unified gas-kinetic scheme for multiscale and multicomponent flow transport,” accepted by Applied Mathematics and Mechanics (2019). 
 
 ## 2018
