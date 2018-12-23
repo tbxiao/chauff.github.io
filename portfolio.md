@@ -5,11 +5,13 @@ title: Portfolio
 
 ## Notes
 
-A simple analysis between kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
+Preliminary understanding of Uncertainty Quantification [[PDF]](../documents//understand-uq.pdf)
+
+A simple analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
 
 A set of Fortran90 codes for numerical calculation by [[John Burkardt]](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
 
-An Interview with Japanese Photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
+An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
 
 ## Paintings
 
