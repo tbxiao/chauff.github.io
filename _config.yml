@@ -27,12 +27,13 @@ avatar: "/img/xiao.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  
   #Teaching: "teaching"
-  Portfolio: "portfolio"
   Publications: "publications"
   Vitae: "vitae" #
- 
+  Blog: "blog"
+  Portfolio: "portfolio"
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
