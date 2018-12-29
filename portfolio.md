@@ -15,7 +15,7 @@ A set of Fortran90 codes for numerical calculation by [[John Burkardt]](http://p
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
 
-[async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto
+[async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
 ``Because we don't know when we will die, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number really.   
 How many more times will you remember a certain afternoon of your childhood, an afternoon that is so deeply a part of your being that you can't even conceive of your life without it?  
 Perhaps four, five times more, perhaps not even that. 
