@@ -13,7 +13,10 @@ A set of Fortran90 codes for numerical calculation by [[John Burkardt]](http://p
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
 
-## Paintings
+## Views
+
+[Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji)  
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fynqtyvxh3j317i0u0e21.jpg)
 
 A watercolor practice  
 ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyc8oocph0j30u00u04qq.jpg)
