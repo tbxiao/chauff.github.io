@@ -9,13 +9,15 @@ Preliminary understanding of uncertainty quantification [[PDF]](../documents//un
 
 A simple analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
 
+Antony Jameson: [computational fluid dynamics past present and future](../documents//jameson-cfd.pdf)
+
 Fortran90 library for numerical calculation by [[John Burkardt]](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
 
 ## Arts
 
 Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
 
-[Rinko Kawauchi](http://rinkokawauchi.com/en/)
+Rinko Kawauchi's [homepage](http://rinkokawauchi.com/en/)
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
 
