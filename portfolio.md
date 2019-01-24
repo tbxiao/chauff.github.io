@@ -5,6 +5,8 @@ title: Portfolio
 
 ## Notes
 
+> Freud: Love and work..work and love..what else is there really?
+
 Preliminary understanding of uncertainty quantification [[PDF]](../documents//understand-uq.pdf)
 
 A simple analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
