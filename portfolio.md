@@ -15,23 +15,17 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 ## Softwares
 
-[PyFR](http://www.pyfr.org)
-
-[Clawpack](http://www.clawpack.org)
-
-[SU2](https://su2code.github.io)
-
-[FiPy](https://github.com/usnistgov/fipy)
+Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://github.com/usnistgov/fipy)
 
 Fortran90 library for numerical calculation by [[John Burkardt]](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
 
 ## Arts
 
 [async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
-``Because we don't know when we will die, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number really.   
+>Because we don't know when we will die, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number really.   
 How many more times will you remember a certain afternoon of your childhood, an afternoon that is so deeply a part of your being that you can't even conceive of your life without it?  
 Perhaps four, five times more, perhaps not even that. 
-How many more times will you watch the full moon rise? Perhaps 20. And yet it all seems limitless. ``
+How many more times will you watch the full moon rise? Perhaps 20. And yet it all seems limitless.
 
 Rinko Kawauchi's [homepage](http://rinkokawauchi.com/en/)
 
