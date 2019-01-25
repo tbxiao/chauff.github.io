@@ -3,9 +3,9 @@ layout: page
 title: Portfolio
 ---
 
-## Notes
-
 *Freud: Love and work..work and love..what else is there really?*
+
+## Notes
 
 Preliminary understanding of uncertainty quantification [[PDF]](../documents//understand-uq.pdf)
 
