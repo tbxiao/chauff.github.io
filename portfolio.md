@@ -32,6 +32,8 @@ Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplig
 [Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji)  
 ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fynqtyvxh3j317i0u0e21.jpg)
 
+[ハルヒ写真](https://mp.weixin.qq.com/s/xtO2XZOpszmFdopXpdH_yA)
+
 Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
