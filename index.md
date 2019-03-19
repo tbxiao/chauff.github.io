@@ -4,7 +4,9 @@ title:  Tianbai Xiao
 subtitle: College of Engineering, Peking University
 ---
 
-*Freud: Love and work..work and love..what else is there really?*
+![](https://xiaotianbai.files.wordpress.com/2018/11/572b94f4-69bb-48bb-b847-fbab355e47a9.jpg)
+
+* “清歌唱宛转，春雨过铃鹿。”—— 夏目漱石 *
 
 A Ph.D. candidate in Fluid Mechanics,  Department of Mechanics and Engineering Science, Peking University,
 and a Research Assistant in Department of Mathematics, Hong Kong University of Science and Technology.
