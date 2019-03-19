@@ -15,7 +15,9 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 ## Softwares
 
-Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://github.com/usnistgov/fipy)
+Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://www.ctcms.nist.gov/fipy/)
+
+Manual and source codes of unified gas-kinetic scheme (UGKS) [[Link]](https://github.com/vavrines/UGKS)
 
 Fortran90 library for numerical calculation by [[John Burkardt]](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
 
