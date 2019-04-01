@@ -1,7 +1,4 @@
----
-layout: post
-title: Common commands in Linux
----
+
 
 System
 
