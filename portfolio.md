@@ -42,6 +42,8 @@ Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplig
 
 [彩色是晴天，黑白是回忆](https://mp.weixin.qq.com/s/VQB9Z0N1Jwq9XT3SwYE6Yw)
 
+[Taste of Leica](https://mp.weixin.qq.com/s/dRqv2GKwANWBogJdmLGmfg)
+
 Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
