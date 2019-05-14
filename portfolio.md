@@ -19,7 +19,9 @@ Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpac
 
 Manual and source codes of unified gas-kinetic scheme (UGKS) [[Link]](https://github.com/vavrines/UGKS)
 
-Fortran90 library for numerical calculation by [[John Burkardt]](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
+Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), including [Fortran90](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html), [Tecplot](https://people.sc.fsu.edu/~jburkardt/data/tec/tec.html) and so on.
+
+
 
 ## Arts
 
