@@ -4,7 +4,7 @@ title:  Tianbai Xiao
 subtitle: College of Engineering, Peking University
 ---
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g18i9qokdyj30rs0rs4qp.jpg)
+![](../img/sunflower.jpg)
 
 “清歌唱宛转，春雨过铃鹿。”  —— 夏目漱石
 
