@@ -31,10 +31,9 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 Rinko Kawauchi's [homepage](http://rinkokawauchi.com/en/)
 
 Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplight  
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fzgia5bawcj30u011jb29.jpg)
+![](../img/schalcken.jpg)
 
 [Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji)  
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fynqtyvxh3j317i0u0e21.jpg)
 
 [ハルヒ写真](https://mp.weixin.qq.com/s/xtO2XZOpszmFdopXpdH_yA)
 
@@ -44,11 +43,13 @@ Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplig
 
 [彩色是晴天，黑白是回忆](https://mp.weixin.qq.com/s/VQB9Z0N1Jwq9XT3SwYE6Yw)
 
-[Taste of Leica](https://mp.weixin.qq.com/s/dRqv2GKwANWBogJdmLGmfg)
+[徕卡的醍醐味](https://mp.weixin.qq.com/s/dRqv2GKwANWBogJdmLGmfg)
 
-Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
+[相机体系分享](https://mp.weixin.qq.com/s/sHqkYBVWbO8OwHy7QNwpNg)
 
 An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobile-article-detail/?id=36746)
+
+Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
 
 A watercolor practice  
 ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyc8oocph0j30u00u04qq.jpg)
