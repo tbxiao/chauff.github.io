@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-*Freud: Love and work..work and love..what else is there really?*
+*Freud: "Love and work..work and love..what else is there really?"*
 
 ## Notes
 
@@ -19,9 +19,7 @@ Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpac
 
 Manual and source codes of unified gas-kinetic scheme (UGKS) [[Link]](https://github.com/vavrines/UGKS)
 
-Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), including [Fortran90](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html), [Tecplot](https://people.sc.fsu.edu/~jburkardt/data/tec/tec.html) and so on.
-
-
+Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), including [Fortran90](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html), [Tecplot](https://people.sc.fsu.edu/~jburkardt/data/tec/tec.html), etc.
 
 ## Arts
 
@@ -52,4 +50,4 @@ An interview with Japanese photographer Hal [[Link]](http://www.heyshow.com/mobi
 Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018.pdf)
 
 A watercolor practice  
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyc8oocph0j30u00u04qq.jpg)
+![](https://i.loli.net/2019/05/19/5ce0c954129e181640.jpg)
