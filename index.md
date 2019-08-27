@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Tianbai Xiao
-subtitle: Steinbuch Centre for Computing & Department of Mathematics, Karlsruhe Institute of Technology
+subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe Institute of Technology
 ---
 
 ![](../img/sunflower.jpg)
