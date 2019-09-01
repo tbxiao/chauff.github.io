@@ -4,9 +4,7 @@ title:  Tianbai Xiao
 subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe Institute of Technology
 ---
 
-<center>
-    <img src="../img/sunflower.jpg", width="500"/>
-</center>
+![](../img/sunflower.jpg)
 
 “清歌唱宛转，春雨过铃鹿。”  —— 夏目漱石
 
