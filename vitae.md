@@ -36,11 +36,11 @@ Physics of Fluids (PoF Journal) Young Researcher Award, American Institute of Ph
 Principal Doctoral Scholarship, Peking University, Sep. 2017 - Jun. 2018.
 
 ## PARTICIPATING RESEARCH GRANTS
-**National Natural Science Foundation of China **
+**National Natural Science Foundation of China **  
 Participant, No. 11521091, CN\$ 5,250,000, “Mechanism, Mode and Experimental Study of Compressible Turbulence,” Jan. 2016 -Dec. 2018.  
 Participant, No. 91530319, CN\$ 3,100,000, “High-Efficiency Implementation and Validation of Massively Parallel Algorithm for Spacecraft Reentry Problems,” Jan. 2016 -Dec. 2018.
 
-**Hong Kong Research Grant Council **
+**Hong Kong Research Grant Council **  
 Participant, No. 16207715, HK$ 695,854, “A Multi-Scale Gas-Kinetic Method for Plasma Simulations,” Sep. 2016 - Aug. 2018.  
 
 ## ACADEMIC AND ORGANIZING SERVICES
