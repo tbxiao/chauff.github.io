@@ -33,7 +33,7 @@ Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplig
 
 [Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji)  
 
-[Ke Jingteng on his heroine of movie and life](douban.com/group/topic/23504918)
+[Ke Jingteng on his heroine of movie and life](https://www.douban.com/group/topic/23504918)
 
 ## Self
 
