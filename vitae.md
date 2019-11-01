@@ -26,8 +26,6 @@ Research Associate, Department of Mathematics and Steinbuch Centre for Computing
 
 Research Assistant, Department of Mathematics, Hong Kong University of Science and Technology, Apr. 2016 - Jan. 2019.
 
-Teaching Assistant for Advanced Mathematics, Peking University, Sep. 2015 - Jan. 2016.
-
 ## AWARDS AND HONORS
 Young Researcher Innovative Award, Chinese Nuclear Society Computational Physics Branch, Aug. 2018.
 
@@ -50,6 +48,10 @@ Referee for Peer-Reviewed Journals, including *Communications in Computational P
 Symposium Organizer, *The 7th International Symposium on Physics of Fluids*, Guiyang, China, Jun. 12-15, 2017. 
 
 Conference Organizer, *The Chinese Congress of Theoretical and Applied Mechanics*, Beijing, China, Aug. 13-16, 2017. 
+
+## TEACHING
+
+Lecturer, “An Introduction to Kinetic Theory”, Karlsruhe Institute of Technology, Karlsruhe, Germany, Oct. 2019 - Feb. 2020.   
 
 ## MENTORING ACTIVITIES
 

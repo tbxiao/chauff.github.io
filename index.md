@@ -6,6 +6,16 @@ subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe I
 
 ![](../img/sunflower.jpg)
 
+<center class="half">
+    <img src="./img/torii.jpg" width="300"/>
+    <img src="./img/film.jpg" width="300"/>
+</center>
+
+<center class="half">
+    <img src="./img/sunflower.jpg" width="300"/>
+    <img src="./img/shadow.jpg" width="300"/>
+</center>
+
 “清歌唱宛转，春雨过铃鹿。”  —— 夏目漱石
 
 A Research Associate in Steinbuch Centre for Computing and Department of Mathematics at Karlsruhe Institute of Technology.
