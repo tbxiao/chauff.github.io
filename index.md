@@ -4,11 +4,9 @@ title:  Tianbai Xiao
 subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe Institute of Technology
 ---
 
-![](../img/sunflower.jpg)
-
 <center class="half">
     <img src="./img/torii.jpg" width="300"/>
-    <img src="./img/film.jpg" width="300"/>
+    <img src="./img/shrine.jpg" width="300"/>
 </center>
 
 <center class="half">
