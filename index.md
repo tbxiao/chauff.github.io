@@ -5,12 +5,13 @@ subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe I
 ---
 
 <center class="half">
-    <img src="./img/torii.jpg" width="300"/>
-    <img src="./img/shrine.jpg" width="300"/>
+    <img src="./img/film.jpg" width="300"/>
+    <img src="./img/leaf.jpg" width="300"/>
 </center>
 
+
 <center class="half">
-    <img src="./img/sunflower.jpg" width="300"/>
+    <img src="./img/fish.jpg" width="300"/>
     <img src="./img/shadow.jpg" width="300"/>
 </center>
 
