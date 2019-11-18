@@ -21,6 +21,10 @@ Manual and source codes of unified gas-kinetic scheme (UGKS) [[Link]](https://gi
 
 Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), including [Fortran90](http://people.sc.fsu.edu/~jburkardt/f_src/f_src.html), [Tecplot](https://people.sc.fsu.edu/~jburkardt/data/tec/tec.html), etc.
 
+## Widgets
+
+[Evoke Music](evokemusic.ai): generate music automatically from keywords
+
 ## Arts
 
 [async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
