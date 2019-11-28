@@ -15,9 +15,9 @@ subtitle: Steinbuch Centre for Computing & Department of Mathematics Karlsruhe I
     <img src="./img/shadow.jpg" width="300"/>
 </center>
 
-“清歌唱宛转，春雨过铃鹿。”  —— 夏目漱石
+“世界尚幼稚，如浮脂然，如水母然，漂浮不定之时，有物如芦芽萌长，便化为神。” 
 
-A Research Associate in Steinbuch Centre for Computing and Department of Mathematics at Karlsruhe Institute of Technology.
+Research Associate in Steinbuch Centre for Computing and Department of Mathematics at Karlsruhe Institute of Technology.
 I received my doctorate in Fluid Mechanics from Peking University,
 and I worked as a Research Assistant in Department of Mathematics at Hong Kong University of Science and Technology.
 
