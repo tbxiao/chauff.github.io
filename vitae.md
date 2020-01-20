@@ -27,6 +27,8 @@ Research Associate, Department of Mathematics and Steinbuch Centre for Computing
 Research Assistant, Department of Mathematics, Hong Kong University of Science and Technology, Apr. 2016 - Jan. 2019.
 
 ## AWARDS AND HONORS
+Humboldt Research Fellowship for Postdoctoral Researchers, Alexander von Humboldt Foundation, Apr. 2020 - Mar. 2022.
+
 Young Researcher Innovative Award, Chinese Nuclear Society Computational Physics Branch, Aug. 2018.
 
 Physics of Fluids (PoF Journal) Young Researcher Award, American Institute of Physics, Jun. 2017.
