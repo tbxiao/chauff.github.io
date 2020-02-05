@@ -13,7 +13,7 @@ A simple analysis between the Kolmogorov scale and molecular mean free path [[PD
 
 Antony Jameson: [computational fluid dynamics past present and future](../documents//jameson-cfd.pdf)
 
-Mathematical symbols in Latex (../documents//latex-mfp.pdf)
+Mathematical symbols in Latex [[PDF]](../documents//latex-math.pdf)
 
 The world is that unreal
 ![](../img/kobe-jersey.jpg)
