@@ -15,9 +15,6 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 Mathematical symbols in Latex [[PDF]](../documents//latex-math.pdf)
 
-The world is that unreal
-![](../img/kobe-jersey.jpg)
-
 ## Softwares
 
 Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://www.ctcms.nist.gov/fipy/)
@@ -31,6 +28,8 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 [Evoke Music](evokemusic.ai): generate music automatically from keywords
 
 ## Arts
+
+100 years of [Bauhaus](https://www.bauhaus100.com)
 
 [async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
 ``Because we don't know when we will die, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number really. How many more times will you remember a certain afternoon of your childhood, an afternoon that is so deeply a part of your being that you can't even conceive of your life without it? Perhaps four, five times more, perhaps not even that. How many more times will you watch the full moon rise? Perhaps 20. And yet it all seems limitless.``
@@ -64,3 +63,6 @@ Handmade photobook for group exhibition in 2018 [[PDF]](../documents//album-2018
 
 A watercolor practice  
 ![](https://i.loli.net/2019/05/19/5ce0c954129e181640.jpg)
+
+The world is that unreal
+![](../img/kobe-jersey.jpg)
