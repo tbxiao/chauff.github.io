@@ -72,7 +72,7 @@ The 2nd Symposium on Modeling and Numerical Methods for Non-Equilibrium Transpor
 “A Unified Modeling and Simulation for Fully and Partially Ionized Plasmas”, The 3rd Symposium on Modeling and Numerical Methods for Non-Equilibrium Transport Problems, Beijing, China, Aug. 20-22, 2018.
 
 ## PUBLISHED AND PERSPECTIVE PAPERS
-**Preprints**
+**Preprints**  
 <img src="../img/demo-paper.png" height="20px">
 Tianbai Xiao and Martin Frank. A stochastic kinetic scheme for multi-scale flow transport with uncertainty quantification. arXiv:2002.00277v1 [physics.comp-ph] 1 Feb 2020. [[PDF]](../documents/publications/2002.00277.pdf)
 
