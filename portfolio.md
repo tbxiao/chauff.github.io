@@ -31,6 +31,8 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 
 100 years of [Bauhaus](https://www.bauhaus100.com)
 
+日本人心中的牧溪 [[Link]](https://kknews.cc/culture/4xolkag.html?__cf_chl_jschl_tk__=1610e569409ebe1e9a653a4cc5247d87e39b7940-1582063102-0-AYWQmPz7TH3MQ7H9xq4Q-4EfwxPAM3mpPSAWeYKWBsaOioikFfcPYk-bsHKH7RvQp4qbNtI9iGOEm_4wwMdnX3iZUEmzyjEPrTiPauoc3PWxCv2kD8g57DKzlsTxxCfBaajOOQjYye9HVw-HGK8mKy-4VXm3FYyqEu7GjuO55d0xIWs0AAtvqmuSrqCXkEtwIK5impGxZmBZrJTI_D9HGH5PG_OO7MIrkktZ-aRfq6zSnKwFg5o4O_3yKWeMR0evsvf38LPyrg2Wyo4CjIo7gVgp6gMcxhqLMapb34Op6SbX)
+
 [async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
 ``Because we don't know when we will die, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number really. How many more times will you remember a certain afternoon of your childhood, an afternoon that is so deeply a part of your being that you can't even conceive of your life without it? Perhaps four, five times more, perhaps not even that. How many more times will you watch the full moon rise? Perhaps 20. And yet it all seems limitless.``
 
