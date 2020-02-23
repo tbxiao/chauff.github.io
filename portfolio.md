@@ -29,7 +29,7 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 
 [Feed43](https://feed43.com): make your own RSS feeds from web pages
 
-[Intellicode](https://visualstudio.microsoft.com/services/intellicode/): AI assistant for Visual Studio Code incorporated with contextual IntelliSense, argument completion, code formatting, and style rule inference.
+[Intellicode](https://visualstudio.microsoft.com/services/intellicode/): AI assistant for Visual Studio Code incorporated with contextual IntelliSense, argument completion, code formatting, and style rule inference
 
 ## Arts
 
