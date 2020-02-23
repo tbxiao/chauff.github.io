@@ -30,6 +30,8 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 
 [Evoke Music](evokemusic.ai): generate music automatically from keywords
 
+[Feed43](feed43.com): make your own RSS feeds from web pages
+
 ## Arts
 
 100 years of [Bauhaus](https://www.bauhaus100.com)
