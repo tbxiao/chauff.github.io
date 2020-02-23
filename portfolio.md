@@ -15,9 +15,6 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 Mathematical symbols in Latex [[PDF]](../documents//latex-math.pdf)
 
-Karlsruhe: city sketch  
-![](../img/karlsruhe-city.jpg)
-
 ## Softwares
 
 Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://www.ctcms.nist.gov/fipy/)
@@ -28,11 +25,14 @@ Library provided by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/), inclu
 
 ## Widgets
 
-[Evoke Music](evokemusic.ai): generate music automatically from keywords
+[Evoke Music](https://evokemusic.ai): generate music automatically from keywords
 
-[Feed43](feed43.com): make your own RSS feeds from web pages
+[Feed43](https://feed43.com): make your own RSS feeds from web pages
 
 ## Arts
+
+Karlsruhe: city sketch  
+![](../img/karlsruhe-city.jpg)
 
 100 years of [Bauhaus](https://www.bauhaus100.com)
 
