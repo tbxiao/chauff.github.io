@@ -9,7 +9,9 @@ title: Portfolio
 
 Preliminary understanding of uncertainty quantification [[PDF]](../documents//understand-uq.pdf)
 
-A simple analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
+From Boltzmann to Navier-Stokes and Euler [[PDF]](../documents//boltzmann-euler.pdf) (see more with [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/))
+
+Rough analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
 
 Antony Jameson: [computational fluid dynamics past present and future](../documents//jameson-cfd.pdf)
 
