@@ -9,7 +9,7 @@ title: Portfolio
 
 Preliminary understanding of uncertainty quantification [[PDF]](../documents//understand-uq.pdf)
 
-From Boltzmann to Navier-Stokes and Euler [[PDF]](../documents//boltzmann-euler.pdf) (see more with [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/))
+From Boltzmann to Navier-Stokes and Euler [[PDF]](../documents//boltzmann-ns.pdf) (see more with [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/))
 
 Rough analysis between the Kolmogorov scale and molecular mean free path [[PDF]](../documents//kolmogorov-mfp.pdf)
 
