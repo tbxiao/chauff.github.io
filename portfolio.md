@@ -40,6 +40,8 @@ Karlsruhe: city sketch
 
 100 years of [Bauhaus](https://www.bauhaus100.com)
 
+[Villa Savoye and modernism](https://www.dezeen.com/2016/07/31/villa-savoye-le-corbusier-poissy-france-modernist-style-unesco-world-heritage/)
+
 日本人心中的牧溪 [[Link]](https://kknews.cc/culture/4xolkag.html?__cf_chl_jschl_tk__=1610e569409ebe1e9a653a4cc5247d87e39b7940-1582063102-0-AYWQmPz7TH3MQ7H9xq4Q-4EfwxPAM3mpPSAWeYKWBsaOioikFfcPYk-bsHKH7RvQp4qbNtI9iGOEm_4wwMdnX3iZUEmzyjEPrTiPauoc3PWxCv2kD8g57DKzlsTxxCfBaajOOQjYye9HVw-HGK8mKy-4VXm3FYyqEu7GjuO55d0xIWs0AAtvqmuSrqCXkEtwIK5impGxZmBZrJTI_D9HGH5PG_OO7MIrkktZ-aRfq6zSnKwFg5o4O_3yKWeMR0evsvf38LPyrg2Wyo4CjIo7gVgp6gMcxhqLMapb34Op6SbX)
 
 [async](https://open.spotify.com/album/2535QNWIvsIszI8AglJQO4) by Ryuichi Sakamoto  
