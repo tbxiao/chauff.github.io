@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Tianbai Xiao
-subtitle: 和光同尘 | Softens the glare, unifies with the mundane
+subtitle: 和光同塵
 ---
 
 <center class="half">
