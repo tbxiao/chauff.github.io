@@ -17,6 +17,8 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 Mathematical symbols in Latex [[PDF]](../documents//latex-math.pdf)
 
+One picture of Git commands [Link](../img//git.jpg)
+
 ## Softwares
 
 Open source packages: [PyFR](http://www.pyfr.org), [Clawpack](http://www.clawpack.org), [SU2](https://su2code.github.io), [FiPy](https://www.ctcms.nist.gov/fipy/)
