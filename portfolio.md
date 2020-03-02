@@ -17,7 +17,7 @@ Antony Jameson: [computational fluid dynamics past present and future](../docume
 
 Mathematical symbols in Latex [[PDF]](../documents//latex-math.pdf)
 
-All Git commands in one [[picture]](../img//git.jpg)
+All-in-one Git commands [[JPG]](../img//git.jpg)
 
 ## Softwares
 
