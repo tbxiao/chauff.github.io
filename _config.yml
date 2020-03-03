@@ -33,9 +33,6 @@ navbar-links:
   Vitae: "vitae" #
   Blog: "blog"
   Portfolio: "portfolio"
-  Resources:
-    - Beautiful Jekyll: "vitae"
-    - Learn markdown: "portfolio"
 
 # --- Footer options --- #
 
