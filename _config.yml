@@ -33,7 +33,10 @@ navbar-links:
   Vitae: "vitae" #
   Blog: "blog"
   Portfolio: "portfolio"
-
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
