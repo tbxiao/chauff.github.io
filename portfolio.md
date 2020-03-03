@@ -51,6 +51,9 @@ Karlsruhe: city sketch
 
 Rinko Kawauchi's [homepage](http://rinkokawauchi.com/en/)
 
+杨乃文，杨乃文，杨乃文
+![](../img/yangnaiwen.jpg)
+
 Godefridus Schalcken: Young man and woman studying a statue of Venus, by Lamplight  
 ![](../img/schalcken.jpg)
 
