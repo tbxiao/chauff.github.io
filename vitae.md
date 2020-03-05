@@ -45,7 +45,7 @@ Participant, No. 16207715, HK$ 695,854, “A Multi-Scale Gas-Kinetic Method for 
 
 ## ACADEMIC AND ORGANIZING SERVICES
 
-Referee for Peer-Reviewed Journals, including *Communications in Computational Physics*, *Computers & Fluids*, *Acta Mechanica Sinica* and *AIP advances*. 
+Referee for Peer-Reviewed Journals, including *Communications in Computational Physics*, *Computers & Fluids*, *Acta Mechanica Sinica*, *AIP advances* and *SN Applied Sciences*.
 
 Symposium Organizer, *The 7th International Symposium on Physics of Fluids*, Guiyang, China, Jun. 12-15, 2017. 
 
